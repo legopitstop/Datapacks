@@ -14,6 +14,7 @@ adds a vending machine to Minecraft!
 | mc_version         | `1.16.5` |
 | multiplayer_tested | `no`     |
 | has_config         | `no`     |
+| dependency         |[Minecoin](https://www.curseforge.com/minecraft/customization/minecoin-datapack)|
 
 ## LINKS
 - [Download](https://www.curseforge.com/minecraft/customization/vending-machine-datapack)

@@ -14,6 +14,7 @@ This datapack and texture pack adds 9+ charms that will give you buffs.
 | mc_version         | `1.14.4` |
 | multiplayer_tested | `no`     |
 | has_config         | `no`     |
+| dependency         |[LPS Rcore API](https://www.curseforge.com/minecraft/customization/legopitstops-recipe-core-datapack)|
 
 ## LINKS
 - [Download](https://www.curseforge.com/minecraft/customization/charms-1-14-datapack)

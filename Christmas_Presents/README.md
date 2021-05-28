@@ -14,6 +14,7 @@
 | mc_version         | `1.17` |
 | multiplayer_tested | `no`     |
 | has_config         | `no`     |
+| dependency         |[More NBT Tags](https://www.curseforge.com/minecraft/customization/more-nbt-tags-datapack-edition)|
 
 ## LINKS
 - [Download](https://www.curseforge.com/minecraft/customization/christmas-presents-datapack-edition)

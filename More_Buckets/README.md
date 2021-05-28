@@ -14,6 +14,7 @@ Need more buckets? this datapack adds tons of buckets
 | mc_version         | `1.16.5` |
 | multiplayer_tested | `no`     |
 | has_config         | `no`     |
+| dependency         |[LPS Rcore API](https://www.curseforge.com/minecraft/customization/legopitstops-recipe-core-datapack)|
 
 ## LINKS
 - [Download](https://www.curseforge.com/minecraft/customization/more-buckets-datapack)
