@@ -1,0 +1,7 @@
+{
+   "replace": false,
+   "values": [
+       "legopitstop:bossbar_load",
+       "bossbar:main_load"
+   ]
+}

@@ -1,0 +1,22 @@
+# Desc: Sends error if API data is invalid
+#
+# Called By: bossbar:main_load
+
+
+# Error if their is no data inside "bossbar"
+execute unless data storage bossbar:api bossbar[] run tellraw @a [{"text":"Invalid Data!","color":"red"}]
+
+# Error if it is missing display_time
+execute unless data storage bossbar:api parent.display_time unless data storage bossbar:api bossbar[].display_time run tellraw @a [{"translate":"Missing %s key","color":"red","with":[{"text":"display_time","hoverEvent":{"action":"show_text","contents": {"text":"example: {display_time: 100}","color":"gray"}}}]}]
+
+# Error if their is a not supported color
+execute if data storage bossbar:api bossbar[].color unless data storage bossbar:api bossbar[{color:""}] unless data storage bossbar:api bossbar[{color:"blue"}] unless data storage bossbar:api bossbar[{color:"green"}] unless data storage bossbar:api bossbar[{color:"pink"}] unless data storage bossbar:api bossbar[{color:"purple"}] unless data storage bossbar:api bossbar[{color:"red"}] unless data storage bossbar:api bossbar[{color:"white"}] unless data storage bossbar:api bossbar[{color:"yellow"}] run tellraw @a [{"translate":"Unsupported color! excepted values are; \n %s","color":"red","with":[{"text":"blue, green, pink, purple, red, white, yellow","color":"gray"}]}]
+execute if data storage bossbar:api parent.color unless data storage bossbar:api {parent:{color:""}} unless data storage bossbar:api {parent:{color:"blue"}} unless data storage bossbar:api {parent:{color:"green"}} unless data storage bossbar:api {parent:{color:"pink"}} unless data storage bossbar:api {parent:{color:"purple"}} unless data storage bossbar:api {parent:{color:"red"}} unless data storage bossbar:api {parent:{color:"white"}} unless data storage bossbar:api {parent:{color:"yellow"}} run tellraw @a [{"translate":"Unsupported color! excepted values are; \n %s","color":"red","with":[{"text":"blue, green, pink, purple, red, white, yellow","color":"gray"}]}]
+
+# Error if their is a not supported style
+execute if data storage bossbar:api bossbar[].style unless data storage bossbar:api bossbar[{style:""}] unless data storage bossbar:api bossbar[{style:"progress"}] unless data storage bossbar:api bossbar[{style:"notched_10"}] unless data storage bossbar:api bossbar[{style:"notched_12"}] unless data storage bossbar:api bossbar[{style:"notched_20"}] unless data storage bossbar:api bossbar[{style:"notched_6"}] run tellraw @a [{"translate":"Unsupported style! excepted values are; \n %s","color":"red","with":[{"text":"progress, notched_10, notched_12, notched_20, notched_6","color":"gray"}]}]
+execute if data storage bossbar:api parent.style unless data storage bossbar:api {parent:{style:""}} unless data storage bossbar:api {parent:{style:"progress"}} unless data storage bossbar:api {parent:{style:"notched_10"}} unless data storage bossbar:api {parent:{style:"notched_12"}} unless data storage bossbar:api {parent:{style:"notched_20"}} unless data storage bossbar:api {parent:{style:"notched_6"}} run tellraw @a [{"translate":"Unsupported style! excepted values are; \n %s","color":"red","with":[{"text":"progress, notched_10, notched_12, notched_20, notched_6","color":"gray"}]}]
+
+# Error if their is a not supported display_percent
+execute if data storage bossbar:api bossbar[].display_percent unless data storage bossbar:api bossbar[{display_percent:""}] unless data storage bossbar:api bossbar[{display_percent:true}] unless data storage bossbar:api bossbar[{display_percent:false}] unless data storage bossbar:api bossbar[{display_percent:"left"}] unless data storage bossbar:api bossbar[{display_percent:"right"}] run tellraw @a [{"translate":"Unsupported display_percent! excepted values are; \n %s","color":"red","with":[{"text":"true, false, left, right","color":"gray"}]}]
+execute if data storage bossbar:api parent.display_percent unless data storage bossbar:api {parent:{display_percent:""}} unless data storage bossbar:api {parent:{display_percent:true}} unless data storage bossbar:api {parent:{display_percent:false}} unless data storage bossbar:api {parent:{display_percent:"left"}} unless data storage bossbar:api {parent:{display_percent:"right"}} run tellraw @a [{"translate":"Unsupported display_percent! excepted values are; \n %s","color":"red","with":[{"text":"true, false, left, right","color":"gray"}]}]
