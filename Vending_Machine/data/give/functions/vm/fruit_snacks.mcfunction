@@ -1,0 +1,1 @@
+give @p minecraft:apple{display:{Name:'{"translate":"item.vm:fruit_snacks"}',Lore:['{"translate":"lore.vm:vending_machine"}']},CustomModelData:60} 1

@@ -1,0 +1,2 @@
+# recipes
+execute if block ~ ~ ~ minecraft:dropper[facing=down]{Items:[{id:"minecraft:iron_ingot",Count:1b,Slot:0b},{id:"minecraft:glass_pane",Count:1b,Slot:1b},{id:"minecraft:iron_ingot",Count:1b,Slot:2b},{id:"minecraft:iron_ingot",Count:1b,Slot:3b},{id:"minecraft:paper",Count:1b,Slot:4b,tag:{CustomModelData:420}},{id:"minecraft:stone_button",Count:1b,Slot:5b},{id:"minecraft:iron_ingot",Count:1b,Slot:6b},{id:"minecraft:redstone_block",Count:1b,Slot:7b},{id:"minecraft:iron_ingot",Count:1b,Slot:8b}]} run function rcore_recipes:recipe/vending_machine

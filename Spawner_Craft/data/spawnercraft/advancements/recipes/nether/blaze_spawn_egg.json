@@ -1,0 +1,43 @@
+{
+  "parent": "spawnercraft:recipes/spawnercraft_root",
+  "rewards": {
+    "recipes": [
+      "spawnercraft:nether/blaze_spawn_egg"
+    ]
+  },
+  "criteria": {
+    "has_blaze_powder": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:blaze_powder"
+          }
+        ]
+      }
+    },
+    "has_blaze_rod": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:blaze_rod"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "spawnercraft:nether/blaze_spawn_egg"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_blaze_powder",
+      "has_blaze_rod",
+      "has_the_recipe"
+    ]
+  ]
+}

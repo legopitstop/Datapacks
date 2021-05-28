@@ -1,0 +1,30 @@
+﻿{
+    "type": "crafting_shaped",
+    "pattern": [
+        "#T#",
+        "BEB",
+        "#G#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:air"
+        },
+        "E": {
+            "item": "minecraft:egg"
+        },
+        "G": {
+            "item": "minecraft:gold_ingot"
+        },
+        "B": {
+            "item": "minecraft:water_bucket"
+        },
+        "T": {
+            "item": "minecraft:ink_sac"
+        }
+    },
+    "result": {
+        "item": "minecraft:squid_spawn_egg",
+        "count": 1
+    },
+    "group": "underwater"
+}

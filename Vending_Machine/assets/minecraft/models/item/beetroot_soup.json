@@ -1,0 +1,11 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/beetroot_soup"
+	},
+	"overrides": [
+		{ "predicate": {"custom_model_data": 96}, "model": "item/soda/sprite"},
+		{ "predicate": {"custom_model_data": 97}, "model": "item/soda/fanta_orange"},
+		{ "predicate": {"custom_model_data": 98}, "model": "item/soda/fanta_grape"}
+	]
+}

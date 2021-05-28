@@ -1,0 +1,1 @@
+give @p minecraft:bucket{display:{Name:'{"text":"Stripped Dark Oak Bucket"}'},CustomModelData:122,concrete:122} 1

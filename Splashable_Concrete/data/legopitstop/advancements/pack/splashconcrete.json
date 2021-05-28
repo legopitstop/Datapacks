@@ -1,0 +1,28 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:white_concrete_powder"
+        },
+        "title": {
+            "text": "Splashable Concrete",
+            "color": "yellow",
+            "bold": false,
+            "italic": false
+        },
+        "description": {
+            "text": "Use water splash potion on concrete to harden it.",
+            "color": "white",
+            "bold": false,
+            "italic": true
+        },
+        "show_toast": false,
+        "announce_to_chat": false,
+        "frame": "goal"
+    },
+    "parent": "legopitstop:pack/root",
+    "criteria": {
+        "tick": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

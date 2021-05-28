@@ -1,0 +1,24 @@
+{
+   "providers": [
+      {
+         "type": "ttf",
+         "note": "Many thanks to AmberW#4615 for this invaluable resource",
+         "file": "unicode:negative_spaces.ttf",
+         "shift": [
+            0.0,
+            0.0
+         ],
+         "size": 10.0,
+         "oversample": 1.0
+      },
+      {
+         "type": "bitmap",
+         "file": "unicode:minecoin.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\ue1b0"
+         ]
+      }
+   ]
+}

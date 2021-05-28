@@ -1,0 +1,14 @@
+function give:vending_machine
+function give:vm/doritos
+function give:vm/fanta_grape
+function give:vm/fanta_orange
+function give:vm/fruit_snacks
+function give:vm/granola_bar
+function give:vm/hershey
+function give:vm/lays
+function give:vm/nutella
+function give:vm/skittles
+function give:vm/snickers
+function give:vm/sprite
+function give:vm/trail_mix
+function give:vm/twix

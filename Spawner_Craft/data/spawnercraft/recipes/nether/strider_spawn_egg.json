@@ -1,0 +1,27 @@
+﻿{
+    "type": "crafting_shaped",
+    "pattern": [
+        " T ",
+        "SES",
+        " G "
+    ],
+    "key": {
+        "E": {
+            "item": "minecraft:egg"
+        },
+        "G": {
+            "item": "minecraft:gold_ingot"
+        },
+        "S": {
+            "item": "minecraft:string"
+        },
+        "T": {
+            "item": "minecraft:lava_bucket"
+        }
+    },
+    "result": {
+        "item": "minecraft:strider_spawn_egg",
+        "count": 1
+    },
+    "group": "nether"
+}

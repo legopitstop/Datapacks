@@ -1,0 +1,11 @@
+{
+    "item.bandage.use": {
+        "sounds": [
+            "bandage:item/bandage/bandage1",
+            "bandage:item/bandage/bandage2",
+            "bandage:item/bandage/bandage3",
+            "bandage:item/bandage/bandage3"
+        ],
+        "subtitle": "subtitles.item.bandage.use"
+    }
+}

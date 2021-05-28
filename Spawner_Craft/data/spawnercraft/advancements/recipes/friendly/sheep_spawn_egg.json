@@ -1,0 +1,43 @@
+{
+  "parent": "spawnercraft:recipes/spawnercraft_root",
+  "rewards": {
+    "recipes": [
+      "spawnercraft:friendly/sheep_spawn_egg"
+    ]
+  },
+  "criteria": {
+    "has_wool": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "minecraft:wool"
+          }
+        ]
+      }
+    },
+    "has_mutton": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:mutton"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "spawnercraft:friendly/sheep_spawn_egg"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_wool",
+      "has_mutton",
+      "has_the_recipe"
+    ]
+  ]
+}

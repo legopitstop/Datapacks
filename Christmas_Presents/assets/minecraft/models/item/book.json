@@ -1,0 +1,14 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/book"
+	},
+	"overrides": [
+		{
+			"model": "present:gui/pack",
+			"predicate": {
+				"custom_model_data": 4774
+			}
+		}
+	]
+}

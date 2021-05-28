@@ -1,0 +1,14 @@
+{
+    "item.present:present": "Preznt",
+    "item.present.milk_bottle": "Milk Bottle",
+    "item.present.use": "%s 2 opn preznt.",
+    "item.tier": "Tiah: %s",
+    "item.tier.wood": "wud",
+    "item.tier.stone": "ston",
+    "item.tier.iron": "irun",
+    "item.tier.copper": "copurr",
+    "item.tier.gold": "guld",
+    "item.tier.diamond": "deemond",
+    "item.tier.emerald": "green stuff",
+    "item.tier.netherite": "op"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:skeleton_spawn_egg"
+        },
+        {
+            "item": "minecraft:horse_spawn_egg"
+        }
+    ],
+    "result": {
+        "item": "minecraft:skeleton_horse_spawn_egg",
+        "count": 2
+    },
+    "group": "hostile"
+}

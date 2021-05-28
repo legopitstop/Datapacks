@@ -1,0 +1,1 @@
+give @p minecraft:bucket{display:{Name:'{"text":"Polished Diorite Bucket"}'},CustomModelData:104,concrete:104} 1

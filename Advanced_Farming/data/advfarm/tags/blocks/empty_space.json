@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:air",
+    "minecraft:snow",
+    "minecraft:hay_block",
+    "minecraft:cauldron",
+    "minecraft:pumpkin",
+    "minecraft:melon",
+    "minecraft:water",
+    "minecraft:lava"
+  ]
+}

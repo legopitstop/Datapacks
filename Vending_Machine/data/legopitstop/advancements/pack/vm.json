@@ -1,0 +1,29 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:armor_stand",
+            "nbt": "{CustomModelData:520}"
+        },
+        "title": {
+            "text": "Vending Machine",
+            "color": "yellow",
+            "bold": false,
+            "italic": false
+        },
+        "description": {
+            "text": "Adds a working vending machine.",
+            "color": "white",
+            "bold": false,
+            "italic": true
+        },
+        "show_toast": false,
+        "announce_to_chat": false,
+        "frame": "goal"
+    },
+    "parent": "legopitstop:pack/minecoin",
+    "criteria": {
+        "tick": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

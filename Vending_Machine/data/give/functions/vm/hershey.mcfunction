@@ -1,0 +1,1 @@
+give @p minecraft:cookie{display:{Name:'{"translate":"item.vm:hershey"}',Lore:['{"translate":"lore.vm:vending_machine"}']},CustomModelData:74} 1

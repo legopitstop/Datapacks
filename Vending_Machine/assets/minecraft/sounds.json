@@ -1,0 +1,27 @@
+{
+  "item.sprite_cranberry": {
+    "sounds": [
+      "item/sprite_cranberry"
+    ],
+    "subtitle": "subtitles.item.sprite_cranberry"
+  },
+  "item.honey_bottle.drink": {
+    "sounds": [
+      {
+        "name": "item/bottle/drink_honey1"
+      },
+      {
+        "name": "item/bottle/drink_honey2"
+      },
+      {
+        "name": "item/bottle/drink_honey3",
+        "volume": 0.35
+      },
+      {
+        "name": "item/bottle/drink_honey3",
+        "volume": 0.75
+      }
+    ],
+    "subtitle": "subtitles.item.honey_bottle.drink"
+  }
+}

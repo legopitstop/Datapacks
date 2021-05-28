@@ -1,0 +1,32 @@
+{
+  "parent": "spawnercraft:recipes/spawnercraft_root",
+  "rewards": {
+    "recipes": [
+      "spawnercraft:hostile/enderman_spawn_egg"
+    ]
+  },
+  "criteria": {
+    "has_ender_pearl": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:ender_pearl"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "spawnercraft:hostile/enderman_spawn_egg"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_ender_pearl",
+      "has_the_recipe"
+    ]
+  ]
+}

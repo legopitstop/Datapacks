@@ -1,0 +1,30 @@
+﻿{
+    "type": "crafting_shaped",
+    "pattern": [
+        "#T#",
+        "SES",
+        "#G#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:air"
+        },
+        "E": {
+            "item": "minecraft:egg"
+        },
+        "G": {
+            "item": "minecraft:gold_ingot"
+        },
+        "T": {
+            "item": "minecraft:cocoa_beans"
+        },
+        "S": {
+            "item": "minecraft:string"
+        }
+    },
+    "result": {
+        "item": "minecraft:ocelot_spawn_egg",
+        "count": 1
+    },
+    "group": "friendly"
+}

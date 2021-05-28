@@ -1,0 +1,12 @@
+{
+    "bandage.offhand_item": "There cannot be an item in your offhand!",
+    "subtitles.item.bandage.use": "Bandage wraps",
+    "item.bandage.bandage": "Bandage",
+    "item.bandage.bandage.desc": "Click and hold until fully charged to use.",
+    "item.bandage.nether_bandage": "Nether Bandage",
+    "item.bandage.nether_bandage.desc": "Click and hold until fully charged to use.",
+    "item.bandage.end_bandage": "End Bandage",
+    "item.bandage.end_bandage.desc": "Click and hold until fully charged to use.",
+    "item.bandage.water_bandage": "Water Bandage",
+    "item.bandage.water_bandage.desc": "Click and hold until fully charged to use."
+}

@@ -1,0 +1,43 @@
+{
+  "parent": "spawnercraft:recipes/spawnercraft_root",
+  "rewards": {
+    "recipes": [
+      "spawnercraft:friendly/cat_spawn_egg"
+    ]
+  },
+  "criteria": {
+    "has_string": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:string"
+          }
+        ]
+      }
+    },
+    "has_wool": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "minecraft:wool"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "spawnercraft:friendly/cat_spawn_egg"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_string",
+      "has_wool",
+      "has_the_recipe"
+    ]
+  ]
+}

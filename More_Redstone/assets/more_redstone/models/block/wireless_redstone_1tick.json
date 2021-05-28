@@ -1,0 +1,41 @@
+{
+    "parent": "block/repeater_1tick",
+    "textures": {
+        "particle": "block/repeater",
+        "slab": "block/smooth_stone",
+        "top": "block/repeater",
+        "unlit": "block/redstone_torch_off"
+    },
+    "display": {
+        "gui": {
+            "rotation": [ 33, 45, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 0.625, 0.625, 0.625 ]
+        },
+        "ground": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 3, 0 ],
+            "scale": [ 0.25, 0.25, 0.25 ]
+        },
+        "fixed": {
+            "rotation": [ 270, 0, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 0.8, 0.8, 0.9 ]
+        },
+        "head": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, -30.42, 0 ],
+            "scale": [ 1.61, 1.61, 1.61 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, 315, 0 ],
+            "translation": [ 0, 2.5, 0 ],
+            "scale": [ 0.4, 0.4, 0.4 ]
+        },
+        "thirdperson_righthand": {
+            "rotation": [ 53, 313, 0 ],
+            "translation": [ 0, 2.5, 0 ],
+            "scale": [ 0.375, 0.375, 0.375 ]
+        }
+    }
+}

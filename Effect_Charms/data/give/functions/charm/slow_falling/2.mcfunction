@@ -1,0 +1,1 @@
+give @p minecraft:paper{CustomModelData:22,display:{Name:"{\"text\":\"Slow Falling II\",\"color\":\"gray\",\"italic\":false}",Lore:["{\"text\":\"[Charm Item]\",\"color\":\"gray\",\"italic\":false}"]}} 1

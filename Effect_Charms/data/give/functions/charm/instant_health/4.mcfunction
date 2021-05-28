@@ -1,0 +1,1 @@
+give @p minecraft:paper{CustomModelData:8,display:{Name:"{\"text\":\"Instant Health IV\",\"color\":\"red\",\"italic\":false}",Lore:["{\"text\":\"[Charm Item]\",\"color\":\"gray\",\"italic\":false}"]}} 1

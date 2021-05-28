@@ -1,0 +1,30 @@
+﻿{
+    "type": "crafting_shaped",
+    "pattern": [
+        "#T#",
+        "SES",
+        "#G#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:air"
+        },
+        "E": {
+            "item": "minecraft:egg"
+        },
+        "G": {
+            "item": "minecraft:gold_ingot"
+        },
+        "T": {
+            "item": "minecraft:carrot_on_a_stick"
+        },
+        "S": {
+            "item": "minecraft:porkchop"
+        }
+    },
+    "result": {
+        "item": "minecraft:pig_spawn_egg",
+        "count": 1
+    },
+    "group": "friendly"
+}

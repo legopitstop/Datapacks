@@ -1,0 +1,27 @@
+﻿{
+    "type": "crafting_shaped",
+    "pattern": [
+        " T ",
+        "SES",
+        " G "
+    ],
+    "key": {
+        "E": {
+            "item": "minecraft:egg"
+        },
+        "G": {
+            "item": "minecraft:gold_ingot"
+        },
+        "S": {
+            "item": "minecraft:porkchop"
+        },
+        "T": {
+            "item": "minecraft:bone"
+        }
+    },
+    "result": {
+        "item": "minecraft:hoglin_spawn_egg",
+        "count": 1
+    },
+    "group": "nether"
+}

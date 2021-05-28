@@ -1,0 +1,1 @@
+give @p minecraft:armor_stand{display:{Name:"{\"translate\":\"item.vm:vending_machine\"}",Lore:["{\"translate\":\"lore.lps:block\"}"]},CustomModelData:520,Marker:1b,EntityTag:{NoGravity:1b,Small:1b,Invisible:1b,CustomName:"{\"text\":\"vm_set\"}"}} 1

@@ -1,0 +1,30 @@
+Redstone Voltmeter
+
+
+Wire
+
+-place item into item frame.
+
+-place redstone in front, above, or below item frame.
+
+-to show redstone voltage or level press shift or sneak.
+
+
+Wireless
+
+-hold voltage meter in main hand
+
+-right click onto redstone wire to get voltage.
+
+
+Diamond voltage meter
+
+-same as regular voltage meter but you can also detect other redstone:
+
+-dropper/dispenser is on/off
+
+-lever is on/off
+
+-hopper is locked
+
+-chest is locked

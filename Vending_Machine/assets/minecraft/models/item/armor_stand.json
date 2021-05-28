@@ -1,0 +1,10 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/armor_stand"
+	},
+	"overrides": [
+		{ "predicate": {"custom_model_data": 520}, "model": "block/vending_machine"},
+		{ "predicate": {"custom_model_data": 666}, "model": "table/custom_crafting_table"}
+	]
+}

@@ -1,0 +1,4 @@
+# effect
+execute as @a[nbt={Inventory:[{id:"minecraft:paper",Slot:-106b,tag:{display:{Name:"{\"text\":\"Invisibility I\",\"color\":\"dark_gray\",\"italic\":false}",Lore:["{\"text\":\"[Charm Item]\",\"color\":\"gray\",\"italic\":false}"]}}}]}] run effect give @p invisibility 5 0 false
+# title actionbar
+execute as @a[nbt={Inventory:[{id:"minecraft:paper",Slot:-106b,tag:{display:{Name:"{\"text\":\"Invisibility I\",\"color\":\"dark_gray\",\"italic\":false}",Lore:["{\"text\":\"[Charm Item]\",\"color\":\"gray\",\"italic\":false}"]}}}]}] run title @p actionbar [{"text":"Charm: ","color":"white"},{"text":"Invisibility","color":"dark_gray"}]

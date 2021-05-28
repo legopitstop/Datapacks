@@ -1,0 +1,1 @@
+give @p minecraft:baked_potato{display:{Name:'{"translate":"item.vm:lays"}',Lore:['{"translate":"lore.vm:vending_machine"}']},CustomModelData:53} 1

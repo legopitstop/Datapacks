@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:redstone_block",
+    "minecraft:redstone_wire",
+    "minecraft:observer",
+    "minecraft:repeater",
+    "minecraft:redstone_torch",
+    "minecraft:lever",
+    "minecraft:comparator",
+    "minecraft:daylight_detector",
+    "minecraft:lectern",
+    "minecraft:light_weighted_pressure_plate",
+    "minecraft:heavy_weighted_pressure_plate",
+    "minecraft:redstone_lamp",
+    "#minecraft:buttons",
+    "#minecraft:wooden_pressure_plates"
+  ]
+}

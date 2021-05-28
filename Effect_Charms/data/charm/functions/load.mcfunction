@@ -1,0 +1,1 @@
+tellraw @p {"text":"Charms datapack has been reloaded","color":"light_purple"}

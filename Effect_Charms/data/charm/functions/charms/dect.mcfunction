@@ -1,0 +1,9 @@
+function charm:charms/effects/haste
+function charm:charms/effects/instant_health
+function charm:charms/effects/invisibility
+function charm:charms/effects/jump_boost
+function charm:charms/effects/regeneration
+function charm:charms/effects/resistance
+function charm:charms/effects/slow_falling
+function charm:charms/effects/speed
+function charm:charms/effects/strength

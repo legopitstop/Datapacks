@@ -1,0 +1,30 @@
+﻿{
+    "type": "crafting_shaped",
+    "pattern": [
+        "#T#",
+        "SES",
+        "#G#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:air"
+        },
+        "E": {
+            "item": "minecraft:villager_spawn_egg"
+        },
+        "G": {
+            "item": "minecraft:gold_ingot"
+        },
+        "T": {
+            "item": "minecraft:emerald_block"
+        },
+        "S": {
+            "item": "minecraft:emerald"
+        }
+    },
+    "result": {
+        "item": "minecraft:wandering_trader_spawn_egg",
+        "count": 1
+    },
+    "group": "friendly"
+}

@@ -1,0 +1,28 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:chainmail_chestplate"
+        },
+        "title": {
+            "text": "Craftable Chainmail",
+            "color": "yellow",
+            "bold": false,
+            "italic": false
+        },
+        "description": {
+            "text": "Craftable Chainmail armor for 1.16+",
+            "color": "white",
+            "bold": false,
+            "italic": true
+        },
+        "show_toast": false,
+        "announce_to_chat": false,
+        "frame": "goal"
+    },
+    "parent": "legopitstop:pack/root",
+    "criteria": {
+        "tick": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

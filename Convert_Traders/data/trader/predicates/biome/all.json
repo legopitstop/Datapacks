@@ -1,0 +1,30 @@
+[
+    {
+        "condition": "minecraft:reference",
+        "name": "trader:biome/desert"
+    },
+    {
+        "condition": "minecraft:reference",
+        "name": "trader:biome/jungle"
+    },
+    {
+        "condition": "minecraft:reference",
+        "name": "trader:biome/plains"
+    },
+    {
+        "condition": "minecraft:reference",
+        "name": "trader:biome/savanna"
+    },
+    {
+        "condition": "minecraft:reference",
+        "name": "trader:biome/snow"
+    },
+    {
+        "condition": "minecraft:reference",
+        "name": "trader:biome/swamp"
+    },
+    {
+        "condition": "minecraft:reference",
+        "name": "trader:biome/taiga"
+    }
+]

@@ -1,0 +1,21 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "criteria": {
+        "used_axe": {
+            "trigger": "minecraft:item_used_on_block",
+            "conditions": {
+                "item": {
+                    "tag": "minecraft:axe"
+                }
+            }
+        }
+    },
+    "requirements": [
+        [
+            "used_axe"
+        ]
+    ],
+    "rewards": {
+        "function": "barked:data/stripped_log"
+    }
+}

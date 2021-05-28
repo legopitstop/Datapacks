@@ -1,0 +1,9 @@
+# Runs when the server/world starts up.
+#
+# Called By: #minecraft:load
+
+# Register Datapack
+data modify storage legopitstop:registered_datapacks datapacks merge value {barked:{namespace:"barked",pack_version:"1.1.0",mc_version:"1.16",multiplayer_tested:"no",has_config:"no",pack:{title:"Barked",description:"You get a bark item when stripping logs!",uuid:"e73f3b00-8104-46d3-838c-790c1b99e89c"}}}
+
+# Reload Message
+tellraw @a ["",{"storage":"legopitstop:registered_datapacks","nbt":"datapacks.barked.pack.title","color":"yellow","hoverEvent":{"action":"show_text","contents":{"storage":"legopitstop:registered_datapacks","nbt":"datapacks.barked.pack.description","color":"white"}}}," ",{"translate":"[%s]","color":"green","with":[{"storage":"legopitstop:registered_datapacks","nbt":"datapacks.barked.pack_version"}],"hoverEvent": {"action":"show_text","contents":["",{"translate":"Pack Version: %s","color":"white","with":[{"storage":"legopitstop:registered_datapacks","nbt":"datapacks.barked.pack_version","color":"gray"}]},"\n",{"translate":"MC Version: %s","color":"white","with":[{"storage":"legopitstop:registered_datapacks","nbt":"datapacks.barked.mc_version","color":"gray"}]}]}}," ",{"text":"ℹ","color":"blue","hoverEvent": {"action":"show_text","contents": ["",{"translate":"Namespace(s): %s","color":"white","with":[{"storage":"legopitstop:registered_datapacks","nbt":"datapacks.barked.namespace","color":"gray"}]},"\n",{"translate":"Has Config: %s","color":"white","with":[{"storage":"legopitstop:registered_datapacks","nbt":"datapacks.barked.has_config","color":"gray"}]},"\n",{"translate":"Multiplayer Tested: %s","color":"white","with":[{"storage":"legopitstop:registered_datapacks","nbt":"datapacks.barked.multiplayer_tested","color":"gray"}]}]}}]

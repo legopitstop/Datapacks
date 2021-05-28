@@ -1,0 +1,28 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:carrot_on_a_stick"
+        },
+        "title": {
+            "text": "Simple Calculator",
+            "color": "yellow",
+            "bold": false,
+            "italic": false
+        },
+        "description": {
+            "text": "Adds a working calculator by using Minecraft magic.",
+            "color": "white",
+            "bold": false,
+            "italic": true
+        },
+        "show_toast": false,
+        "announce_to_chat": false,
+        "frame": "goal"
+    },
+    "parent": "legopitstop:pack/root",
+    "criteria": {
+        "tick": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

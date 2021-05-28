@@ -1,0 +1,1 @@
+give @p minecraft:bucket{display:{Name:'{"text":"jungle Planks Bucket"}'},CustomModelData:115,concrete:115} 1

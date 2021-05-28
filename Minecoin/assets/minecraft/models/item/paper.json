@@ -1,0 +1,9 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/paper"
+	},
+	"overrides": [
+		{ "predicate": {"custom_model_data": 420}, "model": "item/item/minecoin"}
+	]
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/rail_flat",
+  "textures": {
+    "rail": "bluestone:block/bluestone_line_on"
+  }
+}

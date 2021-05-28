@@ -1,0 +1,8 @@
+{
+  "item.present.open": {
+    "sounds": [
+      "present:item/present/open"
+    ],
+    "subtitle": "subtitles.item.present.open"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "___comment": "Here is where all the preset records are",
+
+  "item.moremusic.music_disc_sample": "Music Disc",
+  "item.moremusic.music_disc_sample.desc": "composer - song title",
+
+  "item.moremusic.music_disc_rubedo": "Music Disc",
+  "item.moremusic.music_disc_rubedo.desc": "Lena Raine - Rubedo",
+
+  "item.moremusic.music_disc_basalt_deltas": "Music Disc",
+  "item.moremusic.music_disc_basalt_deltas.desc": "Unknown - Basalt Deltas",
+
+  "item.moremusic.music_disc_chrysopoeia": "Music Disc",
+  "item.moremusic.music_disc_chrysopoeia.desc": "Lena Raine - Chrysopoeia",
+
+  "item.moremusic.music_disc_so_below": "Music Disc",
+  "item.moremusic.music_disc_so_below.desc": "Lena Raine - So Below"
+}

@@ -1,0 +1,24 @@
+﻿{
+    "type": "crafting_shaped",
+    "pattern": [
+        "BBB",
+        "BDB",
+        "BOB"
+    ],
+    "key": {
+        "B": {
+            "item": "minecraft:iron_bars"
+        },
+        "O": {
+            "item": "minecraft:obsidian"
+        },
+        "D": {
+            "item": "minecraft:diamond_block"
+        }
+    },
+    "result": {
+        "item": "minecraft:spawner",
+        "count": 1
+    },
+    "group": "spawnercraft"
+}

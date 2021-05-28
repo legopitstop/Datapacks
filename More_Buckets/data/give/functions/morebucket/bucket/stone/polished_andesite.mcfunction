@@ -1,0 +1,1 @@
+give @p minecraft:bucket{display:{Name:'{"text":"Polished Andesite Bucket"}'},CustomModelData:103,concrete:103} 1

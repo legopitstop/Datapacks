@@ -1,0 +1,1 @@
+give @p minecraft:bucket{display:{Name:'{"text":"Granite Bucket"}'},CustomModelData:101,concrete:101} 1

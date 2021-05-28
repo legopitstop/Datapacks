@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:fence_gates",
+    "#minecraft:planks",
+    "#minecraft:oak_logs",
+    "#minecraft:spruce_logs",
+    "#minecraft:birch_logs",
+    "#minecraft:jungle_logs",
+    "#minecraft:acacia_logs",
+    "#minecraft:dark_oak_logs",
+    "#minecraft:wooden_stairs",
+    "#minecraft:wooden_slabs"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "minecraft:item/carrot_on_a_stick"
+	},
+	"overrides": [
+		{
+			"model": "present:item/wood_present",
+			"predicate": {
+				"custom_model_data": 1001
+			}
+		},
+		{
+			"model": "present:item/stone_present",
+			"predicate": {
+				"custom_model_data": 1002
+			}
+		},
+		{
+			"model": "present:item/iron_present",
+			"predicate": {
+				"custom_model_data": 1003
+			}
+		},
+		{
+			"model": "present:item/copper_present",
+			"predicate": {
+				"custom_model_data": 1004
+			}
+		},
+		{
+			"model": "present:item/gold_present",
+			"predicate": {
+				"custom_model_data": 1005
+			}
+		},
+		{
+			"model": "present:item/diamond_present",
+			"predicate": {
+				"custom_model_data": 1006
+			}
+		},
+		{
+			"model": "present:item/emerald_present",
+			"predicate": {
+				"custom_model_data": 1007
+			}
+		},
+		{
+			"model": "present:item/netherite_present",
+			"predicate": {
+				"custom_model_data": 1008
+			}
+		}
+	]
+}

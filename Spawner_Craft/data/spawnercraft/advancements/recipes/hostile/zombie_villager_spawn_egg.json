@@ -1,0 +1,43 @@
+{
+  "parent": "spawnercraft:recipes/spawnercraft_root",
+  "rewards": {
+    "recipes": [
+      "spawnercraft:hostile/zombie_villager_spawn_egg"
+    ]
+  },
+  "criteria": {
+    "has_villager_spawn_egg": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:villager_spawn_egg"
+          }
+        ]
+      }
+    },
+    "has_zombie_spawn_egg": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:zombie_spawn_egg"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "spawnercraft:hostile/zombie_villager_spawn_egg"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_villager_spawn_egg",
+      "has_zombie_spawn_egg",
+      "has_the_recipe"
+    ]
+  ]
+}

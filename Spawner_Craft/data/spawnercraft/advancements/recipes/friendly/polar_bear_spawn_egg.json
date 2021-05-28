@@ -1,0 +1,43 @@
+{
+  "parent": "spawnercraft:recipes/spawnercraft_root",
+  "rewards": {
+    "recipes": [
+      "spawnercraft:friendly/polar_bear_spawn_egg"
+    ]
+  },
+  "criteria": {
+    "has_salmon": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:salmon"
+          }
+        ]
+      }
+    },
+    "has_snow_block": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:snow_block"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "spawnercraft:friendly/polar_bear_spawn_egg"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_salmon",
+      "has_snow_block",
+      "has_the_recipe"
+    ]
+  ]
+}

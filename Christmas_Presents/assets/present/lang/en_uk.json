@@ -1,0 +1,14 @@
+{
+    "item.present:present": "Present",
+    "item.present.milk_bottle": "Milk Bottle",
+    "item.present.use": "%s to open present.",
+    "item.tier": "Tier: %s",
+    "item.tier.wood": "wood",
+    "item.tier.stone": "stone",
+    "item.tier.iron": "iron",
+    "item.tier.copper": "copper",
+    "item.tier.gold": "gold",
+    "item.tier.diamond": "diamond",
+    "item.tier.emerald": "emerald",
+    "item.tier.netherite": "netherite"
+}

@@ -1,0 +1,12 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/baked_potato"
+	},
+	"overrides": [
+		{ "predicate": {"custom_model_data": 50}, "model": "item/food/cut_fries"},
+		{ "predicate": {"custom_model_data": 51}, "model": "item/food/wedges_pot"},
+		{ "predicate": {"custom_model_data": 52}, "model": "item/food/doritos"},
+		{ "predicate": {"custom_model_data": 53}, "model": "item/food/lays"}
+	]
+}

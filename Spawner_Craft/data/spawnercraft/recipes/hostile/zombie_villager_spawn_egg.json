@@ -1,0 +1,16 @@
+﻿{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:villager_spawn_egg"
+        },
+        {
+            "item": "minecraft:zombie_spawn_egg"
+        }
+    ],
+    "result": {
+        "item": "minecraft:zombie_villager_spawn_egg",
+        "count": 2
+    },
+    "group": "hostile"
+}

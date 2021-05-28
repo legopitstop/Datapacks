@@ -1,0 +1,6 @@
+{
+    "parent": "present:item/template_present",
+    "textures": {
+        "texture": "present:item/diamond_present"
+    }
+}

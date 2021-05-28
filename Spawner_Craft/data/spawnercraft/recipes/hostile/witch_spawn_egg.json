@@ -1,0 +1,33 @@
+﻿{
+    "type": "crafting_shaped",
+    "pattern": [
+        "#B#",
+        "RES",
+        "#G#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:air"
+        },
+        "E": {
+            "item": "minecraft:egg"
+        },
+        "G": {
+            "item": "minecraft:gold_ingot"
+        },
+        "R": {
+            "item": "minecraft:redstone"
+        },
+        "S": {
+            "item": "minecraft:glowstone_dust"
+        },
+        "B": {
+            "item": "minecraft:glass_bottle"
+        }
+    },
+    "result": {
+        "item": "minecraft:witch_spawn_egg",
+        "count": 1
+    },
+    "group": "hostile"
+}

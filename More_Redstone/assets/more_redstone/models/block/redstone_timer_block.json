@@ -1,0 +1,15 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "more_redstone:block/redstone_timer_block_top",
+        "front": "more_redstone:block/redstone_timer_block",
+        "side": "more_redstone:block/redstone_timer_block_side"
+    },
+    "display": {
+        "head": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, -30.42, 0 ],
+            "scale": [ 1.61, 1.61, 1.61 ]
+        }
+    }
+}

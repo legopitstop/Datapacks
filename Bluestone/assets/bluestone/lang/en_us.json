@@ -1,0 +1,21 @@
+{
+  "lore.redstone:code_item": "§r§b[Code Item]",
+  
+  "item.bluestone.and_gate": "§rAND Gate",
+  "item.bluestone.clock_in_a_block": "§rClock In a Block",
+  "item.bluestone.not_gate": "§rNOT Gate",
+  "item.bluestone.r-s_nor_latch": "§rR-S Nor Latch",
+  "item.bluestone.t_flip_flop": "§rT Flip Flop",
+  "item.bluestone.bluestone": "§rBluestone Dust",
+  "block.bluestone.bluestone_block": "Block of Bluestone",
+  
+  "container.bluestone.bluestone_block": "§rBlock of Bluestone",
+  "container.bluestone.and_gate": "§rAND Gate",
+  "container.bluestone.clock_in_a_block": "§rClock In a Block",
+  "container.bluestone.not_gate": "§rNOT Gate",
+  "container.bluestone.r-s_nor_latch": "§rR-S Nor Latch",
+  "container.bluestone.t_flip_flop": "§rT Flip Flop",
+  
+  "tellraw.bluestone.air_above_error": "§r§cTheir Must Be Air Above!"
+  
+}

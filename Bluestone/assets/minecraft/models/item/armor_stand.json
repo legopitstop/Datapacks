@@ -1,0 +1,17 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/armor_stand"
+	},
+	"overrides": [
+		{ "predicate": {"custom_model_data": 514}, "model": "bluestone:block/and_gate"},
+		{ "predicate": {"custom_model_data": 515}, "model": "bluestone:block/clock_in_a_block"},
+		{ "predicate": {"custom_model_data": 516}, "model": "bluestone:block/not_gate"},
+		{ "predicate": {"custom_model_data": 517}, "model": "bluestone:block/r-s_nor_latch"},
+		{ "predicate": {"custom_model_data": 518}, "model": "bluestone:block/t_flip_flop"},
+		{ "predicate": {"custom_model_data": 519}, "model": "bluestone:block/bluestone_block"},
+		
+		{ "predicate": {"custom_model_data": 666}, "model": "lps_rcore:block/custom_crafting_table"},
+		{ "predicate": {"custom_model_data": 696}, "model": "lps_rcore:block/recipe_book_table"}
+	]
+}

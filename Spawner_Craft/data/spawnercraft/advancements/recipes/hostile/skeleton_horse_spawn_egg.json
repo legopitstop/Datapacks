@@ -1,0 +1,43 @@
+{
+  "parent": "spawnercraft:recipes/spawnercraft_root",
+  "rewards": {
+    "recipes": [
+      "spawnercraft:hostile/skeleton_horse_spawn_egg"
+    ]
+  },
+  "criteria": {
+    "has_skeleton_spawn_egg": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:skeleton_spawn_egg"
+          }
+        ]
+      }
+    },
+    "has_horse_spawn_egg": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:horse_spawn_egg"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "spawnercraft:hostile/skeleton_horse_spawn_egg"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_skeleton_spawn_egg",
+      "has_horse_spawn_egg",
+      "has_the_recipe"
+    ]
+  ]
+}

@@ -1,0 +1,43 @@
+{
+    "item.axe.unstrip": {
+        "sounds": [
+          {
+            "name": "barked:item/axe/unstrip1",
+            "volume": 0.9
+          },
+          {
+            "name": "barked:item/axe/unstrip2",
+            "volume": 0.9
+          },
+          {
+            "name": "barked:item/axe/unstrip3",
+            "volume": 0.9
+          },
+          {
+            "name": "barked:item/axe/unstrip4",
+            "volume": 0.9
+          },
+          {
+            "name": "barked:item/axe/unstrip1",
+            "pitch": 0.85,
+            "volume": 0.9
+          },
+          {
+            "name": "barked:item/axe/unstrip2",
+            "pitch": 0.85,
+            "volume": 0.9
+          },
+          {
+            "name": "barked:item/axe/unstrip3",
+            "pitch": 0.85,
+            "volume": 0.9
+          },
+          {
+            "name": "barked:item/axe/unstrip4",
+            "pitch": 0.85,
+            "volume": 0.9
+          }
+        ],
+        "subtitle": "subtitles.item.axe.unstrip"
+      }
+}

@@ -1,0 +1,2 @@
+#invisibility
+execute if block ~ ~ ~ minecraft:dropper[facing=down]{Items:[{id:"minecraft:gray_concrete",Count:1b,Slot:0b},{id:"minecraft:gray_concrete",Count:1b,Slot:1b},{id:"minecraft:gray_concrete",Count:1b,Slot:2b},{id:"minecraft:gray_concrete",Count:1b,Slot:3b},{id:"minecraft:gray_concrete",Count:1b,Slot:5b},{id:"minecraft:gray_concrete",Count:1b,Slot:6b},{id:"minecraft:gray_concrete",Count:1b,Slot:8b},{id:"minecraft:fermented_spider_eye",Count:1b,Slot:4b},{id:"minecraft:diamond_block",Count:1b,Slot:7b}]} run function rcore_recipes:recipe/invisibility

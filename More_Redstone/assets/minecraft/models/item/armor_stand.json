@@ -1,0 +1,22 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/armor_stand"
+	},
+	"overrides": [
+		{ "predicate": {"custom_model_data": 501}, "model": "more_redstone:block/redstone_timer_block"},
+		{ "predicate": {"custom_model_data": 502}, "model": "more_redstone:block/redstone_timer_block_on"},
+		{ "predicate": {"custom_model_data": 503}, "model": "more_redstone:block/auto_dropper"},
+		{ "predicate": {"custom_model_data": 504}, "model": "more_redstone:block/auto_dropper_vert"},
+		{ "predicate": {"custom_model_data": 505}, "model": "more_redstone:block/auto_dispencer"},
+		{ "predicate": {"custom_model_data": 506}, "model": "more_redstone:block/auto_dispencer_vert"},
+		{ "predicate": {"custom_model_data": 507}, "model": "more_redstone:block/wireless_redstone_1tick"},
+		{ "predicate": {"custom_model_data": 508}, "model": "more_redstone:block/wireless_redstone_2tick"},
+		{ "predicate": {"custom_model_data": 509}, "model": "more_redstone:block/wireless_redstone_3tick"},
+		{ "predicate": {"custom_model_data": 510}, "model": "more_redstone:block/wireless_redstone_4tick"},
+		{ "predicate": {"custom_model_data": 511}, "model": "more_redstone:block/command_block"},
+		
+		{ "predicate": {"custom_model_data": 666}, "model": "lps_rcore:block/custom_crafting_table"},
+		{ "predicate": {"custom_model_data": 696}, "model": "lps_rcore:block/recipe_book_table"}
+	]
+}

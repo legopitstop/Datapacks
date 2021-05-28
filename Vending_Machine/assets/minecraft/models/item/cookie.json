@@ -1,0 +1,39 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/cookie"
+	},
+	"overrides": [
+		{ "predicate": {"custom_model_data": 50}, "model": "item/food/chocolate_bar/milk_chocolate"},
+		{ "predicate": {"custom_model_data": 51}, "model": "item/food/chocolate_bar/white_chocolate"},
+		{ "predicate": {"custom_model_data": 52}, "model": "item/food/chocolate_bar/dark_chocolate"},
+		{ "predicate": {"custom_model_data": 53}, "model": "item/food/icecream/icecream_cone"},
+		{ "predicate": {"custom_model_data": 54}, "model": "item/food/strawberry_jelly"},
+		{ "predicate": {"custom_model_data": 55}, "model": "item/food/turkish_delight"},
+		{ "predicate": {"custom_model_data": 56}, "model": "item/food/icecream/banana_icecream"},
+		{ "predicate": {"custom_model_data": 57}, "model": "item/food/icecream/chocolate_icecream"},
+		{ "predicate": {"custom_model_data": 58}, "model": "item/food/icecream/strawberry_icecream"},
+		{ "predicate": {"custom_model_data": 59}, "model": "item/food/donut/chocolate_donut"},
+		{ "predicate": {"custom_model_data": 60}, "model": "item/food/donut/coffee_donut"},
+		{ "predicate": {"custom_model_data": 61}, "model": "item/food/donut/iced_donut"},
+		{ "predicate": {"custom_model_data": 62}, "model": "item/food/donut/pink_ice_donut"},
+		{ "predicate": {"custom_model_data": 63}, "model": "item/food/donut/plain_donut"},
+		{ "predicate": {"custom_model_data": 64}, "model": "item/food/donut/strawberry_donut"},
+		{ "predicate": {"custom_model_data": 65}, "model": "item/food/cupcake/pink_cupcake"},
+		{ "predicate": {"custom_model_data": 66}, "model": "item/food/cupcake/blue_cupcake"},
+		{ "predicate": {"custom_model_data": 67}, "model": "item/food/icecream/toffee_icecream"},
+		{ "predicate": {"custom_model_data": 68}, "model": "item/food/icecream/vanilla_icecream"},
+		{ "predicate": {"custom_model_data": 69}, "model": "item/food/waffle"},
+		{ "predicate": {"custom_model_data": 70}, "model": "item/food/donut/toffee_donut"},
+		{ "predicate": {"custom_model_data": 71}, "model": "item/food/orange_jelly"},
+		{ "predicate": {"custom_model_data": 72}, "model": "item/food/pancakes"},
+		{ "predicate": {"custom_model_data": 73}, "model": "item/food/almondjoy"},
+		{ "predicate": {"custom_model_data": 74}, "model": "item/food/hershey"},
+		{ "predicate": {"custom_model_data": 75}, "model": "item/food/snickers"},
+		{ "predicate": {"custom_model_data": 76}, "model": "item/food/twix"},
+		{ "predicate": {"custom_model_data": 77}, "model": "item/food/nutella"},
+		{ "predicate": {"custom_model_data": 78}, "model": "item/food/skittles"},
+		{ "predicate": {"custom_model_data": 79}, "model": "item/food/granbar"},
+		{ "predicate": {"custom_model_data": 80}, "model": "item/food/trail_mix"}
+	]
+}

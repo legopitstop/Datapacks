@@ -1,0 +1,14 @@
+{
+  "__comment": "Below is the custom files",
+
+  "item.moremusic.music_disc_custom1": "Custom Music Disc",
+  "item.moremusic.music_disc_custom1.desc": "composer - song title1",
+  "item.moremusic.music_disc_custom2": "Custom Music Disc",
+  "item.moremusic.music_disc_custom2.desc": "composer - song title2",
+  "item.moremusic.music_disc_custom3": "Custom Music Disc",
+  "item.moremusic.music_disc_custom3.desc": "composer - song title3",
+  "item.moremusic.music_disc_custom4": "Custom Music Disc",
+  "item.moremusic.music_disc_custom4.desc": "composer - song title4",
+  "item.moremusic.music_disc_custom5": "Custom Music Disc",
+  "item.moremusic.music_disc_custom5.desc": "composer - song title5",
+}

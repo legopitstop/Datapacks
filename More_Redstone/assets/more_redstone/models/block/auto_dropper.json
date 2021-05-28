@@ -1,0 +1,15 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "more_redstone:block/auto_dropper_top",
+        "front": "more_redstone:block/auto_dropper_front",
+        "side": "more_redstone:block/auto_dropper_side"
+    },
+    "display": {
+        "head": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, -30.42, 0 ],
+            "scale": [ 1.61, 1.61, 1.61 ]
+        }
+    }
+}

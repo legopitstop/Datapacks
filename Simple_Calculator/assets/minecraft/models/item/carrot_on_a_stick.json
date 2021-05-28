@@ -1,0 +1,14 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/carrot_on_a_stick"
+	},
+	"overrides": [
+		{
+			"model": "calculator:item/calculator",
+			"predicate": {
+				"custom_model_data": 50
+			}
+		}
+	]
+}

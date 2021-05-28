@@ -1,0 +1,1 @@
+give @p minecraft:bucket{display:{Name:'{"text":"Magenta Glass Bucket"}'},CustomModelData:91,concrete:91} 1

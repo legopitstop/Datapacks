@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "bluestone:block/bluestone_block"
+  },
+  "display": {
+    "head": {
+        "rotation": [ 0, 0, 0 ],
+        "translation": [ 0, -30.42, 0 ],
+        "scale": [ 1.61, 1.61, 1.61 ]
+    }
+}
+}

@@ -1,0 +1,9 @@
+# Runs when the server/world starts up.
+#
+# Called By: #minecraft:load
+
+# Register Datapack
+data modify storage legopitstop:registered_datapacks datapacks merge value {item_display:{namespace:"item_display",pack_version:"1.4.0",mc_version:"1.16",multiplayer_tested:"no",has_config:"no",pack:{title:"Item Display",description:"This datapack adds item display blocks to decorate your world!",uuid:"26a5bbd9-77a4-4101-86d9-93c7de2b8340"}}}
+
+# Reload Message
+tellraw @a ["",{"storage":"legopitstop:registered_datapacks","nbt":"datapacks.item_display.pack.title","color":"yellow","hoverEvent":{"action":"show_text","contents":{"storage":"legopitstop:registered_datapacks","nbt":"datapacks.item_display.pack.description","color":"white"}}}," ",{"translate":"[%s]","color":"green","with":[{"storage":"legopitstop:registered_datapacks","nbt":"datapacks.item_display.pack_version"}],"hoverEvent": {"action":"show_text","contents":["",{"translate":"Pack Version: %s","color":"white","with":[{"storage":"legopitstop:registered_datapacks","nbt":"datapacks.item_display.pack_version","color":"gray"}]},"\n",{"translate":"MC Version: %s","color":"white","with":[{"storage":"legopitstop:registered_datapacks","nbt":"datapacks.item_display.mc_version","color":"gray"}]}]}}," ",{"text":"ℹ","color":"blue","hoverEvent": {"action":"show_text","contents": ["",{"translate":"Namespace(s): %s","color":"white","with":[{"storage":"legopitstop:registered_datapacks","nbt":"datapacks.item_display.namespace","color":"gray"}]},"\n",{"translate":"Has Config: %s","color":"white","with":[{"storage":"legopitstop:registered_datapacks","nbt":"datapacks.item_display.has_config","color":"gray"}]},"\n",{"translate":"Multiplayer Tested: %s","color":"white","with":[{"storage":"legopitstop:registered_datapacks","nbt":"datapacks.item_display.multiplayer_tested","color":"gray"}]}]}}]

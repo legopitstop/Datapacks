@@ -1,0 +1,12 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/paper"
+	},
+	"overrides": [
+
+		{ "predicate": {"custom_model_data": 500}, "model": "more_redstone:item/start_code"},
+		{ "predicate": {"custom_model_data": 501}, "model": "more_redstone:item/txt_code"},
+		{ "predicate": {"custom_model_data": 502}, "model": "more_redstone:item/pos_code"}
+	]
+}

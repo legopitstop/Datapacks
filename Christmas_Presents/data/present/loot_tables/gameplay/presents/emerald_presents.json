@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:gift",
+  "pools": [
+    {
+      "rolls": 1,
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "weight": 70,
+          "type": "minecraft:loot_table",
+          "name": "present:gameplay/presents/good_present"
+        },
+        {
+          "weight": 30,
+          "type": "minecraft:loot_table",
+          "name": "present:gameplay/presents/bad_present"
+        }
+      ]
+    }
+  ]
+}

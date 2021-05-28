@@ -1,0 +1,1 @@
+give @p minecraft:paper{CustomModelData:33,display:{Name:"{\"text\":\"Strength I\",\"color\":\"dark_red\",\"italic\":false}",Lore:["{\"text\":\"[Charm Item]\",\"color\":\"gray\",\"italic\":false}"]}} 1

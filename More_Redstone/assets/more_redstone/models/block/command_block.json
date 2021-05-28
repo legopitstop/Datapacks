@@ -1,0 +1,18 @@
+{
+    "parent": "block/cube_directional",
+    "textures": {
+        "down": "block/command_block_side",
+        "up": "block/command_block_side",
+        "north": "block/command_block_front",
+        "east": "block/command_block_side",
+        "south": "block/command_block_back",
+        "west": "block/command_block_side"
+    },
+    "display": {
+        "head": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, -30.42, 0 ],
+            "scale": [ 1.61, 1.61, 1.61 ]
+        }
+    }
+}

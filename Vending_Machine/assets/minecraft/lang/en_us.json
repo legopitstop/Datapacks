@@ -1,0 +1,24 @@
+﻿{
+  "vm.gui.createvm": "§r§eCreated Vending Machine!",
+
+  "vm.spritecran.message": "§r§cWant a Sprite Cranberry?",
+  "continer.vm:vending_machine": "§r§7Vending Machine",
+
+  "item.vm:vending_machine": "§rVending Machine",
+  "item.vm:doritos": "§rDoritos",
+  "item.vm:fanta_grape": "§rFanta Grape",
+  "item.vm:fanta_orange": "§rFanta Orange",
+  "item.vm:fruit_snacks": "§rFruit Snacks",
+  "item.vm:granola_bar": "§rGranola Bar",
+  "item.vm:hershey": "§rHershey",
+  "item.vm:lays": "§rLays",
+  "item.vm:nutella": "§rNutella",
+  "item.vm:skittles": "§rSkittles",
+  "item.vm:snickers": "§rSnickers",
+  "item.vm:sprite": "§rSprite",
+  "item.vm:sprite_cran": "§rSprite Cranberry",
+  "item.vm:trail_mix": "§rTrail Mix",
+  "item.vm:twix": "§rTwix",
+
+  "lore.vm:vending_machine": "§r§7[Vending Machine]"
+}

@@ -1,0 +1,3 @@
+#> '/function minecoin:settings/delete_money.mcfunction' - delete all money
+# delete all money
+tellraw @p ["",{"text":"Are you sure you want to ","color":"red"},{"text":"delete ","bold":true,"color":"dark_red"},{"text":"all the money? ","color":"red"},{"text":"i","underlined":"true","color":"light_purple","hoverEvent":{"action":"show_text","value":"Clicking yes will clear all the money that is saved in this pack, you cannot undo this."}},{"text":"\n"},{"text":"Yes","underlined":true,"color":"dark_green","clickEvent":{"action":"run_command","value":"/function minecoin:data/delete_money"}}]

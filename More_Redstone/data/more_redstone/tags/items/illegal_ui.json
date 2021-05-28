@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:lime_stained_glass_pane",
+    "minecraft:red_stained_glass_pane",
+    "minecraft:light_gray_stained_glass_pane",
+    "minecraft:arrow",
+    "minecraft:clock",
+    "minecraft:daylight_detector",
+    "minecraft:redstone_block",
+    "minecraft:lever",
+    "minecraft:paper",
+    "minecraft:barrier"
+  ]
+}

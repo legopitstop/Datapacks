@@ -1,0 +1,16 @@
+{
+    "parent": "block/repeater_4tick",
+    "textures": {
+        "particle": "block/repeater",
+        "slab": "block/smooth_stone",
+        "top": "block/repeater",
+        "unlit": "block/redstone_torch_off"
+    },
+    "display": {
+        "head": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, -30.42, 0 ],
+            "scale": [ 1.61, 1.61, 1.61 ]
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "pack": {
+        "pack_format": 6,
+        "version": [1, 3, 0],
+        "description": [
+            {
+                "text": "Calculator in Minecraft!\n", 
+                "color":"gray"
+            },
+            {
+                "text": "Legopitstop", 
+                "color":"#e86608",
+                "underlined": "true"
+            }
+        ]
+    }
+ }

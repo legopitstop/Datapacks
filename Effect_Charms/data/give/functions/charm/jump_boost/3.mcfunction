@@ -1,0 +1,1 @@
+give @p minecraft:paper{CustomModelData:11,display:{Name:"{\"text\":\"Jump Boost III\",\"color\":\"green\",\"italic\":false}",Lore:["{\"text\":\"[Charm Item]\",\"color\":\"gray\",\"italic\":false}"]}} 1

@@ -1,0 +1,38 @@
+﻿{
+  "minecoin.reload.message": "§r§2Minecoin Datapack Installed!",
+  "minecoin.button.settings": "§r§1[Settings]",
+  "minecoin.button.updates": "§r§6[Click For Updates]",
+
+  "lps.gui.line_separator": "§8\u00A7m                                                                                ",
+  "minecoin.gui.settings": "§r                                 Settings",
+  "minecoin.gui.check": "§r§a[ ✔ ]",
+  "minecoin.gui.cross": "§r§c[ ❌ ]",
+  "minecoin.gui.pen": "§r§7[ ✎ ]",
+  "minecoin.gui.pen_edited": "§r§6[ ✎ ]",
+  "minecoin.gui.reset": "§r§4Reset",
+  "minecoin.gui.reset_desc": "§r You Cannot Go Back",
+  "minecoin.gui.survival.desc": "§r Survival - Break Blocks To Get Coins.",
+  "minecoin.gui.creative.desc": "§r Creative - Unlimited Coins.",
+  "minecoin.gui.cointimer.desc": "§r Cointimer - Get coins if you have been online.",
+  "minecoin.gui.commands.desc": "§r Commands - Disable/Enable trigger commands.",
+  "minecoin.gui.maxtimer.desc": "§r Set maxtimer Time",
+  "minecoin.gui.maxtimer.custom": "§r Custom maxtimer Time",
+  "minecoin.gui.viewaccount": "§r§6§lYou Are Viewing other player accounts!",
+
+  "minecoin.AddMoney.Auto.on": "§rAddMoney.Auto - §aON §r| run trigger to turn off",
+  "minecoin.AddMoney.Auto.off": "§rAddMoney.Auto - §cOFF §r| run trigger to turn on",
+  "minecoin.newplayerreload.message": "§r§cNew Player! Reloading Minecoin Datapack",
+  "minecoin.addmoney.desc": "§r§aAdded Minecoins To Your Balance",
+  "minecoin.addmoney.error": "§r§cError: Hold Minecoin item and run trigger again.",
+  "minecoin.balance.desc": "§r§a§lYour Balance:",
+  "minecoin.delete_money.desc": "§r§cDeleted All Money",
+  "minecoin.extractmoney.desc": "§r§aExtracted Minecoins From Balance",
+  "minecoin.extractmoney.error": "§r§cError: Your Account Is Empty!",
+  "minecoin.extractmoney.error2": "§r§cError: The Maxium you can extract is 64",
+  
+  "minecoin.settings.reset": "§r§cSettings Have Been Reset!",
+  "minecoin.settings.reload": "§r§cThis requires a reload. reloading...",
+  "minecoin.settings.maxtimer.error": "§r§cAnything less than 100 may cause errors, setting to default.",
+
+  "item.minecoin:minecoin": "§r§d1+ Minecoin"
+}

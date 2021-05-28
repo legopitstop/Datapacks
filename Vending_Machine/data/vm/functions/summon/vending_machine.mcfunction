@@ -1,0 +1,4 @@
+# summon test villager
+summon minecraft:villager ~ ~-.5 ~ {Silent:1b,Invulnerable:1b,NoAI:1b,CustomName:'{"translate":"Vending Machine"}',VillagerData:{level:1,profession:"minecraft:cleric",type:"minecraft:snow"},Offers:{Recipes:[{maxUses:128,buy:{id:"minecraft:paper",Count:1b,tag:{display:{Name:'{"translate":"item.minecoin:minecoin"}'},CustomModelData:420}},sell:{id:"minecraft:smooth_quartz",Count:1b}},{maxUses:128,buy:{id:"minecraft:smooth_quartz",Count:1b},sell:{id:"minecraft:paper",Count:1b,tag:{display:{Name:'{"translate":"item.minecoin:minecoin"}'},CustomModelData:420}}}]}}
+execute at @e[type=villager,name="Vending Machine"] run setblock ~ ~1 ~ stone_slab[type=top]
+execute at @e[type=villager,name="Vending Machine"] run setblock ~ ~ ~ stone

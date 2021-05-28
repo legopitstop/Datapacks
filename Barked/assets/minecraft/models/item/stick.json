@@ -1,0 +1,56 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/stick"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 51
+			},
+			"model": "barked:item/oak_bark"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 52
+			},
+			"model": "barked:item/spruce_bark"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 53
+			},
+			"model": "barked:item/birch_bark"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 54
+			},
+			"model": "barked:item/jungle_bark"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 55
+			},
+			"model": "barked:item/dark_oak_bark"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 56
+			},
+			"model": "barked:item/acacia_bark"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 57
+			},
+			"model": "barked:item/crimson_stipe"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 58
+			},
+			"model": "barked:item/warped_stipe"
+		}
+	]
+}

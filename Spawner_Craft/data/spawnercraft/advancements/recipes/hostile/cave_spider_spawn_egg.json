@@ -1,0 +1,43 @@
+{
+  "parent": "spawnercraft:recipes/spawnercraft_root",
+  "rewards": {
+    "recipes": [
+      "spawnercraft:hostile/cave_spider_spawn_egg"
+    ]
+  },
+  "criteria": {
+    "has_cobweb": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:cobweb"
+          }
+        ]
+      }
+    },
+    "has_spider_eye": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:spider_eye"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "spawnercraft:hostile/cave_spider_spawn_egg"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_cobweb",
+      "has_spider_eye",
+      "has_the_recipe"
+    ]
+  ]
+}

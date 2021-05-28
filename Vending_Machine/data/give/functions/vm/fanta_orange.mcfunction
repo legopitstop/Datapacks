@@ -1,0 +1,1 @@
+give @p minecraft:beetroot_soup{display:{Name:'{"translate":"item.vm:fanta_orange"}',Lore:['{"translate":"lore.vm:vending_machine"}']},CustomModelData:97} 1
