@@ -1,6 +1,24 @@
 {
-   "pack": {
-      "pack_format": 5,
-      "description": "SpawnerCraft!\n\u00a78Pack by: \u00a7r\u00a76\u00a7l\u00a7nLego\u00a7e\u00a7l\u00a7npit\u00a7f\u00a7l\u00a7nstop"
-   }
-}
+    "pack": {
+        "pack_format": 6,
+        "version": [1, 6, 0],
+        "description": [
+            {
+                "text": "Adds recipes for all the spawn eggs!\n", 
+                "color":"gray"
+            },
+            {
+                "text": "Legopitstop", 
+                "color":"#e86608",
+                "underlined": "true"
+            }
+        ],
+        "metadata": {
+            "authors": [
+                "Legopitstop"
+            ],
+            "license": "https://legopitstop.weebly.com/legopitstops-common-license.html",
+            "url": "https://legopitstop.weebly.com/"
+        }
+    }
+ }

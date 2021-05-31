@@ -1,5 +1,4 @@
 # [Legopitstop's Common License v2](https://legopitstop.weebly.com/legopitstops-common-license-v2.html "Go to legopitstop.weebly.com")
-[![license](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Flegopitstop%2Fwebsite-files%2Fmain%2Fshields.io%2Flicense.json)](https://legopitstop.weebly.com/legopitstops-common-license-v2.html "Go to legopitstop.weebly.com")
 
 The following applies to all Legopitstop's materials, unless stated.
 ## **You are free to:**

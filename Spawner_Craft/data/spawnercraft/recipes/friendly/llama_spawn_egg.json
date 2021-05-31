@@ -1,19 +1,16 @@
 ﻿{
     "type": "crafting_shaped",
     "pattern": [
-        "#T#",
+        " T ",
         "SES",
-        "#G#"
+        " G "
     ],
     "key": {
-        "#": {
-            "item": "minecraft:air"
-        },
         "E": {
-            "item": "minecraft:egg"
+            "tag": "spawnercraft:egg_items"
         },
         "G": {
-            "item": "minecraft:gold_ingot"
+            "tag": "spawnercraft:cost_items"
         },
         "T": {
             "tag": "minecraft:carpet"

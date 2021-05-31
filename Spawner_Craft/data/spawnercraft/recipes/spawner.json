@@ -7,13 +7,13 @@
     ],
     "key": {
         "B": {
-            "item": "minecraft:iron_bars"
+            "tag": "spawnercraft:spawner/outside_items"
         },
         "O": {
-            "item": "minecraft:obsidian"
+            "tag": "spawnercraft:spawner/bottom_items"
         },
         "D": {
-            "item": "minecraft:diamond_block"
+            "tag": "spawnercraft:spawner/cost_items"
         }
     },
     "result": {

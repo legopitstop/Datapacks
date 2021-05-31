@@ -18,6 +18,6 @@ DESC
 
 ## LINKS
 - [Download](DOWNLOAD)
-- [Wiki Page](https://github.com/legopitstop/Datapacks/wiki)
+- [Wiki Page](https://github.com/legopitstop/Datapacks/wiki/TEMPLATE)
 - [License](https://legopitstop.weebly.com/legopitstops-common-license-v2.html)
 - [Bug Report](https://github.com/legopitstop/Datapacks/issues)

@@ -1,0 +1,27 @@
+﻿{
+    "type": "crafting_shaped",
+    "pattern": [
+        " T ",
+        "SES",
+        " G "
+    ],
+    "key": {
+        "E": {
+            "tag": "spawnercraft:egg_items"
+        },
+        "G": {
+            "tag": "spawnercraft:cost_items"
+        },
+        "T": {
+            "item": "minecraft:wheat"
+        },
+        "S": {
+            "item": "minecraft:powder_snow_bucket"
+        }
+    },
+    "result": {
+        "item": "minecraft:goat_spawn_egg",
+        "count": 1
+    },
+    "group": "friendly"
+}

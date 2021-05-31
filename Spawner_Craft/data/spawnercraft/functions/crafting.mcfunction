@@ -1,6 +1,0 @@
-execute at @e[type=item,nbt={Item:{id:"minecraft:ghast_spawn_egg",Count:1b}}] run execute at @e[type=item,nbt={Item:{id:"minecraft:shears",Count:1b}}] run function spawnercraft:give/derpy_snow_golem_spawn_egg
-execute at @e[type=item,nbt={Item:{id:"minecraft:dragon_head",Count:1b}}] at @e[type=item,nbt={Item:{id:"minecraft:dragon_breath",Count:8b}}] run function spawnercraft:give/dragon_spawn_egg
-execute at @e[type=item,nbt={Item:{id:"minecraft:pillager_spawn_egg",Count:1b}}] at @e[type=item,nbt={Item:{id:"minecraft:diamond",Count:8b}}] run function spawnercraft:give/illusioner_spawn_egg
-execute at @e[type=item,nbt={Item:{id:"minecraft:carved_pumpkin",Count:1b}}] at @e[type=item,nbt={Item:{id:"minecraft:iron_block",Count:4b}}] run function spawnercraft:give/iron_golem_spawn_egg
-execute at @e[type=item,nbt={Item:{id:"minecraft:carved_pumpkin",Count:1b}}] at @e[type=item,nbt={Item:{id:"minecraft:snow_block",Count:2b}}] run function spawnercraft:give/snow_golem_spawn_egg
-execute at @e[type=item,nbt={Item:{id:"minecraft:wither_skeleton_skull",Count:3b}}] at @e[type=item,nbt={Item:{id:"minecraft:soul_sand",Count:4b}}] run function spawnercraft:give/wither_spawn_egg

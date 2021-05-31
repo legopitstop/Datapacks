@@ -1,0 +1,43 @@
+{
+  "parent": "spawnercraft:recipes/spawnercraft_root",
+  "rewards": {
+    "recipes": [
+      "spawnercraft:friendly/goat_spawn_egg"
+    ]
+  },
+  "criteria": {
+    "has_wheat": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "minecraft:wheat"
+          }
+        ]
+      }
+    },
+    "has_powder_snow_bucket": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:powder_snow_bucket"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "spawnercraft:friendly/goat_spawn_egg"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_wheat",
+      "has_powder_snow_bucket",
+      "has_the_recipe"
+    ]
+  ]
+}

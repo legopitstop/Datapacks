@@ -1,19 +1,16 @@
 ﻿{
     "type": "crafting_shaped",
     "pattern": [
-        "#T#",
+        " T ",
         "SES",
-        "#G#"
+        " G "
     ],
     "key": {
-        "#": {
-            "item": "minecraft:air"
-        },
         "E": {
             "item": "minecraft:vex_spawn_egg"
         },
         "G": {
-            "item": "minecraft:gold_ingot"
+            "tag": "spawnercraft:cost_items"
         },
         "S": {
             "item": "minecraft:emerald"

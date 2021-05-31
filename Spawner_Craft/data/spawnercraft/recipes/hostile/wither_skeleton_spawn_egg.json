@@ -1,14 +1,11 @@
 ﻿{
     "type": "crafting_shaped",
     "pattern": [
-        "#T#",
+        " T ",
         "SES",
-        "#G#"
+        " G "
     ],
     "key": {
-        "#": {
-            "item": "minecraft:air"
-        },
         "E": {
             "item": "minecraft:skeleton_spawn_egg"
         },

@@ -7,10 +7,10 @@
     ],
     "key": {
         "E": {
-            "item": "minecraft:egg"
+            "tag": "spawnercraft:egg_items"
         },
         "G": {
-            "item": "minecraft:gold_ingot"
+            "tag": "spawnercraft:cost_items"
         },
         "S": {
             "item": "minecraft:porkchop"
