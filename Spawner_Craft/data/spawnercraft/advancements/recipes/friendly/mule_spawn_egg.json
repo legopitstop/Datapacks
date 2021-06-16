@@ -6,27 +6,15 @@
     ]
   },
   "criteria": {
-    "has_donkey_spawn_egg": {
-      "trigger": "minecraft:inventory_changed",
+    "killed_entity": {
+      "trigger": "minecraft:player_killed_entity",
       "conditions": {
-        "items": [
-          {
-            "item": "minecraft:donkey_spawn_egg"
-          }
-        ]
+        "entity": {
+          "type": "minecraft:mule"
+        }
       }
     },
-    "has_horse_spawn_egg": {
-      "trigger": "minecraft:inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "item": "minecraft:horse_spawn_egg"
-          }
-        ]
-      }
-    },
-    "has_the_recipe": {
+    "has_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
         "recipe": "spawnercraft:friendly/mule_spawn_egg"
@@ -35,9 +23,8 @@
   },
   "requirements": [
     [
-      "has_donkey_spawn_egg",
-      "has_horse_spawn_egg",
-      "has_the_recipe"
+      "killed_entity",
+      "has_recipe"
     ]
   ]
 }

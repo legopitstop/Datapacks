@@ -6,37 +6,15 @@
     ]
   },
   "criteria": {
-    "has_redstone": {
-      "trigger": "minecraft:inventory_changed",
+    "killed_entity": {
+      "trigger": "minecraft:player_killed_entity",
       "conditions": {
-        "items": [
-          {
-            "item": "minecraft:redstone"
-          }
-        ]
+        "entity": {
+          "type": "minecraft:witch"
+        }
       }
     },
-    "has_glowstone_dust": {
-      "trigger": "minecraft:inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "item": "minecraft:glowstone_dust"
-          }
-        ]
-      }
-    },
-    "has_glass_bottle": {
-      "trigger": "minecraft:inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "item": "minecraft:glass_bottle"
-          }
-        ]
-      }
-    },
-    "has_the_recipe": {
+    "has_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
         "recipe": "spawnercraft:hostile/witch_spawn_egg"
@@ -45,10 +23,8 @@
   },
   "requirements": [
     [
-      "has_redstone",
-      "has_glowstone_dust",
-      "has_glass_bottle",
-      "has_the_recipe"
+      "killed_entity",
+      "has_recipe"
     ]
   ]
 }

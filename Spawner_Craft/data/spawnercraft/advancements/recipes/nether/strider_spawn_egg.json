@@ -6,27 +6,15 @@
     ]
   },
   "criteria": {
-    "has_string": {
-      "trigger": "minecraft:inventory_changed",
+    "killed_entity": {
+      "trigger": "minecraft:player_killed_entity",
       "conditions": {
-        "items": [
-          {
-            "item": "minecraft:string"
-          }
-        ]
+        "entity": {
+          "type": "minecraft:strider"
+        }
       }
     },
-    "has_lava_bucket": {
-      "trigger": "minecraft:inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "item": "minecraft:lava_bucket"
-          }
-        ]
-      }
-    },
-    "has_the_recipe": {
+    "has_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
         "recipe": "spawnercraft:nether/strider_spawn_egg"
@@ -35,9 +23,8 @@
   },
   "requirements": [
     [
-      "has_string",
-      "has_lava_bucket",
-      "has_the_recipe"
+      "killed_entity",
+      "has_recipe"
     ]
   ]
 }

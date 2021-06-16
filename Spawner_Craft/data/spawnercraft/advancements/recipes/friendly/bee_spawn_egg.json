@@ -6,27 +6,15 @@
     ]
   },
   "criteria": {
-    "has_honey_bottle": {
-      "trigger": "minecraft:inventory_changed",
+    "killed_entity": {
+      "trigger": "minecraft:player_killed_entity",
       "conditions": {
-        "items": [
-          {
-            "item": "minecraft:honey_bottle"
-          }
-        ]
+        "entity": {
+          "type": "minecraft:bee"
+        }
       }
     },
-    "has_honeycomb": {
-      "trigger": "minecraft:inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "item": "minecraft:honeycomb"
-          }
-        ]
-      }
-    },
-    "has_the_recipe": {
+    "has_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
         "recipe": "spawnercraft:friendly/bee_spawn_egg"
@@ -35,9 +23,8 @@
   },
   "requirements": [
     [
-      "has_honey_bottle",
-      "has_honeycomb",
-      "has_the_recipe"
+      "killed_entity",
+      "has_recipe"
     ]
   ]
 }

@@ -6,27 +6,15 @@
     ]
   },
   "criteria": {
-    "has_wool": {
-      "trigger": "minecraft:inventory_changed",
+    "killed_entity": {
+      "trigger": "minecraft:player_killed_entity",
       "conditions": {
-        "items": [
-          {
-            "tag": "minecraft:wool"
-          }
-        ]
+        "entity": {
+          "type": "minecraft:sheep"
+        }
       }
     },
-    "has_mutton": {
-      "trigger": "minecraft:inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "item": "minecraft:mutton"
-          }
-        ]
-      }
-    },
-    "has_the_recipe": {
+    "has_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
         "recipe": "spawnercraft:friendly/sheep_spawn_egg"
@@ -35,9 +23,8 @@
   },
   "requirements": [
     [
-      "has_wool",
-      "has_mutton",
-      "has_the_recipe"
+      "killed_entity",
+      "has_recipe"
     ]
   ]
 }

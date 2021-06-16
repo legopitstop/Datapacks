@@ -6,27 +6,15 @@
     ]
   },
   "criteria": {
-    "has_hoglin_spawn_egg": {
-      "trigger": "minecraft:inventory_changed",
+    "killed_entity": {
+      "trigger": "minecraft:player_killed_entity",
       "conditions": {
-        "items": [
-          {
-            "item": "minecraft:hoglin_spawn_egg"
-          }
-        ]
+        "entity": {
+          "type": "minecraft:zoglin"
+        }
       }
     },
-    "has_zombie_spawn_egg": {
-      "trigger": "minecraft:inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "item": "minecraft:zombie_spawn_egg"
-          }
-        ]
-      }
-    },
-    "has_the_recipe": {
+    "has_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
         "recipe": "spawnercraft:nether/zoglin_spawn_egg"
@@ -35,9 +23,8 @@
   },
   "requirements": [
     [
-      "has_hoglin_spawn_egg",
-      "has_zombie_spawn_egg",
-      "has_the_recipe"
+      "killed_entity",
+      "has_recipe"
     ]
   ]
 }

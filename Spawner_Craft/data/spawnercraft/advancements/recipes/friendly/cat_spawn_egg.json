@@ -6,27 +6,15 @@
     ]
   },
   "criteria": {
-    "has_string": {
-      "trigger": "minecraft:inventory_changed",
+    "killed_entity": {
+      "trigger": "minecraft:player_killed_entity",
       "conditions": {
-        "items": [
-          {
-            "item": "minecraft:string"
-          }
-        ]
+        "entity": {
+          "type": "minecraft:cat"
+        }
       }
     },
-    "has_wool": {
-      "trigger": "minecraft:inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "tag": "minecraft:wool"
-          }
-        ]
-      }
-    },
-    "has_the_recipe": {
+    "has_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
         "recipe": "spawnercraft:friendly/cat_spawn_egg"
@@ -35,9 +23,8 @@
   },
   "requirements": [
     [
-      "has_string",
-      "has_wool",
-      "has_the_recipe"
+      "killed_entity",
+      "has_recipe"
     ]
   ]
 }

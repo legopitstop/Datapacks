@@ -6,17 +6,15 @@
     ]
   },
   "criteria": {
-    "has_bamboo": {
-      "trigger": "minecraft:inventory_changed",
+    "killed_entity": {
+      "trigger": "minecraft:player_killed_entity",
       "conditions": {
-        "items": [
-          {
-            "item": "minecraft:bamboo"
-          }
-        ]
+        "entity": {
+          "type": "minecraft:panda"
+        }
       }
     },
-    "has_the_recipe": {
+    "has_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
         "recipe": "spawnercraft:friendly/panda_spawn_egg"
@@ -25,8 +23,8 @@
   },
   "requirements": [
     [
-      "has_bamboo",
-      "has_the_recipe"
+      "killed_entity",
+      "has_recipe"
     ]
   ]
 }

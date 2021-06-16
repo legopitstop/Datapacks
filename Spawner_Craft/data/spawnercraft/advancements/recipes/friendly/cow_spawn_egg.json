@@ -6,27 +6,15 @@
     ]
   },
   "criteria": {
-    "has_leather": {
-      "trigger": "minecraft:inventory_changed",
+    "killed_entity": {
+      "trigger": "minecraft:player_killed_entity",
       "conditions": {
-        "items": [
-          {
-            "item": "minecraft:leather"
-          }
-        ]
+        "entity": {
+          "type": "minecraft:cow"
+        }
       }
     },
-    "has_beef": {
-      "trigger": "minecraft:inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "item": "minecraft:beef"
-          }
-        ]
-      }
-    },
-    "has_the_recipe": {
+    "has_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
         "recipe": "spawnercraft:friendly/cow_spawn_egg"
@@ -35,9 +23,8 @@
   },
   "requirements": [
     [
-      "has_leather",
-      "has_beef",
-      "has_the_recipe"
+      "killed_entity",
+      "has_recipe"
     ]
   ]
 }

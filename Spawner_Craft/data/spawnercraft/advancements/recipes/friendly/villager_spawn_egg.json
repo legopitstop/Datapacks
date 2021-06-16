@@ -6,17 +6,15 @@
     ]
   },
   "criteria": {
-    "has_emerald": {
-      "trigger": "minecraft:inventory_changed",
+    "killed_entity": {
+      "trigger": "minecraft:player_killed_entity",
       "conditions": {
-        "items": [
-          {
-            "item": "minecraft:emerald"
-          }
-        ]
+        "entity": {
+          "type": "minecraft:villager"
+        }
       }
     },
-    "has_the_recipe": {
+    "has_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
         "recipe": "spawnercraft:friendly/villager_spawn_egg"
@@ -25,8 +23,8 @@
   },
   "requirements": [
     [
-      "has_emerald",
-      "has_the_recipe"
+      "killed_entity",
+      "has_recipe"
     ]
   ]
 }

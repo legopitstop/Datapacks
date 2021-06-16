@@ -6,27 +6,15 @@
     ]
   },
   "criteria": {
-    "has_wheat": {
-      "trigger": "minecraft:inventory_changed",
+    "killed_entity": {
+      "trigger": "minecraft:player_killed_entity",
       "conditions": {
-        "items": [
-          {
-            "tag": "minecraft:wheat"
-          }
-        ]
+        "entity": {
+          "type": "minecraft:goat"
+        }
       }
     },
-    "has_powder_snow_bucket": {
-      "trigger": "minecraft:inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "item": "minecraft:powder_snow_bucket"
-          }
-        ]
-      }
-    },
-    "has_the_recipe": {
+    "has_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
         "recipe": "spawnercraft:friendly/goat_spawn_egg"
@@ -35,9 +23,8 @@
   },
   "requirements": [
     [
-      "has_wheat",
-      "has_powder_snow_bucket",
-      "has_the_recipe"
+      "killed_entity",
+      "has_recipe"
     ]
   ]
 }

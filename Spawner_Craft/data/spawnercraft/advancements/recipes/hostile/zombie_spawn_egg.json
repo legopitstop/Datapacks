@@ -6,17 +6,15 @@
     ]
   },
   "criteria": {
-    "has_rotten_flesh": {
-      "trigger": "minecraft:inventory_changed",
+    "killed_entity": {
+      "trigger": "minecraft:player_killed_entity",
       "conditions": {
-        "items": [
-          {
-            "item": "minecraft:rotten_flesh"
-          }
-        ]
+        "entity": {
+          "type": "minecraft:zombie"
+        }
       }
     },
-    "has_the_recipe": {
+    "has_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
         "recipe": "spawnercraft:hostile/zombie_spawn_egg"
@@ -25,8 +23,8 @@
   },
   "requirements": [
     [
-      "has_rotten_flesh",
-      "has_the_recipe"
+      "killed_entity",
+      "has_recipe"
     ]
   ]
 }

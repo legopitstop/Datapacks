@@ -6,27 +6,15 @@
     ]
   },
   "criteria": {
-    "has_blaze_powder": {
-      "trigger": "minecraft:inventory_changed",
+    "killed_entity": {
+      "trigger": "minecraft:player_killed_entity",
       "conditions": {
-        "items": [
-          {
-            "item": "minecraft:blaze_powder"
-          }
-        ]
+        "entity": {
+          "type": "minecraft:blaze"
+        }
       }
     },
-    "has_blaze_rod": {
-      "trigger": "minecraft:inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "item": "minecraft:blaze_rod"
-          }
-        ]
-      }
-    },
-    "has_the_recipe": {
+    "has_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
         "recipe": "spawnercraft:nether/blaze_spawn_egg"
@@ -35,9 +23,8 @@
   },
   "requirements": [
     [
-      "has_blaze_powder",
-      "has_blaze_rod",
-      "has_the_recipe"
+      "killed_entity",
+      "has_recipe"
     ]
   ]
 }

@@ -6,27 +6,15 @@
     ]
   },
   "criteria": {
-    "has_gold_ingot": {
-      "trigger": "minecraft:inventory_changed",
+    "killed_entity": {
+      "trigger": "minecraft:player_killed_entity",
       "conditions": {
-        "items": [
-          {
-            "item": "minecraft:gold_ingot"
-          }
-        ]
+        "entity": {
+          "type": "minecraft:piglin"
+        }
       }
     },
-    "has_pig_spawn_egg": {
-      "trigger": "minecraft:inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "item": "minecraft:pig_spawn_egg"
-          }
-        ]
-      }
-    },
-    "has_the_recipe": {
+    "has_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
         "recipe": "spawnercraft:nether/piglin_spawn_egg"
@@ -35,9 +23,8 @@
   },
   "requirements": [
     [
-      "has_gold_ingot",
-      "has_pig_spawn_egg",
-      "has_the_recipe"
+      "killed_entity",
+      "has_recipe"
     ]
   ]
 }

@@ -6,27 +6,15 @@
     ]
   },
   "criteria": {
-    "has_wheat": {
-      "trigger": "minecraft:inventory_changed",
+    "killed_entity": {
+      "trigger": "minecraft:player_killed_entity",
       "conditions": {
-        "items": [
-          {
-            "item": "minecraft:wheat"
-          }
-        ]
+        "entity": {
+          "type": "minecraft:donkey"
+        }
       }
     },
-    "has_leather": {
-      "trigger": "minecraft:inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "item": "minecraft:leather"
-          }
-        ]
-      }
-    },
-    "has_the_recipe": {
+    "has_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
         "recipe": "spawnercraft:friendly/donkey_spawn_egg"
@@ -35,9 +23,8 @@
   },
   "requirements": [
     [
-      "has_wheat",
-      "has_leather",
-      "has_the_recipe"
+      "killed_entity",
+      "has_recipe"
     ]
   ]
 }

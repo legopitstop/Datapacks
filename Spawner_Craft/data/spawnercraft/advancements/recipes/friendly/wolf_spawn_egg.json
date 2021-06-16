@@ -6,37 +6,15 @@
     ]
   },
   "criteria": {
-    "has_bone": {
-      "trigger": "minecraft:inventory_changed",
+    "killed_entity": {
+      "trigger": "minecraft:player_killed_entity",
       "conditions": {
-        "items": [
-          {
-            "item": "minecraft:bone"
-          }
-        ]
+        "entity": {
+          "type": "minecraft:wolf"
+        }
       }
     },
-    "has_beef": {
-      "trigger": "minecraft:inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "item": "minecraft:beef"
-          }
-        ]
-      }
-    },
-    "has_chicken": {
-      "trigger": "minecraft:inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "item": "minecraft:chicken"
-          }
-        ]
-      }
-    },
-    "has_the_recipe": {
+    "has_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
         "recipe": "spawnercraft:friendly/wolf_spawn_egg"
@@ -45,10 +23,8 @@
   },
   "requirements": [
     [
-      "has_bone",
-      "has_beef",
-      "has_chicken",
-      "has_the_recipe"
+      "killed_entity",
+      "has_recipe"
     ]
   ]
 }

@@ -6,37 +6,15 @@
     ]
   },
   "criteria": {
-    "has_skeleton_spawn_egg": {
-      "trigger": "minecraft:inventory_changed",
+    "killed_entity": {
+      "trigger": "minecraft:player_killed_entity",
       "conditions": {
-        "items": [
-          {
-            "item": "minecraft:skeleton_spawn_egg"
-          }
-        ]
+        "entity": {
+          "type": "minecraft:stray"
+        }
       }
     },
-    "has_ice": {
-      "trigger": "minecraft:inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "item": "minecraft:ice"
-          }
-        ]
-      }
-    },
-    "has_bow": {
-      "trigger": "minecraft:inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "item": "minecraft:bow"
-          }
-        ]
-      }
-    },
-    "has_the_recipe": {
+    "has_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
         "recipe": "spawnercraft:hostile/stray_spawn_egg"
@@ -45,10 +23,8 @@
   },
   "requirements": [
     [
-      "has_skeleton_spawn_egg",
-      "has_ice",
-      "has_bow",
-      "has_the_recipe"
+      "killed_entity",
+      "has_recipe"
     ]
   ]
 }

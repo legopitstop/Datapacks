@@ -6,27 +6,15 @@
     ]
   },
   "criteria": {
-    "has_bone": {
-      "trigger": "minecraft:inventory_changed",
+    "killed_entity": {
+      "trigger": "minecraft:player_killed_entity",
       "conditions": {
-        "items": [
-          {
-            "item": "minecraft:bone"
-          }
-        ]
+        "entity": {
+          "type": "minecraft:skeleton"
+        }
       }
     },
-    "has_bow": {
-      "trigger": "minecraft:inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "item": "minecraft:bow"
-          }
-        ]
-      }
-    },
-    "has_the_recipe": {
+    "has_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
         "recipe": "spawnercraft:hostile/skeleton_spawn_egg"
@@ -35,9 +23,8 @@
   },
   "requirements": [
     [
-      "has_bone",
-      "has_bow",
-      "has_the_recipe"
+      "killed_entity",
+      "has_recipe"
     ]
   ]
 }

@@ -6,27 +6,15 @@
     ]
   },
   "criteria": {
-    "has_rabbit_hide": {
-      "trigger": "minecraft:inventory_changed",
+    "killed_entity": {
+      "trigger": "minecraft:player_killed_entity",
       "conditions": {
-        "items": [
-          {
-            "item": "minecraft:rabbit_hide"
-          }
-        ]
+        "entity": {
+          "type": "minecraft:rabbit"
+        }
       }
     },
-    "has_rabbit": {
-      "trigger": "minecraft:inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "item": "minecraft:rabbit"
-          }
-        ]
-      }
-    },
-    "has_the_recipe": {
+    "has_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
         "recipe": "spawnercraft:friendly/rabbit_spawn_egg"
@@ -35,9 +23,8 @@
   },
   "requirements": [
     [
-      "has_rabbit_hide",
-      "has_rabbit",
-      "has_the_recipe"
+      "killed_entity",
+      "has_recipe"
     ]
   ]
 }

@@ -6,27 +6,15 @@
     ]
   },
   "criteria": {
-    "has_carrot_on_a_stick": {
-      "trigger": "minecraft:inventory_changed",
+    "killed_entity": {
+      "trigger": "minecraft:player_killed_entity",
       "conditions": {
-        "items": [
-          {
-            "item": "minecraft:carrot_on_a_stick"
-          }
-        ]
+        "entity": {
+          "type": "minecraft:pig"
+        }
       }
     },
-    "has_porkchop": {
-      "trigger": "minecraft:inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "item": "minecraft:porkchop"
-          }
-        ]
-      }
-    },
-    "has_the_recipe": {
+    "has_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
         "recipe": "spawnercraft:friendly/pig_spawn_egg"
@@ -35,9 +23,8 @@
   },
   "requirements": [
     [
-      "has_carrot_on_a_stick",
-      "has_porkchop",
-      "has_the_recipe"
+      "killed_entity",
+      "has_recipe"
     ]
   ]
 }

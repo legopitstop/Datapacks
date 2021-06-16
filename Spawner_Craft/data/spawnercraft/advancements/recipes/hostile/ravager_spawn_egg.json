@@ -6,27 +6,15 @@
     ]
   },
   "criteria": {
-    "has_iron_block": {
-      "trigger": "minecraft:inventory_changed",
+    "killed_entity": {
+      "trigger": "minecraft:player_killed_entity",
       "conditions": {
-        "items": [
-          {
-            "item": "minecraft:iron_block"
-          }
-        ]
+        "entity": {
+          "type": "minecraft:ravager"
+        }
       }
     },
-    "has_saddle": {
-      "trigger": "minecraft:inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "item": "minecraft:saddle"
-          }
-        ]
-      }
-    },
-    "has_the_recipe": {
+    "has_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
         "recipe": "spawnercraft:hostile/ravager_spawn_egg"
@@ -35,9 +23,8 @@
   },
   "requirements": [
     [
-      "has_iron_block",
-      "has_saddle",
-      "has_the_recipe"
+      "killed_entity",
+      "has_recipe"
     ]
   ]
 }

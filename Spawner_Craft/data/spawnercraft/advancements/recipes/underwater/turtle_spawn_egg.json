@@ -6,27 +6,15 @@
     ]
   },
   "criteria": {
-    "has_water_bucket": {
-      "trigger": "minecraft:inventory_changed",
+    "killed_entity": {
+      "trigger": "minecraft:player_killed_entity",
       "conditions": {
-        "items": [
-          {
-            "item": "minecraft:water_bucket"
-          }
-        ]
+        "entity": {
+          "type": "minecraft:turtle"
+        }
       }
     },
-    "has_turtle_egg": {
-      "trigger": "minecraft:inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "item": "minecraft:turtle_egg"
-          }
-        ]
-      }
-    },
-    "has_the_recipe": {
+    "has_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
         "recipe": "spawnercraft:underwater/turtle_spawn_egg"
@@ -35,9 +23,8 @@
   },
   "requirements": [
     [
-      "has_water_bucket",
-      "has_turtle_egg",
-      "has_the_recipe"
+      "killed_entity",
+      "has_recipe"
     ]
   ]
 }

@@ -6,27 +6,15 @@
     ]
   },
   "criteria": {
-    "has_cobweb": {
-      "trigger": "minecraft:inventory_changed",
+    "killed_entity": {
+      "trigger": "minecraft:player_killed_entity",
       "conditions": {
-        "items": [
-          {
-            "item": "minecraft:cobweb"
-          }
-        ]
+        "entity": {
+          "type": "minecraft:cave_spider"
+        }
       }
     },
-    "has_spider_eye": {
-      "trigger": "minecraft:inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "item": "minecraft:spider_eye"
-          }
-        ]
-      }
-    },
-    "has_the_recipe": {
+    "has_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
         "recipe": "spawnercraft:hostile/cave_spider_spawn_egg"
@@ -35,9 +23,8 @@
   },
   "requirements": [
     [
-      "has_cobweb",
-      "has_spider_eye",
-      "has_the_recipe"
+      "killed_entity",
+      "has_recipe"
     ]
   ]
 }

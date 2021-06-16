@@ -6,27 +6,15 @@
     ]
   },
   "criteria": {
-    "has_emerald": {
-      "trigger": "minecraft:inventory_changed",
+    "killed_entity": {
+      "trigger": "minecraft:player_killed_entity",
       "conditions": {
-        "items": [
-          {
-            "item": "minecraft:emerald"
-          }
-        ]
+        "entity": {
+          "type": "minecraft:vindicator"
+        }
       }
     },
-    "has_iron_axe": {
-      "trigger": "minecraft:inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "item": "minecraft:iron_axe"
-          }
-        ]
-      }
-    },
-    "has_the_recipe": {
+    "has_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
         "recipe": "spawnercraft:hostile/vindicator_spawn_egg"
@@ -35,9 +23,8 @@
   },
   "requirements": [
     [
-      "has_emerald",
-      "has_iron_axe",
-      "has_the_recipe"
+      "killed_entity",
+      "has_recipe"
     ]
   ]
 }

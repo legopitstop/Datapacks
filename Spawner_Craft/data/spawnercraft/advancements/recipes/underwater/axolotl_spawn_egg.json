@@ -6,27 +6,15 @@
     ]
   },
   "criteria": {
-    "has_water_bucket": {
-      "trigger": "minecraft:inventory_changed",
+    "killed_entity": {
+      "trigger": "minecraft:player_killed_entity",
       "conditions": {
-        "items": [
-          {
-            "item": "minecraft:water_bucket"
-          }
-        ]
+        "entity": {
+          "type": "minecraft:axolotl"
+        }
       }
     },
-    "has_tropical_fish_bucket": {
-      "trigger": "minecraft:inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "item": "minecraft:tropical_fish_bucket"
-          }
-        ]
-      }
-    },
-    "has_the_recipe": {
+    "has_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
         "recipe": "spawnercraft:underwater/axolotl_spawn_egg"
@@ -35,9 +23,8 @@
   },
   "requirements": [
     [
-      "has_water_bucket",
-      "has_tropical_fish_bucket",
-      "has_the_recipe"
+      "killed_entity",
+      "has_recipe"
     ]
   ]
 }

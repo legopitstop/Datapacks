@@ -6,37 +6,15 @@
     ]
   },
   "criteria": {
-    "has_piglin_spawn_egg": {
-      "trigger": "minecraft:inventory_changed",
+    "killed_entity": {
+      "trigger": "minecraft:player_killed_entity",
       "conditions": {
-        "items": [
-          {
-            "item": "minecraft:piglin_spawn_egg"
-          }
-        ]
+        "entity": {
+          "type": "minecraft:piglin_brute"
+        }
       }
     },
-    "has_gold_block": {
-      "trigger": "minecraft:inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "item": "minecraft:gold_block"
-          }
-        ]
-      }
-    },
-    "has_golden_axe": {
-      "trigger": "minecraft:inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "item": "minecraft:golden_axe"
-          }
-        ]
-      }
-    },
-    "has_the_recipe": {
+    "has_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
         "recipe": "spawnercraft:nether/piglin_brute_spawn_egg"
@@ -45,10 +23,8 @@
   },
   "requirements": [
     [
-      "has_piglin_spawn_egg",
-      "has_gold_block",
-      "has_golden_axe",
-      "has_the_recipe"
+      "killed_entity",
+      "has_recipe"
     ]
   ]
 }

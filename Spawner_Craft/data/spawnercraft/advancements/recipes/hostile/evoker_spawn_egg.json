@@ -6,37 +6,15 @@
     ]
   },
   "criteria": {
-    "has_vex_spawn_egg": {
-      "trigger": "minecraft:inventory_changed",
+    "killed_entity": {
+      "trigger": "minecraft:player_killed_entity",
       "conditions": {
-        "items": [
-          {
-            "item": "minecraft:vex_spawn_egg"
-          }
-        ]
+        "entity": {
+          "type": "minecraft:evoker"
+        }
       }
     },
-    "has_emerald": {
-      "trigger": "minecraft:inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "item": "minecraft:emerald"
-          }
-        ]
-      }
-    },
-    "has_emerald_block": {
-      "trigger": "minecraft:inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "item": "minecraft:emerald_block"
-          }
-        ]
-      }
-    },
-    "has_the_recipe": {
+    "has_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
         "recipe": "spawnercraft:hostile/evoker_spawn_egg"
@@ -45,10 +23,8 @@
   },
   "requirements": [
     [
-      "has_vex_spawn_egg",
-      "has_emerald",
-      "has_emerald_block",
-      "has_the_recipe"
+      "killed_entity",
+      "has_recipe"
     ]
   ]
 }

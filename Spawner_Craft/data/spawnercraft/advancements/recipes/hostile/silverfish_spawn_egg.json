@@ -6,27 +6,15 @@
     ]
   },
   "criteria": {
-    "has_cod": {
-      "trigger": "minecraft:inventory_changed",
+    "killed_entity": {
+      "trigger": "minecraft:player_killed_entity",
       "conditions": {
-        "items": [
-          {
-            "item": "minecraft:cod"
-          }
-        ]
+        "entity": {
+          "type": "minecraft:silverfish"
+        }
       }
     },
-    "has_iron_ingot": {
-      "trigger": "minecraft:inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "item": "minecraft:iron_ingot"
-          }
-        ]
-      }
-    },
-    "has_the_recipe": {
+    "has_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
         "recipe": "spawnercraft:hostile/silverfish_spawn_egg"
@@ -35,9 +23,8 @@
   },
   "requirements": [
     [
-      "has_cod",
-      "has_iron_ingot",
-      "has_the_recipe"
+      "killed_entity",
+      "has_recipe"
     ]
   ]
 }
