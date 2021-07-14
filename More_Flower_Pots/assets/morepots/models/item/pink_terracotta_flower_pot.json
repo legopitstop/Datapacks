@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "morepots:item/pink_terracotta_flower_pot"
+  }
+}

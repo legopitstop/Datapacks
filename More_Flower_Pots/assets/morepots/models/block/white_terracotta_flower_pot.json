@@ -1,0 +1,7 @@
+{
+    "parent": "morepots:block/template_flower_pot",
+    "textures": {
+        "particle": "#flowerpot",
+        "flowerpot": "morepots:block/white_terracotta_flower_pot"
+    }
+}

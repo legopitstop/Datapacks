@@ -1,0 +1,9 @@
+{
+    "lps_info": "FOOD=yellow,ITEM=white,TOOL=green,BLOCK=dark_gray,PLANT=dark_green,ENTITY=light_purple",
+    "lore.lps:food": "§e[FOOD]",
+    "lore.lps:item": "§6[ITEM]",
+    "lore.lps:tool": "§a[TOOL]",
+    "lore.lps:block": "§8[BLOCK]",
+    "lore.lps:plant": "§2[PLANT]",
+    "lore.lps:entity": "§d[ENTITY]"
+}

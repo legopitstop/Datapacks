@@ -1,0 +1,23 @@
+{
+    "__comment": "This is a parent model for all lps datapacks that have a gui/ui item. this is a slightly larger item to fill out the whole slot.",
+    "textures": {
+        "layer0": "minecraft:gui/demo_background"
+    },
+    "gui_light": "front",
+    "display": {
+        "gui": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 1.25, 1.25, 1.25 ]
+        }
+    },
+    "elements": [
+        {
+            "from": [ 0, 0, 0 ], 
+            "to": [ 16, 16, 0 ], 
+            "faces": {
+                "south": { "texture": "#layer0", "uv": [ 2, 2, 2, 2 ] }
+            }
+        }
+    ]
+}

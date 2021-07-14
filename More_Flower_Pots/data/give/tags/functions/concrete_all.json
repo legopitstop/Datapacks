@@ -1,0 +1,21 @@
+{
+   "replace": false,
+   "values": [
+       "give:black_concrete_flower_pot",
+       "give:blue_concrete_flower_pot",
+       "give:brown_concrete_flower_pot",
+       "give:cyan_concrete_flower_pot",
+       "give:gray_concrete_flower_pot",
+       "give:green_concrete_flower_pot",
+       "give:light_blue_concrete_flower_pot",
+       "give:light_gray_concrete_flower_pot",
+       "give:lime_concrete_flower_pot",
+       "give:magenta_concrete_flower_pot",
+       "give:orange_concrete_flower_pot",
+       "give:pink_concrete_flower_pot",
+       "give:purple_concrete_flower_pot",
+       "give:red_concrete_flower_pot",
+       "give:white_concrete_flower_pot",
+       "give:yellow_concrete_flower_pot"
+   ]
+}

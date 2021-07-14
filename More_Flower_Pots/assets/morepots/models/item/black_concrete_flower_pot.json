@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "morepots:item/black_concrete_flower_pot"
+  }
+}

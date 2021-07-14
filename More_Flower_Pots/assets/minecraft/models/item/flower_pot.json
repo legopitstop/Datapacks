@@ -1,0 +1,42 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/flower_pot"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 50},"model": "morepots:block/terracotta_flower_pot"},
+		{"predicate": {"custom_model_data": 51},"model": "morepots:block/black_terracotta_flower_pot"},
+		{"predicate": {"custom_model_data": 52},"model": "morepots:block/blue_terracotta_flower_pot"},
+		{"predicate": {"custom_model_data": 53},"model": "morepots:block/brown_terracotta_flower_pot"},
+		{"predicate": {"custom_model_data": 54},"model": "morepots:block/cyan_terracotta_flower_pot"},
+		{"predicate": {"custom_model_data": 55},"model": "morepots:block/gray_terracotta_flower_pot"},
+		{"predicate": {"custom_model_data": 56},"model": "morepots:block/green_terracotta_flower_pot"},
+		{"predicate": {"custom_model_data": 57},"model": "morepots:block/light_blue_terracotta_flower_pot"},
+		{"predicate": {"custom_model_data": 58},"model": "morepots:block/light_gray_terracotta_flower_pot"},
+		{"predicate": {"custom_model_data": 59},"model": "morepots:block/lime_terracotta_flower_pot"},
+		{"predicate": {"custom_model_data": 60},"model": "morepots:block/magenta_terracotta_flower_pot"},
+		{"predicate": {"custom_model_data": 61},"model": "morepots:block/orange_terracotta_flower_pot"},
+		{"predicate": {"custom_model_data": 62},"model": "morepots:block/pink_terracotta_flower_pot"},
+		{"predicate": {"custom_model_data": 63},"model": "morepots:block/purple_terracotta_flower_pot"},
+		{"predicate": {"custom_model_data": 64},"model": "morepots:block/red_terracotta_flower_pot"},
+		{"predicate": {"custom_model_data": 65},"model": "morepots:block/white_terracotta_flower_pot"},
+		{"predicate": {"custom_model_data": 66},"model": "morepots:block/yellow_terracotta_flower_pot"},
+		
+		{"predicate": {"custom_model_data": 67},"model": "morepots:block/black_concrete_flower_pot"},
+		{"predicate": {"custom_model_data": 68},"model": "morepots:block/blue_concrete_flower_pot"},
+		{"predicate": {"custom_model_data": 69},"model": "morepots:block/brown_concrete_flower_pot"},
+		{"predicate": {"custom_model_data": 70},"model": "morepots:block/cyan_concrete_flower_pot"},
+		{"predicate": {"custom_model_data": 71},"model": "morepots:block/gray_concrete_flower_pot"},
+		{"predicate": {"custom_model_data": 72},"model": "morepots:block/green_concrete_flower_pot"},
+		{"predicate": {"custom_model_data": 73},"model": "morepots:block/light_blue_concrete_flower_pot"},
+		{"predicate": {"custom_model_data": 74},"model": "morepots:block/light_gray_concrete_flower_pot"},
+		{"predicate": {"custom_model_data": 75},"model": "morepots:block/lime_concrete_flower_pot"},
+		{"predicate": {"custom_model_data": 76},"model": "morepots:block/magenta_concrete_flower_pot"},
+		{"predicate": {"custom_model_data": 77},"model": "morepots:block/orange_concrete_flower_pot"},
+		{"predicate": {"custom_model_data": 78},"model": "morepots:block/pink_concrete_flower_pot"},
+		{"predicate": {"custom_model_data": 79},"model": "morepots:block/purple_concrete_flower_pot"},
+		{"predicate": {"custom_model_data": 80},"model": "morepots:block/red_concrete_flower_pot"},
+		{"predicate": {"custom_model_data": 81},"model": "morepots:block/white_concrete_flower_pot"},
+		{"predicate": {"custom_model_data": 82},"model": "morepots:block/yellow_concrete_flower_pot"}
+	]
+}
