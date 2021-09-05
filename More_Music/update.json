@@ -1,0 +1,11 @@
+{
+    "$schema": "https://legopitstop.github.io/Update_Checker/schema.json",
+    "homepage": "https://www.curseforge.com/minecraft/customization/more-music-discs-datapack",
+    "1.16": {
+        "1.2.0": "v1.2.0 Changelog\n+ Item name and description should no longer be italic.\n+ name colors are now stored on the item instead of translation document, should be able to override.\n+ Items now use custom string id instead of integer id.\n+ Improved server-side performance\n+ Rewritten how placing a custom disc into jukebox is done, should be working.\n+ Multiplayer has not been tested, some issues may come up.\n+ New registered data packs system for all my new/updated data packs for 2021\n+ Also added custom pack icons for resource and data packs.\n\nNote that all older items, jukeboxes will no longer work properly.",
+        "0.1": "Initial release."
+    },
+    "promos": {
+        "1.16-recommended": "1.2.0"
+    }
+}
