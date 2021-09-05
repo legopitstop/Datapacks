@@ -1,4 +1,4 @@
-# PLACE ON HEAD
+# SPAWNER CRAFT
 ![alt](pack.png)
 
 [![patreon](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Flegopitstop%2Fwebsite-files%2Fmain%2Fshields.io%2Fpatreon.json)](https://www.patreon.com/Legopitstop "Go to patreon")
@@ -6,18 +6,18 @@
 [![discord](https://img.shields.io/discord/479902284810027008)](https://legopitstop.weebly.com/discord.html "Go to legopitstop.weebly.com")
 [![github](https://img.shields.io/github/issues-raw/legopitstop/Datapacks)](https://github.com/legopitstop/Datapacks/issues "Go to Github")
 
-A /head command but for vanilla Minecraft!
+Adds recipes for all the spawn eggs!
 ## Pack Data
-| Key                | Value   |
-|--------------------|---------|
-| namespace          | `head`  |
-| pack_version       | `1.2.0` |
-| mc_version         | `1.17`  |
-| multiplayer_tested | `no`    |
-| has_config         | `no`    |
+| Key                | Value    |
+| ------------------ | -------- |
+| namespace          | `spawnercraft` |
+| pack_version       | `1.8.0 ` |
+| mc_version         | `1.17` |
+| multiplayer_tested | `yes`     |
+| has_config         | `yes`     |
 
 ## LINKS
-- [Download](https://www.curseforge.com/minecraft/customization/place-on-head-datapack-edition)
-- [Wiki Page](https://github.com/legopitstop/Datapacks/wiki)
-- [License](https://legopitstop.weebly.com/legopitstops-common-license-v2.html)
+- [Download](https://www.curseforge.com/minecraft/customization/spawner-craft-datapack)
+- [Wiki Page](https://github.com/legopitstop/Datapacks/wiki/Spawner_Craft)
+- [License](https://legopitstop.weebly.com/license.html)
 - [Bug Report](https://github.com/legopitstop/Datapacks/issues)
