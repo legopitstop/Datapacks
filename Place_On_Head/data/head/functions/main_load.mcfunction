@@ -2,8 +2,9 @@
 #
 # Called by: #minecraft:load
 
-# Reload Message
-tellraw @p [{"translate":"Place on Head has been reloaded"}]
+# tells tick that load file has ran.
+tag @a add headLoad
+tag @a add headTick
 
 # setup trigger scoreboards
 scoreboard objectives add head trigger

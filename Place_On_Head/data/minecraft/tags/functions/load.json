@@ -1,6 +1,7 @@
 {
    "replace": false,
    "values": [
-       "head:main_load"
+       "head:main_load",
+       "legopitstop:head_load"
    ]
 }

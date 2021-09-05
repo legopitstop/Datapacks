@@ -7,4 +7,3 @@ execute if entity @p[scores={head=1..},nbt={SelectedItem: {tag: {head: {Type: "i
 
 execute if entity @p[scores={head=1..},nbt={SelectedItem: {tag: {head: {Type: "custom_all"}}}}] run tellraw @p[scores={head=1..}] [{"entity":"@p[scores={head=1..}]","nbt":"SelectedItem.tag.head.Name","interpret": true}]
 execute if entity @p[scores={head=1..},nbt={SelectedItem: {tag: {head: {Type: "custom_name"}}}}] run tellraw @p[scores={head=1..}] [{"translate":"Swaped head item with %s","color":"green","with":[{"entity":"@p[scores={head=1..}]","nbt":"SelectedItem.tag.head.Name","interpret": true}]}]
-

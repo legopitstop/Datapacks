@@ -2,7 +2,7 @@
     "$schema": "https://legopitstop.github.io/Update_Checker/schema.json",
     "homepage": "https://www.curseforge.com/minecraft/customization/place-on-head-datapack-edition/files",
     "1.17": {
-        "1.2.0": "- changelog"
+        "1.2.0": "- Added custom pack icon.\n- Updated to work for 1.17 and 1.17.1 (changes to /item command)\n- Pack now uses my datapack registering system.\n- Custom head NBT now uses integers rather than full version number"
     },
     "promos": {
         "1.17-recommended": "1.2.0"

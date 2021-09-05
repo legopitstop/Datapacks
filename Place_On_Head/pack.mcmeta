@@ -1,7 +1,7 @@
 {
    "pack": {
        "pack_format": 7,
-       "version": [1, 0, 0],
+       "version": [1, 2, 0],
        "description": [
            {
                "text": "Place any item on your head.\n", 
@@ -10,7 +10,7 @@
            {
                "text": "Legopitstop", 
                "color":"#e86608",
-               "underlined": "true"
+               "underlined": true
            }
        ]
    }
