@@ -1,6 +1,6 @@
 {
     "$schema": "https://legopitstop.github.io/Update_Checker/schema.json",
-    "homepage": "https://www.curseforge.com/minecraft/customization/",
+    "homepage": "https://www.curseforge.com/minecraft/customization/place-on-head-datapack-edition/files",
     "1.17": {
         "1.2.0": "- changelog"
     },
