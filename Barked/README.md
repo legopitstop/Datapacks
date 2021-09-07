@@ -13,8 +13,8 @@ Get a bark item when you strip logs, wood, stem, or hyphae blocks.
 | Key                | Value    |
 |--------------------|----------|
 | namespace          | `barked` |
-| pack_version       | `1.1.0`  |
-| mc_version         | `1.16.5` |
+| pack_version       | `1.2.0`  |
+| mc_version         | `1.17`   |
 | multiplayer_tested | `no`     |
 | has_config         | `no`     |
 

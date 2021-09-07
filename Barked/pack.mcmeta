@@ -1,16 +1,20 @@
 {
     "pack": {
-        "pack_format": 6,
-        "version": [1, 1, 0],
+        "pack_format": 7,
+        "version": [
+            1,
+            2,
+            0
+        ],
         "description": [
             {
-                "text": "You get a bark item when stripping logs!\n", 
-                "color":"gray"
+                "text": "You get a bark item when stripping logs!\n",
+                "color": "gray"
             },
             {
-                "text": "Legopitstop", 
-                "color":"#e86608",
-                "underlined": "true"
+                "text": "Legopitstop",
+                "color": "#e86608",
+                "underlined": true
             }
         ],
         "metadata": {
@@ -21,4 +25,4 @@
             "url": "https://legopitstop.weebly.com/"
         }
     }
- }
+}
