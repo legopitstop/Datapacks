@@ -1,0 +1,15 @@
+{
+    "$schema": "https://legopitstop.github.io/Update_Checker/schema.json",
+    "homepage": "https://www.curseforge.com/minecraft/customization/barked-datapack-edition/files",
+    "1.17": {
+        "1.2.0": ""
+    },
+    "1.16": {
+        "1.1.0": "- Changed the name of Warped Bark and Crimson Bark to Warped Stipe and Crimson Stipe\n- Cleaned up the textures a bit.",
+        "1.0.0": "Initial release."
+    },
+    "promos": {
+        "1.17-recommended": "1.2.0",
+        "1.16-recommended": "1.1.0"
+    }
+}
