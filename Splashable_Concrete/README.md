@@ -8,13 +8,14 @@
 
 Convert concrete powder to hardened concrete using water bottles and more!
 ## Pack Data
-| Key                | Value  |
-| ------------------ | ------ |
+
+| Key                | Value            |
+|--------------------|------------------|
 | namespace          | `splashconcrete` |
-| pack_version       | `1.0.0`  |
-| mc_version         | `1.16.5` |
-| multiplayer_tested | `no`     |
-| has_config         | `no`     |
+| pack_version       | `1.0.0`          |
+| mc_version         | `1.16.5`         |
+| multiplayer_tested | `no`             |
+| has_config         | `no`             |
 
 ## LINKS
 - [Download](https://www.curseforge.com/minecraft/customization/splash-able-concrete-datapack)

@@ -9,14 +9,15 @@
 
 8 tiers of Christmas presents. Will you be naughty or nice? Let the present decide!
 ## Pack Data
-| Key                | Value  |
-| ------------------ | ------ |
-| namespace          | `present` |
-| pack_version       | `1.0.0`  |
-| mc_version         | `1.17` |
-| multiplayer_tested | `no`     |
-| has_config         | `no`     |
-| dependency         |[More NBT Tags](https://www.curseforge.com/minecraft/customization/more-nbt-tags-datapack-edition)|
+
+| Key                | Value                                                                                              |
+|--------------------|----------------------------------------------------------------------------------------------------|
+| namespace          | `present`                                                                                          |
+| pack_version       | `1.0.0`                                                                                            |
+| mc_version         | `1.17`                                                                                             |
+| multiplayer_tested | `no`                                                                                               |
+| has_config         | `no`                                                                                               |
+| dependency         | [More NBT Tags](https://www.curseforge.com/minecraft/customization/more-nbt-tags-datapack-edition) |
 
 ## LINKS
 - [Download](https://www.curseforge.com/minecraft/customization/christmas-presents-datapack-edition)

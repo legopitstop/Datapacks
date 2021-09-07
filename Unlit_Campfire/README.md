@@ -8,13 +8,14 @@
 
 This datapack simply makes campfires place unlit like they should be.
 ## Pack Data
-| Key                | Value  |
-| ------------------ | ------ |
+
+| Key                | Value            |
+|--------------------|------------------|
 | namespace          | `unlit_campfire` |
-| pack_version       | `1.3.0`  |
-| mc_version         | `1.16.5` |
-| multiplayer_tested | `yes`     |
-| has_config         | `no`     |
+| pack_version       | `1.3.0`          |
+| mc_version         | `1.16.5`         |
+| multiplayer_tested | `yes`            |
+| has_config         | `no`             |
 
 ## LINKS
 - [Download](https://www.curseforge.com/minecraft/customization/unlit-campfire-datapack)

@@ -8,13 +8,14 @@
 
 Regular farming too easy/old. This pack spices up farming!
 ## Pack Data
-| Key                | Value  |
-| ------------------ | ------ |
+
+| Key                | Value     |
+|--------------------|-----------|
 | namespace          | `advfarm` |
-| pack_version       | `1.0.0`  |
-| mc_version         | `1.15.2` |
-| multiplayer_tested | `no`     |
-| has_config         | `no`     |
+| pack_version       | `1.0.0`   |
+| mc_version         | `1.15.2`  |
+| multiplayer_tested | `no`      |
+| has_config         | `no`      |
 
 ## LINKS
 - [Download](https://www.curseforge.com/minecraft/customization/advanced-farming-datapack)

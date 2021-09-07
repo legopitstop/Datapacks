@@ -9,13 +9,14 @@
 
 Easily convert Wandering Traders to normal Villagers!
 ## Pack Data
-| Key                | Value  |
-| ------------------ | ------ |
+
+| Key                | Value    |
+|--------------------|----------|
 | namespace          | `trader` |
 | pack_version       | `1.0.0`  |
 | mc_version         | `1.16.5` |
 | multiplayer_tested | `no`     |
-| has_config         | `yes`     |
+| has_config         | `yes`    |
 
 ## LINKS
 - [Download](https://www.curseforge.com/minecraft/customization/convert-traders-datapack-edition)

@@ -8,13 +8,14 @@
 
 Adds recipes for all the spawn eggs!
 ## Pack Data
-| Key                | Value    |
-| ------------------ | -------- |
+
+| Key                | Value          |
+|--------------------|----------------|
 | namespace          | `spawnercraft` |
-| pack_version       | `1.8.0 ` |
-| mc_version         | `1.17` |
-| multiplayer_tested | `yes`     |
-| has_config         | `yes`     |
+| pack_version       | `1.8.0 `       |
+| mc_version         | `1.17`         |
+| multiplayer_tested | `yes`          |
+| has_config         | `yes`          |
 
 ## LINKS
 - [Download](https://www.curseforge.com/minecraft/customization/spawner-craft-datapack)

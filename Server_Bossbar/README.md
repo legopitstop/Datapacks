@@ -8,12 +8,13 @@
 
 This datapack allows you to easly create custom bossbar for server/map usage!
 ## Pack Data
-| Key                | Value    |
-| ------------------ | -------- |
+
+| Key                | Value     |
+|--------------------|-----------|
 | namespace          | `bossbar` |
-| pack_version       | `1.4.0 ` |
-| mc_version         | `1.16.5` |
-| multiplayer_tested | `no`     |
+| pack_version       | `1.4.0 `  |
+| mc_version         | `1.16.5`  |
+| multiplayer_tested | `no`      |
 | has_config         | `yes`     |
 
 ## LINKS

@@ -9,13 +9,14 @@
 
 Want to display your items to decorate your world? That's what this pack does.
 ## Pack Data
-| Key                | Value  |
-| ------------------ | ------ |
+
+| Key                | Value          |
+|--------------------|----------------|
 | namespace          | `item_display` |
-| pack_version       | `1.0.0`  |
-| mc_version         | `1.16.5` |
-| multiplayer_tested | `no`     |
-| has_config         | `no`     |
+| pack_version       | `1.0.0`        |
+| mc_version         | `1.16.5`       |
+| multiplayer_tested | `no`           |
+| has_config         | `no`           |
 
 ## LINKS
 - [Download](https://www.curseforge.com/minecraft/customization/item-display-datapack)

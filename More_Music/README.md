@@ -8,13 +8,14 @@
 
 13 music discs not enough for you? this add more music to you're buggie
 ## Pack Data
-| Key                | Value  |
-| ------------------ | ------ |
+
+| Key                | Value       |
+|--------------------|-------------|
 | namespace          | `moremusic` |
-| pack_version       | `1.2.0`  |
-| mc_version         | `1.16.5` |
-| multiplayer_tested | `no`     |
-| has_config         | `no`     |
+| pack_version       | `1.2.0`     |
+| mc_version         | `1.16.5`    |
+| multiplayer_tested | `no`        |
+| has_config         | `no`        |
 
 ## LINKS
 - [Download](https://www.curseforge.com/minecraft/customization/more-music-discs-datapack)

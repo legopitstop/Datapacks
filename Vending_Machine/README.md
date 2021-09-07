@@ -8,14 +8,15 @@
 
 adds a vending machine to Minecraft!
 ## Pack Data
-| Key                | Value  |
-| ------------------ | ------ |
-| namespace          | `vm` |
-| pack_version       | `1.2.0`  |
-| mc_version         | `1.16.5` |
-| multiplayer_tested | `no`     |
-| has_config         | `no`     |
-| dependency         |[Minecoin](https://www.curseforge.com/minecraft/customization/minecoin-datapack)|
+
+| Key                | Value                                                                            |
+|--------------------|----------------------------------------------------------------------------------|
+| namespace          | `vm`                                                                             |
+| pack_version       | `1.2.0`                                                                          |
+| mc_version         | `1.16.5`                                                                         |
+| multiplayer_tested | `no`                                                                             |
+| has_config         | `no`                                                                             |
+| dependency         | [Minecoin](https://www.curseforge.com/minecraft/customization/minecoin-datapack) |
 
 ## LINKS
 - [Download](https://www.curseforge.com/minecraft/customization/vending-machine-datapack)

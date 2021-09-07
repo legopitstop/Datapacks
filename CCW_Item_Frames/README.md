@@ -9,14 +9,15 @@
 
 Rotate item frames the other way by Shift + Clicking!
 ## Pack Data
-| Key                | Value    |
-| ------------------ | -------- |
+
+| Key                | Value        |
+|--------------------|--------------|
 | namespace          | `item_frame` |
-| pack_version       | `1.0.0 ` |
-| mc_version         | `1.17.1` |
-| multiplayer_tested | `no`     |
-| has_config         | `no`     |
-| dependency         | `null`   |
+| pack_version       | `1.0.0 `     |
+| mc_version         | `1.17.1`     |
+| multiplayer_tested | `no`         |
+| has_config         | `no`         |
+| dependency         | `null`       |
 
 ## LINKS
 - [Download](https://www.curseforge.com/minecraft/customization/)

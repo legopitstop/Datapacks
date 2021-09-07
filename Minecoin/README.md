@@ -9,13 +9,14 @@
 
 Get FAKE minecoins to buy and trade!
 ## Pack Data
-| Key                | Value  |
-| ------------------ | ------ |
+
+| Key                | Value      |
+|--------------------|------------|
 | namespace          | `minecoin` |
-| pack_version       | `1.0.0`  |
-| mc_version         | `1.16.5` |
-| multiplayer_tested | `yes`     |
-| has_config         | `no`     |
+| pack_version       | `1.0.0`    |
+| mc_version         | `1.16.5`   |
+| multiplayer_tested | `yes`      |
+| has_config         | `no`       |
 
 ## LINKS
 - [Download](https://www.curseforge.com/minecraft/customization/minecoin-datapack)

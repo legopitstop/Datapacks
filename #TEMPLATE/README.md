@@ -8,8 +8,9 @@
 
 DESC
 ## Pack Data
+
 | Key                | Value    |
-| ------------------ | -------- |
+|--------------------|----------|
 | namespace          | `MOD_ID` |
 | pack_version       | `1.0.0 ` |
 | mc_version         | `1.16.5` |

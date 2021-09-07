@@ -9,13 +9,14 @@
 
 Make item frames invisible without commands!
 ## Pack Data
-| Key                | Value  |
-| ------------------ | ------ |
+
+| Key                | Value           |
+|--------------------|-----------------|
 | namespace          | `inv_itemframe` |
-| pack_version       | `1.2.0`  |
-| mc_version         | `1.16.5` |
-| multiplayer_tested | `no`     |
-| has_config         | `no`     |
+| pack_version       | `1.2.0`         |
+| mc_version         | `1.16.5`        |
+| multiplayer_tested | `no`            |
+| has_config         | `no`            |
 
 ## LINKS
 - [Download](https://www.curseforge.com/minecraft/customization/invisible-item-frames-datapack)

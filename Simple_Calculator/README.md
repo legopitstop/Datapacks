@@ -8,13 +8,14 @@
 
 Math too hard? don't know what 1+1 is? This pack adds a calculator!
 ## Pack Data
-| Key                | Value  |
-| ------------------ | ------ |
+
+| Key                | Value        |
+|--------------------|--------------|
 | namespace          | `calculator` |
-| pack_version       | `1.3.0`  |
-| mc_version         | `1.16.5` |
-| multiplayer_tested | `no`     |
-| has_config         | `no`     |
+| pack_version       | `1.3.0`      |
+| mc_version         | `1.16.5`     |
+| multiplayer_tested | `no`         |
+| has_config         | `no`         |
 
 ## LINKS
 - [Download](https://www.curseforge.com/minecraft/customization/simple-calculator-datapack)

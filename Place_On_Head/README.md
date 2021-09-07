@@ -8,6 +8,7 @@
 
 A /head command but for vanilla Minecraft!
 ## Pack Data
+
 | Key                | Value   |
 |--------------------|---------|
 | namespace          | `head`  |

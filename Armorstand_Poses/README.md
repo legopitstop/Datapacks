@@ -8,13 +8,14 @@
 
 Bedrock armor stand poses for Java Edition
 ## Pack Data
-| Key                | Value  |
-| ------------------ | ------ |
+
+| Key                | Value         |
+|--------------------|---------------|
 | namespace          | `armor_stand` |
-| pack_version       | `1.1.0`  |
-| mc_version         | `1.16.5` |
-| multiplayer_tested | `no`     |
-| has_config         | `no`     |
+| pack_version       | `1.1.0`       |
+| mc_version         | `1.16.5`      |
+| multiplayer_tested | `no`          |
+| has_config         | `no`          |
 
 ## LINKS
 - [Download](https://www.curseforge.com/minecraft/customization/armor-stand-poses-datapack)

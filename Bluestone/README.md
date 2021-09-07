@@ -9,14 +9,15 @@
 
 Bluestone? Bluestone adds one block componet to make your redstone small and easy!
 ## Pack Data
-| Key                | Value  |
-| ------------------ | ------ |
-| namespace          | `bluestone` |
-| pack_version       | `beta`  |
-| mc_version         | `1.16.5` |
-| multiplayer_tested | `no`     |
-| has_config         | `no`     |
-| dependency         |[LPS Rcore API](https://www.curseforge.com/minecraft/customization/legopitstops-recipe-core-datapack)|
+
+| Key                | Value                                                                                                 |
+|--------------------|-------------------------------------------------------------------------------------------------------|
+| namespace          | `bluestone`                                                                                           |
+| pack_version       | `beta`                                                                                                |
+| mc_version         | `1.16.5`                                                                                              |
+| multiplayer_tested | `no`                                                                                                  |
+| has_config         | `no`                                                                                                  |
+| dependency         | [LPS Rcore API](https://www.curseforge.com/minecraft/customization/legopitstops-recipe-core-datapack) |
 
 ## LINKS
 - [Download](https://www.curseforge.com/minecraft/customization/bluestone-datapack)

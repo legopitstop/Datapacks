@@ -8,14 +8,15 @@
 
 This data pack adds 33+ flower pot colors to your world. These flower pots can be crafted (Using the required API). What are you waiting for? Go and check it out! Make sure to install the Recipe API to craft all these new flower pots in survival.
 ## Pack Data
-| Key                | Value    |
-| ------------------ | -------- |
-| namespace          | `morepots` |
-| pack_version       | `1.0.0 ` |
-| mc_version         | `1.17` |
-| multiplayer_tested | `no`     |
-| has_config         | `no`     |
-| dependency         |[LPS Rcore API](https://www.curseforge.com/minecraft/customization/legopitstops-recipe-core-datapack)|
+
+| Key                | Value                                                                                                 |
+|--------------------|-------------------------------------------------------------------------------------------------------|
+| namespace          | `morepots`                                                                                            |
+| pack_version       | `1.0.0 `                                                                                              |
+| mc_version         | `1.17`                                                                                                |
+| multiplayer_tested | `no`                                                                                                  |
+| has_config         | `no`                                                                                                  |
+| dependency         | [LPS Rcore API](https://www.curseforge.com/minecraft/customization/legopitstops-recipe-core-datapack) |
 
 ## LINKS
 - [Download](https://www.curseforge.com/minecraft/customization/more-flower-pots)
