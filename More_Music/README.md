@@ -12,8 +12,8 @@
 | Key                | Value       |
 |--------------------|-------------|
 | namespace          | `moremusic` |
-| pack_version       | `1.2.0`     |
-| mc_version         | `1.16.5`    |
+| pack_version       | `1.3.0`     |
+| mc_version         | `1.17`      |
 | multiplayer_tested | `no`        |
 | has_config         | `no`        |
 

@@ -1,12 +1,8 @@
-# CHANGELOG v1.2.0
+# CHANGELOG v1.3.0
 ## General
-- Item name and description should no longer be italic.
-- name colors are now stored on the item instead of translation document, should be able to override.
-- Items now use custom string id instead of integer id.
-- Improved server side performace
-- Rewritten how placing  a custom disc into jukbox is done, should be working.
-- Multiplayer has not been tested, some issues may come up.
-- New registered datapacks system for all my new/updated datapacks for 2021
-- Also added custom pack icons for resource and data packs.
+- Removed basalt deltas music disc.
+- Updated for 1.17 / 1.17.1
+- Fixed translation file for custom music discs.
 
-Note that all older items, jukeboxes will no longer work properly.
+## Fixes
+- [#2](https://github.com/legopitstop/Datapacks/issues/2) [moremusic] Music discs do not return when stopping the music.
