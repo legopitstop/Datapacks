@@ -1,0 +1,9 @@
+# Runs when the server/world starts up.
+#
+# Called By: #minecraft:load
+
+# Register Datapack
+data modify storage legopitstop:registered_datapacks datapacks merge value {cameraview:{namespace:"cameraview",pack_version:"1.3.0",mc_version:"1.16",multiplayer_tested:"yes",has_config:"yes",pack:{title:"Camera View",description:"Use a trigger command to go into spectator mode and go back to your spot",uuid:"5f28c452-4acd-487c-846d-823ac985e5c7"}}}
+
+# Reload Message
+tellraw @a ["",{"storage":"legopitstop:registered_datapacks","nbt":"datapacks.cameraview.pack.title","color":"yellow","hoverEvent":{"action":"show_text","contents":{"storage":"legopitstop:registered_datapacks","nbt":"datapacks.cameraview.pack.description","color":"white"}}}," ",{"translate":"[%s]","color":"green","with":[{"storage":"legopitstop:registered_datapacks","nbt":"datapacks.cameraview.pack_version"}],"hoverEvent": {"action":"show_text","contents":["",{"translate":"Pack Version: %s","color":"white","with":[{"storage":"legopitstop:registered_datapacks","nbt":"datapacks.cameraview.pack_version","color":"gray"}]},"\n",{"translate":"MC Version: %s","color":"white","with":[{"storage":"legopitstop:registered_datapacks","nbt":"datapacks.cameraview.mc_version","color":"gray"}]}]}}," ",{"text":"ℹ","color":"blue","hoverEvent": {"action":"show_text","contents": ["",{"translate":"Namespace(s): %s","color":"white","with":[{"storage":"legopitstop:registered_datapacks","nbt":"datapacks.cameraview.namespace","color":"gray"}]},"\n",{"translate":"Has Config: %s","color":"white","with":[{"storage":"legopitstop:registered_datapacks","nbt":"datapacks.cameraview.has_config","color":"gray"}]},"\n",{"translate":"Multiplayer Tested: %s","color":"white","with":[{"storage":"legopitstop:registered_datapacks","nbt":"datapacks.cameraview.multiplayer_tested","color":"gray"}]}]}}]

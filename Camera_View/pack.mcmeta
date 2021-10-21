@@ -1,0 +1,24 @@
+{
+    "pack": {
+        "pack_format": 6,
+        "version": [1, 3, 0],
+        "description": [
+            {
+                "text": "Use a trigger command to go into spectator mode and go back to your spot!\n", 
+                "color":"gray"
+            },
+            {
+                "text": "Legopitstop", 
+                "color":"#e86608",
+                "underlined": "true"
+            }
+        ],
+        "metadata": {
+            "authors": [
+                "Legopitstop"
+            ],
+            "license": "https://legopitstop.weebly.com/legopitstops-common-license.html",
+            "url": "https://legopitstop.weebly.com/"
+        }
+    }
+ }
