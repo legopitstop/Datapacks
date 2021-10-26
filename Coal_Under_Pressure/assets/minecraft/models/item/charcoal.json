@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/charcoal"},"overrides":[{"predicate":{"custom_model_data":501},"model":"cup:item/compressed_charcoal1"},{"predicate":{"custom_model_data":502},"model":"cup:item/compressed_charcoal2"},{"predicate":{"custom_model_data":503},"model":"cup:item/compressed_charcoal3"}]}

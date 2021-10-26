@@ -1,0 +1,1 @@
+{"parent":"minecraft:block/coal_ore","overrides":[{"predicate":{"custom_model_data":501},"model":"cup:block/compressed_coal_ore1"},{"predicate":{"custom_model_data":502},"model":"cup:block/compressed_coal_ore2"},{"predicate":{"custom_model_data":503},"model":"cup:block/compressed_coal_ore3"}]}

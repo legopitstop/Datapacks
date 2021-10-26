@@ -1,0 +1,23 @@
+{
+    "parent": "minecraft:block/coal_block",
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 501
+            },
+            "model": "cup:block/compressed_coal_block1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 502
+            },
+            "model": "cup:block/compressed_coal_block2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 503
+            },
+            "model": "cup:block/compressed_coal_block3"
+        }
+    ]
+}
