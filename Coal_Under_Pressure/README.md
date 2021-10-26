@@ -6,20 +6,19 @@
 [![discord](https://img.shields.io/discord/479902284810027008)](https://legopitstop.weebly.com/discord.html "Go to legopitstop.weebly.com")
 [![github](https://img.shields.io/github/issues-raw/legopitstop/Datapacks)](https://github.com/legopitstop/Datapacks/issues "Go to Github")
 
-DESC
+Now thats a lot of pressure!
 ## Pack Data
 
 | Key                | Value    |
 |--------------------|----------|
-| namespace          | `MOD_ID` |
-| pack_version       | `1.0.0 ` |
-| mc_version         | `1.16.5` |
+| namespace          | `cup`    |
+| pack_version       | `1.0.1 ` |
+| mc_version         | `1.17`   |
 | multiplayer_tested | `no`     |
-| has_config         | `no`     |
 | dependency         | `null`   |
 
 ## LINKS
-- [Download](DOWNLOAD)
+- [Download](https://www.curseforge.com/minecraft/customization/coal-under-pressure)
 - [Wiki Page](https://github.com/legopitstop/Datapacks/wiki/TEMPLATE)
 - [License](https://legopitstop.weebly.com/license.html)
 - [Bug Report](https://github.com/legopitstop/Datapacks/issues)
