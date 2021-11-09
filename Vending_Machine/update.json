@@ -1,0 +1,15 @@
+{
+    "$schema": "https://legopitstop.github.io/Update_Checker/schema.json",
+    "$id": "https://legopitstop.github.io/Datapacks/Vending_Machine/update.json",
+    "homepage": "https://www.curseforge.com/minecraft/customization/vending-machine-datapack/files",
+    "1.16": {
+        "0.2": "# v0.2 changelog\n+ added customizable vending machines. (place a barrel below regular vending machine then shift.)\n+ updated to use new lang support\n+ added more Redstone components to turn on/off\n+ Redstone locking/unlocking should work more like a lamp."
+    },
+    "1.15": {
+        "0.1": "Initial release."
+    },
+    "promos": {
+        "1.15-recommended": "0.1",
+        "1.16-recommended": "0.2"
+    }
+}

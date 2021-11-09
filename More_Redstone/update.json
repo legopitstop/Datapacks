@@ -1,0 +1,16 @@
+{
+    "$schema": "https://legopitstop.github.io/Update_Checker/schema.json",
+    "$id": "https://legopitstop.github.io/Datapacks/More_Redstone/update.json",
+    "homepage": "https://www.curseforge.com/minecraft/customization/more-redstone-datapack/files",
+    "1.16": {
+        "0.2": "# v0.2 changelog\n+ Updated to work with LPS_Recipe_API v2.6+"
+    },
+    "1.15": {
+        "0.1": "# v0.1 changelog\n+ Updated for 1.16\n+ resourcepack uses custom asset location\n+ added timer block UI (still WIP)\n+ added new Nether blocks to /setblock command\n+ added command code bit items (rename these instead of paper)\n - txt code: this is a text code item. whatever this is named to will be added to the command.\n - starting code: This is the starting code always starts with /<command>\n- positon code: this is used for a pos only current pos is supported ex: ~ ~1 ~\n## New added commands!\n+ /msg <selector> <text>\n+ /tell <selector> <text>\n+ /give <selector @p> <item> (!!Still being worked on!!)",
+        "beta": "Initial release."
+    },
+    "promos": {
+        "1.15-recommended": "0.2",
+        "1.16-recommended": "0.1"
+    }
+}

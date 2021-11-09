@@ -1,0 +1,11 @@
+{
+    "$schema": "https://legopitstop.github.io/Update_Checker/schema.json",
+    "$id": "https://legopitstop.github.io/Datapacks/Effect_Charms/update.json",
+    "homepage": "https://www.curseforge.com/minecraft/customization/charms-1-14-datapack/files",
+    "1.14": {
+        "1.0.0": "# V1.4\n- overall pack is updated with all other packs\n## new features\n- when you have the effect it will tell you in your actionbar.\n- make sure to install the newest version of LPS Recipe API"
+    },
+    "promos": {
+        "1.14-recommended": "1.4"
+    }
+}

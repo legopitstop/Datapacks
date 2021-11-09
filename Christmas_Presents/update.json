@@ -1,0 +1,11 @@
+{
+    "$schema": "https://legopitstop.github.io/Update_Checker/schema.json",
+    "$id": "https://legopitstop.github.io/Datapacks/Christmas_Presents/update.json",
+    "homepage": "https://www.curseforge.com/minecraft/customization/christmas-presents-datapack-edition/files",
+    "1.17": {
+        "1.0.0": "Initial release."
+    },
+    "promos": {
+        "1.17-recommended": "1.0.0"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "$schema": "https://legopitstop.github.io/Update_Checker/schema.json",
+    "$id": "https://legopitstop.github.io/Datapacks/Splashable_Concrete/update.json",
+    "homepage": "https://www.curseforge.com/minecraft/customization/splash-able-concrete-datapack/files",
+    "1.16": {
+        "0.1": "Initial release."
+    },
+    "promos": {
+        "1.16-recommended": "0.1"
+    }
+}

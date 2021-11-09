@@ -1,0 +1,15 @@
+{
+    "$schema": "https://legopitstop.github.io/Update_Checker/schema.json",
+    "$id": "https://legopitstop.github.io/Datapacks/Armorstand_Poses/update.json",
+    "homepage": "https://www.curseforge.com/minecraft/customization/armor-stand-poses-datapack/files",
+    "1.16": {
+        "1.1.0": "# v1.1.0 changelog\n+ Redstone power 14 and 15 will reset the armor stand.\n+ Updating and working on 1.16.4\n+ Fixed an instance of armor stand not changing pose when first Redstone in front of armor stand has been redirected, Causes all poses not to work."
+    },
+    "1.15": {
+        "0.1": "Initial release."
+    },
+    "promos": {
+        "1.16-recommended": "1.1.0",
+        "1.15-recommended": "0.1"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "$schema": "https://legopitstop.github.io/Update_Checker/schema.json",
+    "$id": "https://legopitstop.github.io/Datapacks/Simple_Calculator/update.json",
+    "homepage": "https://www.curseforge.com/minecraft/customization/simple-calculator-datapack/files",
+    "1.16": {
+        "1.3.0": "# v1.3.0 ChangeLog\n## New\n+ Completely rewrote pack, new fresh code\n+ Now uses a custom item\n+ Different system altogether Greatly decreased file size. (was 203KB, now 13KB)\n+ Calculator buttons can be changed in the resource pack lang file, may add custom Unicode characters.\n+ you can now use larger numbers, be careful some super large numbers will cause issues max 9 digits due to Minecraft number limit inside scoreboards.\n+ May add more calculators, like a stack calculator to calculate how many items you have ex: 3 stacks + 5 items = 197 total items, and/or add more buttons like square root, pi, sine, cosine, tangent, and even add input support for negative numbers."
+    },
+    "1.15": {
+        "1.2": "Initial release."
+    },
+    "promos": {
+        "1.15-recommended": "1.2",
+        "1.16-recommended": "1.3.0"
+    }
+}

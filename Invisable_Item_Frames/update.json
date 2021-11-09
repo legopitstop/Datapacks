@@ -1,0 +1,12 @@
+{
+    "$schema": "https://legopitstop.github.io/Update_Checker/schema.json",
+    "$id": "https://legopitstop.github.io/Datapacks/Invisable_Item_Frames/update.json",
+    "homepage": "https://www.curseforge.com/minecraft/customization/invisible-item-frames-datapack/files",
+    "1.16": {
+        "0.2": "# v0.2 changelog\n+ will only turn item frames invisible if they have an item inside them\n+ if you take out the item in an invisible item frame it will become visible again.",
+        "0.1": "Initial release."
+    },
+    "promos": {
+        "1.16-recommended": "0.2"
+    }
+}

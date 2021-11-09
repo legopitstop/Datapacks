@@ -1,0 +1,14 @@
+{
+    "$schema": "https://legopitstop.github.io/Update_Checker/schema.json",
+    "$id": "https://legopitstop.github.io/Datapacks/Server_Bossbar/update.json",
+    "homepage": "https://www.planetminecraft.com/mod/server-bossbar-1-13-2-datapack/",
+    "1.14": {
+        "1.4.0": "# CHANGELOG v1.4.0\n## General\n- Added API for the bossbar, All customization is done in-game.\n- Completely rewrote the datapack.\n- Now uses Legopitstop's datapack registering system.\n- Has config to toggle the visibility and turn the animation off/on",
+        "1.3": "# V1.3\nIf you relog from a singleplayer world the bossbar wouldn't show up - Fixed",
+        "1.2": "# V1.2\nThis update made it so you don't need any command blocks to set up! it will automatically set up and run once you type in /reload in chat. it also added a new text document to show you how to customize the bossbar.",
+        "0.1": "Initial release."
+    },
+    "promos": {
+        "1.14-recommended": "1.4.0"
+    }
+}

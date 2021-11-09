@@ -1,0 +1,15 @@
+{
+    "$schema": "https://legopitstop.github.io/Update_Checker/schema.json",
+    "$id": "https://legopitstop.github.io/Datapacks/Unlit_Campfire/update.json",
+    "homepage": "https://www.curseforge.com/minecraft/customization/unlit-campfire-datapack/files",
+    "1.16": {
+        "1.3": "# v1.3 changelog\n- Added datapack icon and changed description\n- Fixed multiplayer bug\n- Multiplayer friendly!\n- Fixed soul campfire unlit name.\n- Added reload message"
+    },
+    "1.15": {
+        "1.2": "Initial release."
+    },
+    "promos": {
+        "1.15-recommended": "1.3",
+        "1.16-recommended": "1.2"
+    }
+}
