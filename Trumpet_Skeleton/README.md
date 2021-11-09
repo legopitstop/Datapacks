@@ -18,7 +18,7 @@ Skeleton go toot toot!
 | has_config         | `yes`     |
 
 ## LINKS
-- [Download](DOWNLOAD)
+- [Download](https://www.curseforge.com/minecraft/customization/trumpet-skeleton-datapack-edition)
 - [Wiki Page](https://github.com/legopitstop/Datapacks/wiki/Trumpet_Skeleton)
 - [License](https://legopitstop.weebly.com/license.html)
 - [Bug Report](https://github.com/legopitstop/Datapacks/issues)
