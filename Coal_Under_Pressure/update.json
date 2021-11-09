@@ -1,7 +1,7 @@
 {
     "$schema": "https://legopitstop.github.io/Update_Checker/schema.json",
     "$id": "https://legopitstop.github.io/Datapacks/Coal_Under_Pressure/update.json",
-    "homepage": "https://www.curseforge.com/minecraft/customization/coal-under-pressure",
+    "homepage": "https://www.curseforge.com/minecraft/customization/coal-under-pressure/files",
     "1.17": {
         "1.0.0": "Initial release.",
         "1.0.1": "# CHANGELOG v1.0.1\n## General\n- Update url should now be working."
