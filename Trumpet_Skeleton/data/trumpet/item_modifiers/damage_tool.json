@@ -1,0 +1,1 @@
+[{"function":"minecraft:copy_nbt","source":{"type":"storage","source":"trumpet:util"},"ops":[{"op":"replace","source":"Damage","target":"Damage"}]}]

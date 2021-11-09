@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "trumpet:item/trumpet_skeleton_spawn_egg"
+    }
+}

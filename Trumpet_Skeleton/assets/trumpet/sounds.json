@@ -1,0 +1,12 @@
+{
+    "item.trumpet.use": {
+        "sounds": [
+            "trumpet:item/trumpet/use1",
+            "trumpet:item/trumpet/use2",
+            "trumpet:item/trumpet/use3",
+            "trumpet:item/trumpet/use4",
+            "trumpet:item/trumpet/use5"
+        ],
+        "subtitle": "subtitles.item.trumpet.use"
+    }
+}

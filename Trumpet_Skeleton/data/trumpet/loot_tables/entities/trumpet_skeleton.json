@@ -1,0 +1,1 @@
+{"pools":[{"rolls":1,"entries":[{"type":"minecraft:loot_table","name":"minecraft:entities/skeleton"}]},{"rolls":1,"entries":[{"type":"minecraft:item","name":"minecraft:warped_fungus_on_a_stick","functions":[{"function":"minecraft:set_nbt","tag":"{CustomModelData:300,id:\"trumpet:trumpet\",display:{Name:'{\"translate\":\"item.trumpet.trumpet\",\"italic\":false}'}}"}]}]}]}
