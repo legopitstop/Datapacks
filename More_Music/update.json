@@ -1,5 +1,6 @@
 {
     "$schema": "https://legopitstop.github.io/Update_Checker/schema.json",
+    "$id": "https://legopitstop.github.io/Datapacks/More_Music/update.json",
     "homepage": "https://www.curseforge.com/minecraft/customization/more-music-discs-datapack",
     "1.17": {
         "1.3.0": "- Removed basalt deltas music disc.\n- Updated for 1.17 / 1.17.1\n- Fixed translation file for custom music discs."
