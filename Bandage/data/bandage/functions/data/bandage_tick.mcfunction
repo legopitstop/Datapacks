@@ -6,7 +6,7 @@
 execute as @a[nbt={SelectedItem:{tag:{id:"bandage:bandage"}}}] run stopsound @s player minecraft:entity.arrow.shoot
 
 # give player arrow in the offhand if they don't have one
-execute as @a[nbt={SelectedItem:{tag:{id:"bandage:bandage"}}}] unless entity @s[nbt={Inventory:[{Slot:-106b}]}] as @s[nbt=!{Inventory:[{Slot:-106b,tag:{invisable:true}}]}] run replaceitem entity @s weapon.offhand arrow{CustomModelData:50,invisable:true,display:{Name:'{"text":""}'}}
+execute as @a[nbt={SelectedItem:{tag:{id:"bandage:bandage"}}}] unless entity @s[nbt={Inventory:[{Slot:-106b}]}] as @s[nbt=!{Inventory:[{Slot:-106b,tag:{invisable:true}}]}] run item replace entity @s weapon.offhand with arrow{CustomModelData: 50, invisable: true, display: {Name: '{"text":""}'}}
 
 # error is player has item in offhand
 execute as @a[nbt={SelectedItem:{tag:{id:"bandage:bandage"}}}] unless entity @s[nbt={Inventory:[{Slot:-106b,tag:{invisable:true}}]}] run title @p actionbar [{"translate":"bandage.offhand_item","color":"red"}]
