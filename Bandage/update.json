@@ -5,7 +5,11 @@
     "1.16": {
         "1.0.0": "Initial release."
     },
+    "1.17": {
+        "1.1.0": "# CHANGELOG v1.1.0\n## General\n- Updated for 1.17.1\n- Addded `#give:bangages` command to get all items"
+    },
     "promos": {
-        "1.16-recommended": "1.0.0"
+        "1.16-recommended": "1.0.0",
+        "1.17-recommended": "1.1.0"
     }
 }
