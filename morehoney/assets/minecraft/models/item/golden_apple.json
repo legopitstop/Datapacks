@@ -1,0 +1,17 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/golden_apple"
+	},
+	"overrides": [
+		{ "predicate": {"custom_model_data": 61}, "model": "morehoney:item/honey_cooked_beef"},
+		{ "predicate": {"custom_model_data": 62}, "model": "morehoney:item/honey_cooked_chicken"},
+		{ "predicate": {"custom_model_data": 63}, "model": "morehoney:item/honey_cooked_mutton"},
+		{ "predicate": {"custom_model_data": 64}, "model": "morehoney:item/honey_cooked_porkchop"},
+		{ "predicate": {"custom_model_data": 65}, "model": "morehoney:item/honey_cookie"},
+		{ "predicate": {"custom_model_data": 66}, "model": "morehoney:item/honey_pancakes"},
+		{ "predicate": {"custom_model_data": 67}, "model": "morehoney:item/honey_sandwich"},
+		{ "predicate": {"custom_model_data": 68}, "model": "morehoney:item/honey_toastie"},
+		{ "predicate": {"custom_model_data": 69}, "model": "morehoney:item/honey_waffle"}
+	]
+}

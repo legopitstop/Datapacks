@@ -1,0 +1,9 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/beetroot_soup"
+	},
+	"overrides": [
+		{ "predicate": {"custom_model_data": 96}, "model": "morehoney:item/honey_lemon_tea"}
+	]
+}

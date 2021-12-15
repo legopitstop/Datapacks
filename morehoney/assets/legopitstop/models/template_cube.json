@@ -1,0 +1,13 @@
+{
+	"__comment": "This is a parent model for all lps datapacks that 'add' new blocks using armor stands",
+	"parent": "minecraft:block/cube",
+	"textures": {
+		"particle": "#bottom"
+	},
+	"display": {
+		"head": {
+			"translation": [0, -30.42, 0],
+			"scale": [1.61, 1.61, 1.61]
+		}
+	}
+}

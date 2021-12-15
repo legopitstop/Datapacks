@@ -1,0 +1,16 @@
+{
+    "replace": false,
+    "values": [
+        "give:honey_toastie",
+        "give:honey_sandwich",
+        "give:honey_waffle",
+        "give:honey_pancakes",
+        "give:honey_cooked_beef",
+        "give:honey_cooked_chicken",
+        "give:honey_cooked_mutton",
+        "give:honey_cooked_porkchop",
+        "give:honey_lemon_tea",
+        "give:honey_cookie",
+        "give:honey_press"
+    ]
+}

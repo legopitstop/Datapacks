@@ -1,0 +1,11 @@
+{
+    "parent": "legopitstop:template_cube",
+    "textures": {
+        "down": "morehoney:block/honey_press_bottom",
+        "up": "morehoney:block/honey_press_top",
+        "north": "morehoney:block/honey_press_front",
+        "east": "morehoney:block/honey_press_side",
+        "south": "morehoney:block/honey_press_side",
+        "west": "morehoney:block/honey_press_front"
+    }
+}

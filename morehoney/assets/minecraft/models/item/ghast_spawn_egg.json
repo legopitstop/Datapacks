@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/template_spawn_egg",
+	"overrides": [
+		{ "predicate": {"custom_model_data": 999}, "model": "morehoney:block/honey_press"}
+	]
+}
