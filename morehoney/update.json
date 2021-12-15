@@ -1,0 +1,19 @@
+{
+    "$schema": "https://legopitstop.github.io/Update_Checker/schema.json",
+    "$id": "https://legopitstop.github.io/Datapacks/morehoney/update.json",
+    "homepage": "https://www.curseforge.com/minecraft/customization/",
+    "1.18": {
+        "1.1.0": "# CHANGELOG v1.1.0\n## General\n- Rewrote pack for 1.18, should also work for 1.17, Will NOT work for 1.16 or older\n- Now requres Lot's More Food datapack and resrouce pack to craft the items\n- Thanks to Revon for the new textures.\n- Removed some LMF items.\n- Any of the following names for a Crafting Table will convert to a honey press\n  - `Honey Press`\n  - `hONEY pRESS`\n  - `honey press`\n  - `HONEY PRESS`\n## Fixes\n- Honey press will no longer replace non-full blocks\n- Honey recipes should all return empty glass bottles"
+    },
+    "1.17": {
+        "1.1.0": "# CHANGELOG v1.1.0\n## General\n- Rewrote pack for 1.18, should also work for 1.17, Will NOT work for 1.16 or older\n- Now requres Lot's More Food datapack and resrouce pack to craft the items\n- Thanks to Revon for the new textures.\n- Removed some LMF items.\n- Any of the following names for a Crafting Table will convert to a honey press\n  - `Honey Press`\n  - `hONEY pRESS`\n  - `honey press`\n  - `HONEY PRESS`\n## Fixes\n- Honey press will no longer replace non-full blocks\n- Honey recipes should all return empty glass bottles"
+    },
+    "1.15": {
+        "1.0.0": "Initial release."
+    },
+    "promos": {
+        "1.18-recommended": "1.1.0",
+        "1.17-recommended": "1.1.0",
+        "1.15-recommended": "1.0.0"
+    }
+}
