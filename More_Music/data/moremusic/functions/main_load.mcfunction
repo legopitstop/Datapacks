@@ -1,6 +1,6 @@
 # Desc: Setup for the datapack
 #
 # Called by: #minecraft:load
-
-#scoreboard objectives add PlayMusic dummy
-#scoreboard players add boolean PlayMusic 0
+# tells tick that load file has ran.
+tag @a add moremusicLoad
+tag @a add moremusicTick

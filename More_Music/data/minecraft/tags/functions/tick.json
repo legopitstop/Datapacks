@@ -1,6 +1,1 @@
-{
-    "replace": false,
-    "values": [
-        "moremusic:main_tick"
-    ]
-}
+{"replace":false,"values":["moremusic:pre_tick"]}

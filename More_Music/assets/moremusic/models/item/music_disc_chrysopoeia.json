@@ -1,6 +1,1 @@
-{
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "moremusic:item/music_disc_chrysopoeia"
-    }
-}
+{"parent":"item/generated","textures":{"layer0":"moremusic:item/music_disc_chrysopoeia"}}

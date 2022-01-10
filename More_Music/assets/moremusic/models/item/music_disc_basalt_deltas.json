@@ -1,6 +1,1 @@
-{
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "moremusic:item/music_disc_basalt_deltas"
-    }
-}
+{"parent":"item/generated","textures":{"layer0":"moremusic:item/music_disc_basalt_deltas"}}
