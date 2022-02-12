@@ -3,7 +3,6 @@
 # Called by: #minecraft:load
 
 # add scoreboards
-scoreboard objectives add ClickedVillager minecraft.custom:talked_to_villager
 scoreboard objectives add EmeraldCount dummy
 scoreboard players add LPSConfig EmeraldCount 0
 

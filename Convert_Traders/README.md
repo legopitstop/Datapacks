@@ -13,9 +13,9 @@ Easily convert Wandering Traders to normal Villagers!
 | Key                | Value    |
 |--------------------|----------|
 | namespace          | `trader` |
-| pack_version       | `1.0.0`  |
-| mc_version         | `1.16.5` |
-| multiplayer_tested | `no`     |
+| pack_version       | `1.2.0`  |
+| mc_version         | `1.18.1` |
+| multiplayer_tested | `yes`    |
 | has_config         | `yes`    |
 
 ## LINKS

@@ -1,0 +1,30 @@
+{
+  "criteria": {
+    "talk_wandering": {
+      "trigger": "minecraft:player_interacted_with_entity",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "nbt": "{SelectedItem:{id:\"minecraft:emerald_block\"}}"
+            }
+          }
+        ],
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:wandering_trader"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "trader:data/emerald_count_check"
+  }
+}

@@ -1,4 +1,6 @@
-[
+{
+  "condition": "minecraft:alternative",
+  "terms": [
     {
         "condition": "minecraft:reference",
         "name": "trader:biome/desert"
@@ -27,4 +29,5 @@
         "condition": "minecraft:reference",
         "name": "trader:biome/taiga"
     }
-]
+  ]
+}
