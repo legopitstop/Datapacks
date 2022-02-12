@@ -1,5 +1,5 @@
 {
-    "$schema": "https://legopitstop.github.io/Update_Checker/schema.json",
+    "$schema": "https://raw.githubusercontent.com/legopitstop/Update_Checker/main/schema.json",
     "$id": "https://legopitstop.github.io/Datapacks/Minecoin/update.json",
     "homepage": "https://www.curseforge.com/minecraft/customization/minecoin-datapack/files",
     "1.17": {
