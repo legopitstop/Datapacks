@@ -1,0 +1,2 @@
+# CHANGELOG {version}
+## General

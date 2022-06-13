@@ -1,0 +1,28 @@
+{
+    "pack": {
+        "pack_format": 10,
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "description": [
+            {
+                "text": "New item frame features! ",
+                "color": "gray"
+            },
+            {
+                "text": "Legopitstop",
+                "color": "#ff8800",
+                "underlined": true
+            }
+        ],
+        "metadata": {
+            "authors": [
+                "Legopitstop"
+            ],
+            "license": "https://legopitstop.weebly.com/license.html",
+            "url": "https://legopitstop.weebly.com/"
+        }
+    }
+}
