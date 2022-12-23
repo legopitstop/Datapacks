@@ -1,0 +1,37 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:bow",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{id:\"bandage:water_bandage\", CustomModelData:53}"
+                        },
+                        {
+                            "function": "minecraft:set_name",
+                            "name": {
+                                "translate": "item.bandage.water_bandage",
+                                "italic": false,
+                                "color": "white"
+                            }
+                        },
+                        {
+                            "function": "minecraft:set_lore",
+                            "lore": [
+                                {
+                                    "translate": "item.bandage.water_bandage.desc",
+                                    "color": "gray",
+                                    "italic": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

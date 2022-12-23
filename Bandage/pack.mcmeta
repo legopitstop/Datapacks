@@ -1,24 +1,15 @@
 {
     "pack": {
-        "pack_format": 6,
-        "version": [1, 0, 0],
+        "pack_format": 10,
+        "version": [1, 2, 0],
         "description": [
-            {
-                "text": "Bandage!\n", 
-                "color":"gray"
-            },
-            {
-                "text": "Legopitstop", 
-                "color":"#e86608",
-                "underlined": "true"
-            }
+            { "text": "Bandage!\n", "color": "gray" },
+            { "text": "Legopitstop", "color": "#e86608", "underlined": true }
         ],
         "metadata": {
-            "authors": [
-                "Legopitstop"
-            ],
+            "authors": ["Legopitstop"],
             "license": "https://legopitstop.weebly.com/legopitstops-common-license.html",
             "url": "https://legopitstop.weebly.com/"
         }
     }
- }
+}

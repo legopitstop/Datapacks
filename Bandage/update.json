@@ -8,8 +8,13 @@
     "1.17": {
         "1.1.0": "# CHANGELOG v1.1.0\n## General\n- Updated for 1.17.1\n- Addded `#give:bangages` command to get all items"
     },
+    "1.19": {
+        "1.2.0": "# CHANGELOG v1.2.0\n## General\n- Updated for 1.19.3\n- The Minecraft bow should now properly render when in 3rd person.",
+        "1.2.1": "# CHANGELOG v1.2.1\n## General\n- Fixed in-game reload message (Uses new system)\n- Fixed an issue with textures not loading when using forge"
+    },
     "promos": {
         "1.16-recommended": "1.0.0",
-        "1.17-recommended": "1.1.0"
+        "1.17-recommended": "1.1.0",
+        "1.19-recommended": "1.2.1"
     }
 }

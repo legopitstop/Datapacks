@@ -1,7 +1,7 @@
 {
    "replace": false,
    "values": [
-       "legopitstop:bandage_load",
+       "lps:018749",
        "bandage:main_load"
    ]
 }

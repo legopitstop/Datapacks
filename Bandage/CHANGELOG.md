@@ -1,4 +1,4 @@
-# CHANGELOG v1.1.0
+# CHANGELOG v1.2.1
 ## General
-- Updated for 1.17.1
-- Addded `#give:bangages` command to get all items
+- Fixed in-game reload message (Uses new system)
+- Fixed an issue with textures not loading when using forge
