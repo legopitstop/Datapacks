@@ -1,4 +1,4 @@
-# [<](../README.md) SPAWNER CRAFT
+# [<](../README.md) Spawner Craft
 
 ![alt](pack.png)
 
@@ -7,7 +7,7 @@ Adds recipes for all the spawn eggs!
 ## Pack Data
 
 | Key                | Value          |
-| ------------------ | -------------- |
+|--------------------|----------------|
 | supported          | `yes`          |
 | namespace          | `spawnercraft` |
 | pack_version       | `1.8.0 `       |

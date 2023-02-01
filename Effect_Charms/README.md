@@ -1,4 +1,4 @@
-# [<](../README.md) EFFECT CHARMS
+# [<](../README.md) Effect Charms
 
 ![alt](pack.png)
 
@@ -7,7 +7,7 @@ This datapack and texture pack adds 9+ charms that will give you buffs.
 ## Pack Data
 
 | Key                | Value                                                                                                 |
-| ------------------ | ----------------------------------------------------------------------------------------------------- |
+|--------------------|-------------------------------------------------------------------------------------------------------|
 | supported          | `no`                                                                                                  |
 | namespace          | `charm`                                                                                               |
 | pack_version       | `1.4.0`                                                                                               |

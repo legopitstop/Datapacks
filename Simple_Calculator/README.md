@@ -1,13 +1,13 @@
-# [<](../README.md) SIMPLE CALCULATOR
+# [<](../README.md) Simple Calculator
 
 ![alt](pack.png)
 
-Math too hard? don't know what 1+1 is? This pack adds a calculator!
+Is math too hard? don't know what 1+1 is? This pack adds a calculator!
 
 ## Pack Data
 
 | Key                | Value        |
-| ------------------ | ------------ |
+|--------------------|--------------|
 | supported          | `yes`        |
 | namespace          | `calculator` |
 | pack_version       | `1.3.0`      |

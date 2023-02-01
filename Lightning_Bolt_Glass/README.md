@@ -1,13 +1,13 @@
-# [<](../README.md) LIGHTNING BOLT GLASS
+# [<](../README.md) Lightning Bolt Glass
 
 ![alt](pack.png)
 
-Whenever lightning hits sand it turns into glass
+Whenever lightning hits sand it turns into a glass
 
 ## Pack Data
 
 | Key                | Value       |
-| ------------------ | ----------- |
+|--------------------|-------------|
 | supported          | `yes`       |
 | namespace          | `lightning` |
 | pack_version       | `1.0.0`     |

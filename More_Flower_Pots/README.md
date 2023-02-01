@@ -1,4 +1,4 @@
-# [<](../README.md) MORE FLOWER POTS
+# [<](../README.md) More Flower Pots
 
 ![alt](pack.png)
 
@@ -7,7 +7,7 @@ This data pack adds 33+ flower pot colors to your world. These flower pots can b
 ## Pack Data
 
 | Key                | Value                                                                                                 |
-| ------------------ | ----------------------------------------------------------------------------------------------------- |
+|--------------------|-------------------------------------------------------------------------------------------------------|
 | supported          | `yes`                                                                                                 |
 | namespace          | `morepots`                                                                                            |
 | pack_version       | `1.0.0 `                                                                                              |

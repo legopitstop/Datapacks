@@ -1,13 +1,13 @@
 # [<](../README.md) More Honey
 
-![alt](pack.png)
+![alt]
 
-A food extenstion pack for Lot's More Food that focuses on honey releated foods!
+A food extension pack for Lot's More Food that focuses on honey related foods!
 
 ## Pack Data
 
 | Key                | Value             |
-| ------------------ | ----------------- |
+|--------------------|-------------------|
 | supported          | `yes`             |
 | namespace          | `morehoney`       |
 | pack_version       | `1.1.0 `          |

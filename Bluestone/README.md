@@ -1,13 +1,13 @@
-# [<](../README.md) BLUESTONE
+# [<](../README.md) Bluestone
 
 ![alt](pack.png)
 
-Bluestone? Bluestone adds one block componet to make your redstone small and easy!
+Bluestone? Bluestone adds one block component to make your Redstone small and easy!
 
 ## Pack Data
 
 | Key                | Value                                                                                                 |
-| ------------------ | ----------------------------------------------------------------------------------------------------- |
+|--------------------|-------------------------------------------------------------------------------------------------------|
 | supported          | `no`                                                                                                  |
 | namespace          | `bluestone`                                                                                           |
 | pack_version       | `beta`                                                                                                |

@@ -1,13 +1,13 @@
-# [<](../README.md) SERVER BOSSBAR
+# [<](../README.md) Server Bossbar
 
 ![alt](pack.png)
 
-This datapack allows you to easly create custom bossbar for server/map usage!
+This datapack allows you to easily create a custom bossbar for server/map usage!
 
 ## Pack Data
 
 | Key                | Value     |
-| ------------------ | --------- |
+|--------------------|-----------|
 | supported          | `no`      |
 | namespace          | `bossbar` |
 | pack_version       | `1.4.0 `  |

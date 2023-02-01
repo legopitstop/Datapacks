@@ -1,13 +1,13 @@
-# [<](../README.md) ADVANCED FARMING
+# [<](../README.md) Advanced Farming
 
 ![alt](pack.png)
 
-Regular farming too easy/old. This pack spices up farming!
+Regular farming is too easy/old. This pack spices up farming!
 
 ## Pack Data
 
 | Key                | Value     |
-| ------------------ | --------- |
+|--------------------|-----------|
 | supported          | `no`      |
 | namespace          | `advfarm` |
 | pack_version       | `1.0.0`   |

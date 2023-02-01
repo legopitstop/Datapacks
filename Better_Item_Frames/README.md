@@ -7,7 +7,7 @@ New item frame features!
 ## Pack Data
 
 | Key                | Value        |
-| ------------------ | ------------ |
+|--------------------|--------------|
 | supported          | `yes`        |
 | namespace          | `item_frame` |
 | pack_version       | `1.0.0`      |

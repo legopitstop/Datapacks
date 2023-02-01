@@ -1,4 +1,4 @@
-# [<](../README.md) CONVERT TRADERS
+# [<](../README.md) Convert Traders
 
 ![alt](pack.png)
 
@@ -7,7 +7,7 @@ Easily convert Wandering Traders to normal Villagers!
 ## Pack Data
 
 | Key                | Value    |
-| ------------------ | -------- |
+|--------------------|----------|
 | supported          | `yes`    |
 | namespace          | `trader` |
 | pack_version       | `1.2.0`  |

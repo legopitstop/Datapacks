@@ -1,4 +1,4 @@
-# [<](../README.md) BARKED
+# [<](../README.md) Barked
 
 ![alt](pack.png)
 
@@ -7,7 +7,7 @@ Get a bark item when you strip logs, wood, stem, or hyphae blocks.
 ## Pack Data
 
 | Key                | Value    |
-| ------------------ | -------- |
+|--------------------|----------|
 | supported          | `yes`    |
 | namespace          | `barked` |
 | pack_version       | `1.2.0`  |

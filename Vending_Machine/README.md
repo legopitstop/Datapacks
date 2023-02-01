@@ -1,4 +1,4 @@
-# [<](../README.md) VENDING MACHINE
+# [<](../README.md) Vending Machine
 
 ![alt](pack.png)
 
@@ -7,7 +7,7 @@ adds a vending machine to Minecraft!
 ## Pack Data
 
 | Key                | Value                                                                            |
-| ------------------ | -------------------------------------------------------------------------------- |
+|--------------------|----------------------------------------------------------------------------------|
 | supported          | `yes`                                                                            |
 | namespace          | `vm`                                                                             |
 | pack_version       | `1.2.0`                                                                          |

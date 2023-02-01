@@ -1,13 +1,13 @@
-# [<](../README.md) MORE MUSIC
+# [<](../README.md) More Music
 
 ![alt](pack.png)
 
-13 music discs not enough for you? this add more music to you're buggie
+13 music discs not enough for you? this adds more music to your buggie!
 
 ## Pack Data
 
 | Key                | Value       |
-| ------------------ | ----------- |
+|--------------------|-------------|
 | supported          | `yes`       |
 | namespace          | `moremusic` |
 | pack_version       | `1.4.0`     |

@@ -1,4 +1,4 @@
-# [<](../README.md) INVISIBLE ITEM FRAMES
+# [<](../README.md) Invisible Item Frames
 
 ## DEPRIVED
 
@@ -11,7 +11,7 @@ Make item frames invisible without commands!
 ## Pack Data
 
 | Key                | Value                              |
-| ------------------ | ---------------------------------- |
+|--------------------|------------------------------------|
 | supported          | `no` (moved to Better Item Frames) |
 | namespace          | `inv_itemframe`                    |
 | pack_version       | `1.2.0`                            |

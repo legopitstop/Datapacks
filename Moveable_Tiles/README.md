@@ -7,7 +7,7 @@ Moveable Spawners, Chests, Barrels and More!
 ## Pack Data
 
 | Key                | Value      |
-| ------------------ | ---------- |
+|--------------------|------------|
 | supported          | `yes`      |
 | namespace          | `moveable` |
 | pack_version       | `beta `    |

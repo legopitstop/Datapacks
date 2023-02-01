@@ -1,13 +1,13 @@
-# [<](../README.md) UNLIT CAMPFIRE
+# [<](../README.md) Unlit Campfire
 
 ![alt](pack.png)
 
-This datapack simply makes campfires place unlit like they should be.
+This datapack simply makes the campfire's place unlit like it should be.
 
 ## Pack Data
 
 | Key                | Value            |
-| ------------------ | ---------------- |
+|--------------------|------------------|
 | supported          | `yes`            |
 | namespace          | `unlit_campfire` |
 | pack_version       | `1.3.0`          |

@@ -2,12 +2,12 @@
 
 ![alt](pack.png)
 
-Now thats a lot of pressure!
+Now that's a lot of pressure!
 
 ## Pack Data
 
 | Key                | Value    |
-| ------------------ | -------- |
+|--------------------|----------|
 | supported          | `yes`    |
 | namespace          | `cup`    |
 | pack_version       | `1.0.1 ` |

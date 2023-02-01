@@ -1,4 +1,4 @@
-# [<](../README.md) MORE BUCKETS
+# [<](../README.md) More Buckets
 
 ![alt](pack.png)
 
@@ -7,7 +7,7 @@ Need more buckets? this datapack adds tons of buckets
 ## Pack Data
 
 | Key                | Value                                                                                                 |
-| ------------------ | ----------------------------------------------------------------------------------------------------- |
+|--------------------|-------------------------------------------------------------------------------------------------------|
 | supported          | `no`                                                                                                  |
 | namespace          | `morebucket`                                                                                          |
 | pack_version       | `1.0.0`                                                                                               |

@@ -1,13 +1,13 @@
-# [<](../README.md) MORE REDSTONE
+# [<](../README.md) More Redstone
 
 ![alt](pack.png)
 
-This datapack adds more redstone for you redstone geeks.
+This datapack adds more Redstone for you redstone geeks.
 
 ## Pack Data
 
 | Key                | Value                                                                                                 |
-| ------------------ | ----------------------------------------------------------------------------------------------------- |
+|--------------------|-------------------------------------------------------------------------------------------------------|
 | supported          | `yes`                                                                                                 |
 | namespace          | `more_redstone`                                                                                       |
 | pack_version       | `1.2.0`                                                                                               |

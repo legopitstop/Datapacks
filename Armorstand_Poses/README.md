@@ -6,7 +6,7 @@ Bedrock armor stand poses for Java Edition
 
 | Key                | Value         |
 |--------------------|---------------|
-| supported             | `yes`   |
+| supported          | `yes`         |
 | namespace          | `armor_stand` |
 | pack_version       | `1.1.0`       |
 | mc_version         | `1.16.5`      |

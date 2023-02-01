@@ -1,4 +1,4 @@
-# [<](../README.md) SPLASH-ABLE CONCRETE
+# [<](../README.md) Splashable Concrete
 
 ![alt](pack.png)
 
@@ -7,7 +7,7 @@ Convert concrete powder to hardened concrete using water bottles and more!
 ## Pack Data
 
 | Key                | Value            |
-| ------------------ | ---------------- |
+|--------------------|------------------|
 | supported          | `yes`            |
 | namespace          | `splashconcrete` |
 | pack_version       | `1.0.0`          |

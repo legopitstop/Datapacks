@@ -1,6 +1,6 @@
-# [<](../README.md) LPS RECIPE CORE API
+# [<](../README.md) LPS Recipe API
 
-# [This datapack has its own repo!](https://github.com/legopitstop/LPS-Recipe-API-Datapack)
+# [This datapack has its repo!](https://github.com/legopitstop/LPS-Recipe-API-Datapack)
 ## LINKS
 - [Download](https://www.curseforge.com/minecraft/customization/legopitstops-recipe-core-datapack)
 - [Wiki Page](https://github.com/legopitstop/LPS-Recipe-API-Datapack/wiki)

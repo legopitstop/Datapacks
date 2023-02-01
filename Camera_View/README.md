@@ -7,7 +7,7 @@ Use a trigger command to go into spectator mode and go back to your spot!
 ## Pack Data
 
 | Key                | Value        |
-| ------------------ | ------------ |
+|--------------------|--------------|
 | supported          | `yes`        |
 | namespace          | `cameraview` |
 | pack_version       | `1.3.0 `     |

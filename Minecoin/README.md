@@ -1,4 +1,4 @@
-# [<](../README.md) MINECOIN
+# [<](../README.md) Minecoin
 
 ![alt](pack.png)
 
@@ -7,7 +7,7 @@ Get FAKE minecoins to buy and trade!
 ## Pack Data
 
 | Key                | Value      |
-| ------------------ | ---------- |
+|--------------------|------------|
 | supported          | `yes`      |
 | namespace          | `minecoin` |
 | pack_version       | `1.0.0`    |

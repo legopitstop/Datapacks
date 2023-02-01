@@ -7,7 +7,7 @@ Skeleton go toot toot!
 ## Pack Data
 
 | Key                | Value     |
-| ------------------ | --------- |
+|--------------------|-----------|
 | supported          | `yes`     |
 | namespace          | `trumpet` |
 | pack_version       | `1.0.0 `  |

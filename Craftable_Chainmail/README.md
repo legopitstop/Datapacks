@@ -1,4 +1,4 @@
-# [<](../README.md) CRAFTABLE CHAINMAIL
+# [<](../README.md) Craftable Chainmail
 
 ![alt](pack.png)
 
@@ -7,7 +7,7 @@ adds chainmail armor recipes for 1.16+
 ## Pack Data
 
 | Key                | Value       |
-| ------------------ | ----------- |
+|--------------------|-------------|
 | supported          | `yes`       |
 | namespace          | `chainmail` |
 | pack_version       | `1.0.0`     |

@@ -1,4 +1,4 @@
-# [<](../README.md) CCW ITEM FRAMES
+# [<](../README.md) Ccw Item Frames
 
 ## DEPRIVED
 
@@ -6,12 +6,12 @@
 
 ![alt](pack.png)
 
-Rotate item frames the other way by Shift + Clicking!
+Rotate item frames the other way by holding shift and clicking!
 
 ## Pack Data
 
 | Key                | Value        |
-| ------------------ | ------------ |
+|--------------------|--------------|
 | supported          | `no`         |
 | namespace          | `item_frame` |
 | pack_version       | `1.0.0`      |

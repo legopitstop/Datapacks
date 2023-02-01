@@ -1,4 +1,4 @@
-# [<](../README.md) PLACE ON HEAD
+# [<](../README.md) Place On Head
 
 ![alt](pack.png)
 
@@ -7,7 +7,7 @@ A /head command but for vanilla Minecraft!
 ## Pack Data
 
 | Key                | Value   |
-| ------------------ | ------- |
+|--------------------|---------|
 | supported          | `yes`   |
 | namespace          | `head`  |
 | pack_version       | `1.2.0` |

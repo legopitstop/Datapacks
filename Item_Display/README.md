@@ -1,4 +1,4 @@
-# [<](../README.md) ITEM DISPLAY
+# [<](../README.md) Item Display
 
 ![alt](pack.png)
 
@@ -7,7 +7,7 @@ Want to display your items to decorate your world? That's what this pack does.
 ## Pack Data
 
 | Key                | Value          |
-| ------------------ | -------------- |
+|--------------------|----------------|
 | supported          | `yes`          |
 | namespace          | `item_display` |
 | pack_version       | `1.0.0`        |

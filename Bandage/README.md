@@ -1,4 +1,4 @@
-# [<](../README.md) BANDAGES
+# [<](../README.md) Bandages
 
 ![alt](pack.png)
 
@@ -7,7 +7,7 @@ Bandages to quickly heal yourself. Perfect for PVP or PVE!
 ## Pack Data
 
 | Key                | Value      |
-| ------------------ | ---------- |
+|--------------------|------------|
 | supported          | `yes`      |
 | namespace          | `bandages` |
 | pack_version       | `1.0.0`    |
