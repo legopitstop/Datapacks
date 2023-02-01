@@ -1,0 +1,48 @@
+{
+    "pack": {
+        "pack_format": 10,
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "description": [
+            {
+                "text": "Moveable Spawners, Chests, Barrels and More! ",
+                "color": "gray"
+            },
+            {
+                "text": "Legopitstop",
+                "color": "#ff8800",
+                "underlined": true
+            }
+        ],
+        "metadata": {
+            "authors": [
+                "Legopitstop"
+            ],
+            "license": "https://legopitstop.weebly.com/license.html",
+            "url": "https://legopitstop.weebly.com/"
+        }
+    },
+    "filter": {
+        "block": [
+            {
+                "namespace": "minecraft",
+                "path": "recipes/chest_minecart"
+            },
+            {
+                "namespace": "minecraft",
+                "path": "recipes/tnt_minecart"
+            },
+            {
+                "namespace": "minecraft",
+                "path": "recipes/furnace_minecart"
+            },
+            {
+                "namespace": "minecraft",
+                "path": "recipes/hopper_minecart"
+            }
+        ]
+    }
+}
