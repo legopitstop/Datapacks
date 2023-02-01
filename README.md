@@ -20,8 +20,45 @@ The Lot's More Food datapack has its own repo! You can find it here [Lot's More 
 ## Like Legopitstop's Datapacks?
 Like the datapacks and all they have to offer? Want then to keep receiving updates? Consider helping out by donating. Donating Lets us know that you love my datapacks, but keeping all the datapacks up-to-date is a very time-consuming task (especially for one person). Thank You.
 
-[Patreon](https://www.patreon.com/Legopitstop)
+- [Patreon](https://www.patreon.com/Legopitstop)
+- [Ko-fi](https://ko-fi.com/V7V629T96)
+- [Paypalme](https://www.paypal.com/paypalme/Legopitstop)
 
-[Ko-fi](https://ko-fi.com/V7V629T96)
+## Datapacks
+- [Moveable Tiles](./Moveable_Tiles/README.md)
+- [Armor Poses](./Armorstand_Poses/README.md)
+- [Bandage](./Bandage/README.md)
+- [Barked](./Barked/README.md)
+- [Better Item Frames](./Better_Item_Frames/README.md)
+- [Camera View](./Camera_View/README.md)
+- [Coal Under Pressure](./Coal_Under_Pressure/README.md)
+- [Convert Traders](./Convert_Traders/README.md)
+- [Craftable Chainmail](./Craftable_Chainmail/README.md)
+- [Item Display](./Item_Display/README.md)
+- [Lightning Bolt Glass](./Lightning_Bolt_Glass/README.md)
+- [LPS Recipe API](./LPS-Recipe-API/README.md)
+- [Minecoin](./Minecoin/README.md)
+- [More Flower Pots](./More_Flower_Pots/README.md)
+- [More Food](./More_Food/README.md)
+- [More Music](./More_Music/README.md)
+- [More Redstone](./More_Redstone/README.md)
+- [More Honey](./morehoney/README.md)
+- [Place On Head](./Place_On_Head/README.md)
+- [Simple Calculator](./Simple_Calculator/README.md)
+- [Spawner Craft](./Spawner_Craft/README.md)
+- [Splashable Concrete](./Splashable_Concrete/README.md)
+- [Trumpet Skeleton](./Trumpet_Skeleton/README.md)
+- [Unlit Campfire](./Unlit_Campfire/README.md)
+- [Vending Machine](./Vending_Machine/README.md)
+- [utils](./utils/README.md)
+    - *Coming soon!*
 
-[Paypalme](https://www.paypal.com/paypalme/Legopitstop)
+## Deprived Datapacks
+- [Advanced Farming](./Advanced_Farming/README.md)
+- [Bluestone](./Bluestone/README.md)
+- [CCW Item Frames](./CCW_Item_Frames/README.md)
+- [Christmas Presents](./Christmas_Presents/README.md)
+- [Effect Charms](./Effect_Charms/README.md)
+- [Invisible Item Frames](./Invisable_Item_Frames/README.md)
+- [More Buckets](./More_Buckets/README.md)
+- [Server Bossbar](./Server_Bossbar/README.md)
