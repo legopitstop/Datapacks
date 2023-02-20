@@ -4,7 +4,11 @@
         "id": "recipe",
         "theme": "dark"
     },
-    "resources": {},
+    "resources": {
+        "textures": {},
+        "langs": {},
+        "links": {}
+    },
     "recipes": [
         {
             "identifier": "spawnercraft:endermen_spawn_egg",
