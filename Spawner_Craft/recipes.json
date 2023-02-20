@@ -1,0 +1,1899 @@
+{
+    "$schema": "https://raw.githubusercontent.com/legopitstop/Minecraft-Recipe-Display/main/schema.json",
+    "description": {
+        "id": "recipe",
+        "theme": "dark"
+    },
+    "resources": {},
+    "recipes": [
+        {
+            "identifier": "spawnercraft:endermen_spawn_egg",
+            "type": "minecraft:crafting_shaped",
+            "pattern": [
+                " F ",
+                "SES",
+                " G "
+            ],
+            "key": {
+                "F": {
+                    "item": "minecraft:ender_pearl"
+                },
+                "S": {
+                    "item": "minecraft:end_stone"
+                },
+                "E": {
+                    "item": "minecraft:egg"
+                },
+                "G": {
+                    "item": "minecraft:gold_ingot"
+                }
+            },
+            "result": {
+                "item": "minecraft:enderman_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:phantom_spawn_egg",
+            "type": "minecraft:crafting_shaped",
+            "pattern": [
+                " F ",
+                "SES",
+                " G "
+            ],
+            "key": {
+                "F": {
+                    "item": "minecraft:phantom_membrane"
+                },
+                "S": {
+                    "item": "minecraft:firework_rocket"
+                },
+                "E": {
+                    "item": "minecraft:egg"
+                },
+                "G": {
+                    "item": "minecraft:gold_ingot"
+                }
+            },
+            "result": {
+                "item": "minecraft:phantom_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:shulker_spawn_egg",
+            "type": "minecraft:crafting_shaped",
+            "pattern": [
+                " F ",
+                "SES",
+                " G "
+            ],
+            "key": {
+                "F": {
+                    "item": "minecraft:chorus_flower"
+                },
+                "S": {
+                    "item": "minecraft:popped_chorus_fruit"
+                },
+                "E": {
+                    "item": "minecraft:egg"
+                },
+                "G": {
+                    "item": "minecraft:gold_ingot"
+                }
+            },
+            "result": {
+                "item": "minecraft:shulker_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:skeleton_spawn_egg",
+            "type": "minecraft:crafting_shaped",
+            "pattern": [
+                " F ",
+                "SES",
+                " G "
+            ],
+            "key": {
+                "F": {
+                    "item": "minecraft:bow"
+                },
+                "S": {
+                    "item": "minecraft:bone"
+                },
+                "E": {
+                    "item": "minecraft:egg"
+                },
+                "G": {
+                    "item": "minecraft:gold_ingot"
+                }
+            },
+            "result": {
+                "item": "minecraft:skeleton_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:stray_spawn_egg",
+            "type": "minecraft:crafting_shaped",
+            "pattern": [
+                " F ",
+                "SES",
+                " G "
+            ],
+            "key": {
+                "F": {
+                    "item": "minecraft:bow"
+                },
+                "S": {
+                    "item": "minecraft:ice"
+                },
+                "E": {
+                    "item": "minecraft:skeleton_spawn_egg"
+                },
+                "G": {
+                    "item": "minecraft:gold_ingot"
+                }
+            },
+            "result": {
+                "item": "minecraft:stray_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:witch_spawn_egg",
+            "type": "minecraft:crafting_shaped",
+            "pattern": [
+                " F ",
+                "SET",
+                " G "
+            ],
+            "key": {
+                "F": {
+                    "item": "minecraft:glass_bottle"
+                },
+                "S": {
+                    "item": "minecraft:redstone"
+                },
+                
+                "T": {
+                    "item": "minecraft:glowstone"
+                },
+                "E": {
+                    "item": "minecraft:egg"
+                },
+                "G": {
+                    "item": "minecraft:gold_ingot"
+                }
+            },
+            "result": {
+                "item": "minecraft:witch_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:zombie_spawn_egg",
+            "type": "minecraft:crafting_shaped",
+            "pattern": [
+                " F ",
+                "FEF",
+                " G "
+            ],
+            "key": {
+                "F": {
+                    "item": "minecraft:rotten_flesh"
+                },
+                "E": {
+                    "item": "minecraft:egg"
+                },
+                "G": {
+                    "item": "minecraft:gold_ingot"
+                }
+            },
+            "result": {
+                "item": "minecraft:zombie_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:wither_skeleton_spawn_egg",
+            "type": "minecraft:crafting_shaped",
+            "pattern": [
+                " F ",
+                "SES",
+                " G "
+            ],
+            "key": {
+                "F": {
+                    "item": "minecraft:iron_sword"
+                },
+                "S": {
+                    "item": "minecraft:coal"
+                },
+                "E": {
+                    "item": "minecraft:egg"
+                },
+                "G": {
+                    "item": "minecraft:gold_ingot"
+                }
+            },
+            "result": {
+                "item": "minecraft:wither_skeleton_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:cave_spider_spawn_egg",
+            "type": "minecraft:crafting_shaped",
+            "pattern": [
+                " F ",
+                "SES",
+                " G "
+            ],
+            "key": {
+                "F": {
+                    "item": "minecraft:spider_eye"
+                },
+                "S": {
+                    "item": "minecraft:web"
+                },
+                "E": {
+                    "item": "minecraft:egg"
+                },
+                "G": {
+                    "item": "minecraft:gold_ingot"
+                }
+            },
+            "result": {
+                "item": "minecraft:cave_spider_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:endermite_spawn_egg",
+            "type": "minecraft:crafting_shaped",
+            "pattern": [
+                " F ",
+                "FEF",
+                " G "
+            ],
+            "key": {
+                "F": {
+                    "item": "minecraft:ender_pearl"
+                },
+                "E": {
+                    "item": "minecraft:egg"
+                },
+                "G": {
+                    "item": "minecraft:gold_ingot"
+                }
+            },
+            "result": {
+                "item": "minecraft:endermite_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:husk_spawn_egg",
+            "type": "minecraft:crafting_shaped",
+            "pattern": [
+                " F ",
+                "SES",
+                " G "
+            ],
+            "key": {
+                "F": {
+                    "item": "minecraft:sand"
+                },
+                "S": {
+                    "item": "minecraft:sand"
+                },
+                "E": {
+                    "item": "minecraft:zombie_spawn_egg"
+                },
+                "G": {
+                    "item": "minecraft:gold_ingot"
+                }
+            },
+            "result": {
+                "item": "minecraft:husk_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:pillager_spawn_egg",
+            "type": "minecraft:crafting_shaped",
+            "pattern": [
+                " F ",
+                "SES",
+                " G "
+            ],
+            "key": {
+                "F": {
+                    "item": "minecraft:crossbow"
+                },
+                "S": {
+                    "item": "minecraft:emerald"
+                },
+                "E": {
+                    "item": "minecraft:egg"
+                },
+                "G": {
+                    "item": "minecraft:gold_ingot"
+                }
+            },
+            "result": {
+                "item": "minecraft:pillager_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:silverfish_spawn_egg",
+            "type": "minecraft:crafting_shaped",
+            "pattern": [
+                " F ",
+                "SES",
+                " G "
+            ],
+            "key": {
+                "F": {
+                    "item": "minecraft:cod"
+                },
+                "S": {
+                    "item": "minecraft:iron_ingot"
+                },
+                "E": {
+                    "item": "minecraft:egg"
+                },
+                "G": {
+                    "item": "minecraft:gold_ingot"
+                }
+            },
+            "result": {
+                "item": "minecraft:silverfish_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:slime_spawn_egg",
+            "type": "minecraft:crafting_shaped",
+            "pattern": [
+                " F ",
+                "FEF",
+                " G "
+            ],
+            "key": {
+                "F": {
+                    "item": "minecraft:slime_block"
+                },
+                "E": {
+                    "item": "minecraft:egg"
+                },
+                "G": {
+                    "item": "minecraft:gold_ingot"
+                }
+            },
+            "result": {
+                "item": "minecraft:slime_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:vex_spawn_egg",
+            "type": "minecraft:crafting_shaped",
+            "pattern": [
+                " F ",
+                "SES",
+                " G "
+            ],
+            "key": {
+                "F": {
+                    "item": "minecraft:iron_sword"
+                },
+                "S": {
+                    "item": "minecraft:firework_rocket"
+                },
+                "E": {
+                    "item": "minecraft:egg"
+                },
+                "G": {
+                    "item": "minecraft:gold_ingot"
+                }
+            },
+            "result": {
+                "item": "minecraft:vex_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:warden_spawn_egg",
+            "type": "minecraft:crafting_shaped",
+            "pattern": [
+                " F ",
+                "SES",
+                " G "
+            ],
+            "key": {
+                "F": {
+                    "item": "minecraft:sculk_shrieker"
+                },
+                "S": {
+                    "item": "minecraft:sculk_catalyst"
+                },
+                "E": {
+                    "item": "minecraft:egg"
+                },
+                "G": {
+                    "item": "minecraft:gold_ingot"
+                }
+            },
+            "result": {
+                "item": "minecraft:warden_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:creeper_spawn_egg",
+            "type": "minecraft:crafting_shaped",
+            "pattern": [
+                " F ",
+                "SES",
+                " G "
+            ],
+            "key": {
+                "F": {
+                    "item": "minecraft:tnt"
+                },
+                "S": {
+                    "item": "minecraft:gunpowder"
+                },
+                "E": {
+                    "item": "minecraft:egg"
+                },
+                "G": {
+                    "item": "minecraft:gold_ingot"
+                }
+            },
+            "result": {
+                "item": "minecraft:creeper_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:evoker_spawn_egg",
+            "type": "minecraft:crafting_shaped",
+            "pattern": [
+                " F ",
+                "SES",
+                " G "
+            ],
+            "key": {
+                "F": {
+                    "item": "minecraft:emerald_block"
+                },
+                "S": {
+                    "item": "minecraft:emerald"
+                },
+                "E": {
+                    "item": "minecraft:egg"
+                },
+                "G": {
+                    "item": "minecraft:gold_ingot"
+                }
+            },
+            "result": {
+                "item": "minecraft:evoker_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:ravenger_spawn_egg",
+            "type": "minecraft:crafting_shaped",
+            "pattern": [
+                " F ",
+                "SES",
+                " G "
+            ],
+            "key": {
+                "F": {
+                    "item": "minecraft:saddle"
+                },
+                "S": {
+                    "item": "minecraft:iron_block"
+                },
+                "E": {
+                    "item": "minecraft:egg"
+                },
+                "G": {
+                    "item": "minecraft:gold_ingot"
+                }
+            },
+            "result": {
+                "item": "minecraft:ravenger_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:skeleton_horse_spawn_egg",
+            "type": "minecraft:crafting_shapeless",
+            "ingredients": [
+                {
+                    "item": "minecraft:skeleton_spawn_egg"
+                },
+                {
+                    "item": "minecraft:horse_spawn_egg"
+                }
+            ],
+            "result": {
+                "item": "minecraft:skeleton_horse_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:spider_spawn_egg",
+            "type": "minecraft:crafting_shaped",
+            "pattern": [
+                " F ",
+                "SES",
+                " G "
+            ],
+            "key": {
+                "F": {
+                    "item": "minecraft:spider_eye"
+                },
+                "S": {
+                    "item": "minecraft:string"
+                },
+                "E": {
+                    "item": "minecraft:egg"
+                },
+                "G": {
+                    "item": "minecraft:gold_ingot"
+                }
+            },
+            "result": {
+                "item": "minecraft:spider_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:vindicator_spawn_egg",
+            "type": "minecraft:crafting_shaped",
+            "pattern": [
+                " F ",
+                "SES",
+                " G "
+            ],
+            "key": {
+                "F": {
+                    "item": "minecraft:iron_axe"
+                },
+                "S": {
+                    "item": "minecraft:emerald"
+                },
+                "E": {
+                    "item": "minecraft:egg"
+                },
+                "G": {
+                    "item": "minecraft:gold_ingot"
+                }
+            },
+            "result": {
+                "item": "minecraft:vindicator_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:zombie_horse_spawn_egg",
+            "type": "minecraft:crafting_shapeless",
+            "ingredients": [
+                {
+                    "item": "minecraft:zombie_spawn_egg"
+                },
+                {
+                    "item": "minecraft:horse_spawn_egg"
+                }
+            ],
+            "result": {
+                "item": "minecraft:zombie_horse_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:zombie_villager_spawn_egg",
+            "type": "minecraft:crafting_shapeless",
+            "ingredients": [
+                {
+                    "item": "minecraft:zombie_spawn_egg"
+                },
+                {
+                    "item": "minecraft:villager_spawn_egg"
+                }
+            ],
+            "result": {
+                "item": "minecraft:zombie_villager_spawn_egg"
+            }
+        },
+        
+        {
+            "identifier": "spawnercraft:bat_spawn_egg",
+            "type": "minecraft:crafting_shaped",
+            "pattern": [
+                " F ",
+                "SES",
+                " G "
+            ],
+            "key": {
+                "F": {
+                    "item": "minecraft:coal"
+                },
+                "S": {
+                    "item": "minecraft:firework_rocket"
+                },
+                "E": {
+                    "item": "minecraft:egg"
+                },
+                "G": {
+                    "item": "minecraft:gold_ingot"
+                }
+            },
+            "result": {
+                "item": "minecraft:bat_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:cow_spawn_egg",
+            "type": "minecraft:crafting_shaped",
+            "pattern": [
+                " F ",
+                "SES",
+                " G "
+            ],
+            "key": {
+                "F": {
+                    "item": "minecraft:leather"
+                },
+                "S": {
+                    "item": "minecraft:beef"
+                },
+                "E": {
+                    "item": "minecraft:egg"
+                },
+                "G": {
+                    "item": "minecraft:gold_ingot"
+                }
+            },
+            "result": {
+                "item": "minecraft:cow_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:horse_spawn_egg",
+            "type": "minecraft:crafting_shaped",
+            "pattern": [
+                " F ",
+                "SES",
+                " G "
+            ],
+            "key": {
+                "F": {
+                    "item": "minecraft:hay_block"
+                },
+                "S": {
+                    "item": "minecraft:leather"
+                },
+                "E": {
+                    "item": "minecraft:egg"
+                },
+                "G": {
+                    "item": "minecraft:gold_ingot"
+                }
+            },
+            "result": {
+                "item": "minecraft:horse_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:mule_spawn_egg",
+            "type": "minecraft:crafting_shapeless",
+            "ingredients": [
+                {
+                    "item": "minecraft:donkey_spawn_egg"
+                },
+                {
+                    "item": "minecraft:horse_spawn_egg"
+                }
+            ],
+            "result": {
+                "item": "minecraft:mule_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:parrot_spawn_egg",
+            "type": "minecraft:crafting_shaped",
+            "pattern": [
+                " F ",
+                "SES",
+                " G "
+            ],
+            "key": {
+                "F": {
+                    "item": "minecraft:cocoa_beans"
+                },
+                "S": {
+                    "item": "minecraft:firework_rocket"
+                },
+                "E": {
+                    "item": "minecraft:egg"
+                },
+                "G": {
+                    "item": "minecraft:gold_ingot"
+                }
+            },
+            "result": {
+                "item": "minecraft:parrot_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:rabbit_spawn_egg",
+            "type": "minecraft:crafting_shaped",
+            "pattern": [
+                " F ",
+                "SES",
+                " G "
+            ],
+            "key": {
+                "F": {
+                    "item": "minecraft:rabbit_hide"
+                },
+                "S": {
+                    "item": "minecraft:rabbit"
+                },
+                "E": {
+                    "item": "minecraft:egg"
+                },
+                "G": {
+                    "item": "minecraft:gold_ingot"
+                }
+            },
+            "result": {
+                "item": "minecraft:rabbit_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:villager_spawn_egg",
+            "type": "minecraft:crafting_shaped",
+            "pattern": [
+                " F ",
+                "FEF",
+                " G "
+            ],
+            "key": {
+                "F": {
+                    "item": "minecraft:emerald"
+                },
+                "E": {
+                    "item": "minecraft:egg"
+                },
+                "G": {
+                    "item": "minecraft:gold_ingot"
+                }
+            },
+            "result": {
+                "item": "minecraft:villager_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:goat_spawn_egg",
+            "type": "minecraft:crafting_shaped",
+            "pattern": [
+                " F ",
+                "SES",
+                " G "
+            ],
+            "key": {
+                "F": {
+                    "item": "minecraft:wheat"
+                },
+                "S": {
+                    "item": "minecraft:powder_snow_bucket"
+                },
+                "E": {
+                    "item": "minecraft:egg"
+                },
+                "G": {
+                    "item": "minecraft:gold_ingot"
+                }
+            },
+            "result": {
+                "item": "minecraft:goat_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:allay_spawn_egg",
+            "type": "minecraft:crafting_shaped",
+            "pattern": [
+                " F ",
+                "SES",
+                " G "
+            ],
+            "key": {
+                "F": {
+                    "item": "minecraft:diamond"
+                },
+                "S": {
+                    "item": "minecraft:cookie"
+                },
+                "E": {
+                    "item": "minecraft:egg"
+                },
+                "G": {
+                    "item": "minecraft:gold_ingot"
+                }
+            },
+            "result": {
+                "item": "minecraft:allay_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:cat_spawn_egg",
+            "type": "minecraft:crafting_shaped",
+            "pattern": [
+                " F ",
+                "SES",
+                " G "
+            ],
+            "key": {
+                "F": {
+                    "item": "minecraft:white_wool"
+                },
+                "S": {
+                    "item": "minecraft:string"
+                },
+                "E": {
+                    "item": "minecraft:egg"
+                },
+                "G": {
+                    "item": "minecraft:gold_ingot"
+                }
+            },
+            "result": {
+                "item": "minecraft:cat_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:donkey_spawn_egg",
+            "type": "minecraft:crafting_shaped",
+            "pattern": [
+                " F ",
+                "SES",
+                " G "
+            ],
+            "key": {
+                "F": {
+                    "item": "minecraft:wheat"
+                },
+                "S": {
+                    "item": "minecraft:leather"
+                },
+                "E": {
+                    "item": "minecraft:egg"
+                },
+                "G": {
+                    "item": "minecraft:gold_ingot"
+                }
+            },
+            "result": {
+                "item": "minecraft:donkey_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:llama_spawn_egg",
+            "type": "minecraft:crafting_shaped",
+            "pattern": [
+                " F ",
+                "SES",
+                " G "
+            ],
+            "key": {
+                "F": {
+                    "item": "minecraft:white_carpet"
+                },
+                "S": {
+                    "item": "minecraft:leather"
+                },
+                "E": {
+                    "item": "minecraft:egg"
+                },
+                "G": {
+                    "item": "minecraft:gold_ingot"
+                }
+            },
+            "result": {
+                "item": "minecraft:llama_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:ocelot_spawn_egg",
+            "type": "minecraft:crafting_shaped",
+            "pattern": [
+                " F ",
+                "SES",
+                " G "
+            ],
+            "key": {
+                "F": {
+                    "item": "minecraft:cocoa_beans"
+                },
+                "S": {
+                    "item": "minecraft:string"
+                },
+                "E": {
+                    "item": "minecraft:egg"
+                },
+                "G": {
+                    "item": "minecraft:gold_ingot"
+                }
+            },
+            "result": {
+                "item": "minecraft:ocelot_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:pig_spawn_egg",
+            "type": "minecraft:crafting_shaped",
+            "pattern": [
+                " F ",
+                "SES",
+                " G "
+            ],
+            "key": {
+                "F": {
+                    "item": "minecraft:carrot_on_a_stick"
+                },
+                "S": {
+                    "item": "minecraft:porkchop"
+                },
+                "E": {
+                    "item": "minecraft:egg"
+                },
+                "G": {
+                    "item": "minecraft:gold_ingot"
+                }
+            },
+            "result": {
+                "item": "minecraft:pig_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:sheep_spawn_egg",
+            "type": "minecraft:crafting_shaped",
+            "pattern": [
+                " F ",
+                "SES",
+                " G "
+            ],
+            "key": {
+                "F": {
+                    "item": "minecraft:white_wool"
+                },
+                "S": {
+                    "item": "minecraft:mutton"
+                },
+                "E": {
+                    "item": "minecraft:egg"
+                },
+                "G": {
+                    "item": "minecraft:gold_ingot"
+                }
+            },
+            "result": {
+                "item": "minecraft:sheep_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:wandering_trader_spawn_egg",
+            "type": "minecraft:crafting_shaped",
+            "pattern": [
+                " F ",
+                "SES",
+                " G "
+            ],
+            "key": {
+                "F": {
+                    "item": "minecraft:emerald_block"
+                },
+                "S": {
+                    "item": "minecraft:emerald"
+                },
+                "E": {
+                    "item": "minecraft:villager_spawn_egg"
+                },
+                "G": {
+                    "item": "minecraft:gold_ingot"
+                }
+            },
+            "result": {
+                "item": "minecraft:wandering_trader_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:bee_spawn_egg",
+            "type": "minecraft:crafting_shaped",
+            "pattern": [
+                " F ",
+                "SES",
+                " G "
+            ],
+            "key": {
+                "F": {
+                    "item": "minecraft:honey_bottle"
+                },
+                "S": {
+                    "item": "minecraft:honeycomb"
+                },
+                "E": {
+                    "item": "minecraft:egg"
+                },
+                "G": {
+                    "item": "minecraft:gold_ingot"
+                }
+            },
+            "result": {
+                "item": "minecraft:bee_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:chicken_spawn_egg",
+            "type": "minecraft:crafting_shaped",
+            "pattern": [
+                "E",
+                "G"
+            ],
+            "key": {
+                "E": {
+                    "item": "minecraft:egg"
+                },
+                "G": {
+                    "item": "minecraft:gold_ingot"
+                }
+            },
+            "result": {
+                "item": "minecraft:chicken_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:fox_spawn_egg",
+            "type": "minecraft:crafting_shaped",
+            "pattern": [
+                " F ",
+                "SES",
+                " G "
+            ],
+            "key": {
+                "F": {
+                    "item": "minecraft:bone"
+                },
+                "S": {
+                    "item": "minecraft:sweet_berries"
+                },
+                "E": {
+                    "item": "minecraft:egg"
+                },
+                "G": {
+                    "item": "minecraft:gold_ingot"
+                }
+            },
+            "result": {
+                "item": "minecraft:fox_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:mooshroom_spawn_egg",
+            "type": "minecraft:crafting_shaped",
+            "pattern": [
+                " F ",
+                "SES",
+                " G "
+            ],
+            "key": {
+                "F": {
+                    "item": "minecraft:red_mushroom_block"
+                },
+                "S": {
+                    "item": "minecraft:red_mushroom"
+                },
+                "E": {
+                    "item": "minecraft:egg"
+                },
+                "G": {
+                    "item": "minecraft:gold_ingot"
+                }
+            },
+            "result": {
+                "item": "minecraft:mooshroom_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:panda_spawn_egg",
+            "type": "minecraft:crafting_shaped",
+            "pattern": [
+                " F ",
+                "FEF",
+                " G "
+            ],
+            "key": {
+                "F": {
+                    "item": "minecraft:bamboo"
+                },
+                "E": {
+                    "item": "minecraft:egg"
+                },
+                "G": {
+                    "item": "minecraft:gold_ingot"
+                }
+            },
+            "result": {
+                "item": "minecraft:panda_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:polar_bear_spawn_egg",
+            "type": "minecraft:crafting_shaped",
+            "pattern": [
+                " F ",
+                "SES",
+                " G "
+            ],
+            "key": {
+                "F": {
+                    "item": "minecraft:salmon"
+                },
+                "S": {
+                    "item": "minecraft:snow_block"
+                },
+                "E": {
+                    "item": "minecraft:egg"
+                },
+                "G": {
+                    "item": "minecraft:gold_ingot"
+                }
+            },
+            "result": {
+                "item": "minecraft:polar_bear_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:trader_llama_spawn_egg",
+            "type": "minecraft:crafting_shapeless",
+            "ingredients": [
+                {
+                    "item": "minecraft:llama_spawn_egg"
+                },
+                {
+                    "item": "minecraft:wandering_trader_spawn_egg"
+                }
+            ],
+            "result": {
+                "item": "minecraft:trader_llama_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:wolf_spawn_egg",
+            "type": "minecraft:crafting_shaped",
+            "pattern": [
+                " F ",
+                "SET",
+                " G "
+            ],
+            "key": {
+                "F": {
+                    "item": "minecraft:bone"
+                },
+                "S": {
+                    "item": "minecraft:beef"
+                },
+                "T": {
+                    "item": "minecraft:chicken"
+                },
+                "E": {
+                    "item": "minecraft:egg"
+                },
+                "G": {
+                    "item": "minecraft:gold_ingot"
+                }
+            },
+            "result": {
+                "item": "minecraft:wolf_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:frog_spawn_egg",
+            "type": "minecraft:crafting_shaped",
+            "pattern": [
+                " F ",
+                "SES",
+                " G "
+            ],
+            "key": {
+                "F": {
+                    "item": "minecraft:slime_ball"
+                },
+                "S": {
+                    "item": "minecraft:pearlescent_froglight"
+                },
+                "E": {
+                    "item": "minecraft:egg"
+                },
+                "G": {
+                    "item": "minecraft:gold_ingot"
+                }
+            },
+            "result": {
+                "item": "minecraft:frog_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:camel_spawn_egg",
+            "type": "minecraft:crafting_shaped",
+            "description": {
+                "text": "1.20 update pack required"
+            },
+            "pattern": [
+                " F ",
+                "FEF",
+                " G "
+            ],
+            "key": {
+                "F": {
+                    "item": "minecraft:cactus"
+                },
+                "E": {
+                    "item": "minecraft:egg"
+                },
+                "G": {
+                    "item": "minecraft:gold_ingot"
+                }
+            },
+            "result": {
+                "item": "minecraft:camel_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:sniffer_spawn_egg",
+            "type": "minecraft:crafting_shaped",
+            "description": {
+                "text": "1.20 update pack required (Coming soon!)"
+            },
+            "pattern": [
+                " F ",
+                "SES",
+                " G "
+            ],
+            "key": {
+                "F": {
+                    "item": "minecraft:unknown"
+                },
+                "S": {
+                    "item": "minecraft:unknown"
+                },
+                "E": {
+                    "item": "minecraft:egg"
+                },
+                "G": {
+                    "item": "minecraft:gold_ingot"
+                }
+            },
+            "result": {
+                "item": "minecraft:sniffer_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:iron_golem_spawn_egg",
+            "type": "minecraft:crafting_shaped",
+            "pattern": [
+                " F ",
+                "SSS",
+                "ESG"
+            ],
+            "key": {
+                "F": {
+                    "item": "minecraft:carved_pumpkin"
+                },
+                "S": {
+                    "item": "minecraft:iron_block"
+                },
+                "E": {
+                    "item": "minecraft:egg"
+                },
+                "G": {
+                    "item": "minecraft:gold_ingot"
+                }
+            },
+            "result": {
+                "item": "minecraft:iron_golem_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:snow_golem_spawn_egg",
+            "type": "minecraft:crafting_shaped",
+            "pattern": [
+                " F ",
+                "ESG",
+                " S "
+            ],
+            "key": {
+                "F": {
+                    "item": "minecraft:carved_pumpkin"
+                },
+                "S": {
+                    "item": "minecraft:snow_block"
+                },
+                "E": {
+                    "item": "minecraft:egg"
+                },
+                "G": {
+                    "item": "minecraft:gold_ingot"
+                }
+            },
+            "result": {
+                "item": "minecraft:snow_golem_spawn_egg"
+            }
+        },
+
+        {
+            "identifier": "spawnercraft:tropical_fish_spawn_egg",
+            "type": "minecraft:crafting_shaped",
+            "pattern": [
+                " F ",
+                "SES",
+                " G "
+            ],
+            "key": {
+                "F": {
+                    "item": "minecraft:tropical_fish"
+                },
+                "S": {
+                    "item": "minecraft:water_bucket"
+                },
+                "E": {
+                    "item": "minecraft:egg"
+                },
+                "G": {
+                    "item": "minecraft:gold_ingot"
+                }
+            },
+            "result": {
+                "item": "minecraft:tropical_fish_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:drowned_spawn_egg",
+            "type": "minecraft:crafting_shaped",
+            "pattern": [
+                " F ",
+                "FEF",
+                " G "
+            ],
+            "key": {
+                "F": {
+                    "item": "minecraft:water_bucket"
+                },
+                "E": {
+                    "item": "minecraft:zombie_spawn_egg"
+                },
+                "G": {
+                    "item": "minecraft:gold_ingot"
+                }
+            },
+            "result": {
+                "item": "minecraft:drowned_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:pufferfish_spawn_egg",
+            "type": "minecraft:crafting_shaped",
+            "pattern": [
+                " F ",
+                "SES",
+                " G "
+            ],
+            "key": {
+                "F": {
+                    "item": "minecraft:pufferfish"
+                },
+                "S": {
+                    "item": "minecraft:water_bucket"
+                },
+                "E": {
+                    "item": "minecraft:egg"
+                },
+                "G": {
+                    "item": "minecraft:gold_ingot"
+                }
+            },
+            "result": {
+                "item": "minecraft:pufferfish_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:cod_spawn_egg",
+            "type": "minecraft:crafting_shaped",
+            "pattern": [
+                " F ",
+                "SES",
+                " G "
+            ],
+            "key": {
+                "F": {
+                    "item": "minecraft:cod"
+                },
+                "S": {
+                    "item": "minecraft:water_bucket"
+                },
+                "E": {
+                    "item": "minecraft:egg"
+                },
+                "G": {
+                    "item": "minecraft:gold_ingot"
+                }
+            },
+            "result": {
+                "item": "minecraft:cod_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:elder_guardian_spawn_egg",
+            "type": "minecraft:crafting_shaped",
+            "pattern": [
+                " F ",
+                "SES",
+                " G "
+            ],
+            "key": {
+                "F": {
+                    "item": "minecraft:sponge"
+                },
+                "S": {
+                    "item": "minecraft:water_bucket"
+                },
+                "E": {
+                    "item": "minecraft:egg"
+                },
+                "G": {
+                    "item": "minecraft:gold_ingot"
+                }
+            },
+            "result": {
+                "item": "minecraft:elder_guardian_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:salmon_spawn_egg",
+            "type": "minecraft:crafting_shaped",
+            "pattern": [
+                " F ",
+                "SES",
+                " G "
+            ],
+            "key": {
+                "F": {
+                    "item": "minecraft:salmon"
+                },
+                "S": {
+                    "item": "minecraft:water_bucket"
+                },
+                "E": {
+                    "item": "minecraft:egg"
+                },
+                "G": {
+                    "item": "minecraft:gold_ingot"
+                }
+            },
+            "result": {
+                "item": "minecraft:salmon_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:dolphin_spawn_egg",
+            "type": "minecraft:crafting_shaped",
+            "pattern": [
+                " F ",
+                "SES",
+                " G "
+            ],
+            "key": {
+                "F": {
+                    "item": "minecraft:diamond"
+                },
+                "S": {
+                    "item": "minecraft:water_bucket"
+                },
+                "E": {
+                    "item": "minecraft:egg"
+                },
+                "G": {
+                    "item": "minecraft:gold_ingot"
+                }
+            },
+            "result": {
+                "item": "minecraft:dolphin_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:guardian_spawn_egg",
+            "type": "minecraft:crafting_shaped",
+            "pattern": [
+                " F ",
+                "SES",
+                " G "
+            ],
+            "key": {
+                "F": {
+                    "item": "minecraft:prismarine_shard"
+                },
+                "S": {
+                    "item": "minecraft:water_bucket"
+                },
+                "E": {
+                    "item": "minecraft:egg"
+                },
+                "G": {
+                    "item": "minecraft:gold_ingot"
+                }
+            },
+            "result": {
+                "item": "minecraft:guardian_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:squid_spawn_egg",
+            "type": "minecraft:crafting_shaped",
+            "pattern": [
+                " F ",
+                "SES",
+                " G "
+            ],
+            "key": {
+                "F": {
+                    "item": "minecraft:ink_sac"
+                },
+                "S": {
+                    "item": "minecraft:water_bucket"
+                },
+                "E": {
+                    "item": "minecraft:egg"
+                },
+                "G": {
+                    "item": "minecraft:gold_ingot"
+                }
+            },
+            "result": {
+                "item": "minecraft:squid_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:turtle_spawn_egg",
+            "type": "minecraft:crafting_shaped",
+            "pattern": [
+                " F ",
+                "SES",
+                " G "
+            ],
+            "key": {
+                "F": {
+                    "item": "minecraft:turtle_egg"
+                },
+                "S": {
+                    "item": "minecraft:water_bucket"
+                },
+                "E": {
+                    "item": "minecraft:egg"
+                },
+                "G": {
+                    "item": "minecraft:gold_ingot"
+                }
+            },
+            "result": {
+                "item": "minecraft:turtle_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:tadpole_spawn_egg",
+            "type": "minecraft:crafting_shaped",
+            "pattern": [
+                " F ",
+                "SES",
+                " G "
+            ],
+            "key": {
+                "F": {
+                    "item": "minecraft:tadpole_bucket"
+                },
+                "S": {
+                    "item": "minecraft:water_bucket"
+                },
+                "E": {
+                    "item": "minecraft:egg"
+                },
+                "G": {
+                    "item": "minecraft:gold_ingot"
+                }
+            },
+            "result": {
+                "item": "minecraft:tadpole_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:axolotl_spawn_egg",
+            "type": "minecraft:crafting_shaped",
+            "pattern": [
+                " F ",
+                "SES",
+                " G "
+            ],
+            "key": {
+                "F": {
+                    "item": "minecraft:tropical_fish_bucket"
+                },
+                "S": {
+                    "item": "minecraft:water_bucket"
+                },
+                "E": {
+                    "item": "minecraft:egg"
+                },
+                "G": {
+                    "item": "minecraft:gold_ingot"
+                }
+            },
+            "result": {
+                "item": "minecraft:axolotl_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:glow_squid_spawn_egg",
+            "type": "minecraft:crafting_shaped",
+            "pattern": [
+                " F ",
+                "SES",
+                " G "
+            ],
+            "key": {
+                "F": {
+                    "item": "minecraft:glow_ink_sac"
+                },
+                "S": {
+                    "item": "minecraft:water_bucket"
+                },
+                "E": {
+                    "item": "minecraft:egg"
+                },
+                "G": {
+                    "item": "minecraft:gold_ingot"
+                }
+            },
+            "result": {
+                "item": "minecraft:glow_squid_spawn_egg"
+            }
+        },
+
+        {
+            "identifier": "spawnercraft:blaze_spawn_egg",
+            "type": "minecraft:crafting_shaped",
+            "pattern": [
+                " F ",
+                "SES",
+                " G "
+            ],
+            "key": {
+                "F": {
+                    "item": "minecraft:blaze_rod"
+                },
+                "S": {
+                    "item": "minecraft:blaze_powder"
+                },
+                "E": {
+                    "item": "minecraft:egg"
+                },
+                "G": {
+                    "item": "minecraft:gold_ingot"
+                }
+            },
+            "result": {
+                "item": "minecraft:blaze_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:zoglin_spawn_egg",
+            "type": "minecraft:crafting_shapeless",
+            "ingredients": [
+                {
+                    "item": "minecraft:hoglin_spawn_egg"
+                },
+                {
+                    "item": "minecraft:zombie_spawn_egg"
+                }
+            ],
+            "result": {
+                "item": "minecraft:zoglin_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:zombified_piglin_spawn_egg",
+            "type": "minecraft:crafting_shapeless",
+            "ingredients": [
+                {
+                    "item": "minecraft:piglin_spawn_egg"
+                },
+                {
+                    "item": "minecraft:zombie_spawn_egg"
+                }
+            ],
+            "result": {
+                "item": "minecraft:zombified_piglin_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:ghast_spawn_egg",
+            "type": "minecraft:crafting_shaped",
+            "pattern": [
+                " F ",
+                "SES",
+                " G "
+            ],
+            "key": {
+                "F": {
+                    "item": "minecraft:ghast_tear"
+                },
+                "S": {
+                    "item": "minecraft:firecharge"
+                },
+                "E": {
+                    "item": "minecraft:egg"
+                },
+                "G": {
+                    "item": "minecraft:gold_ingot"
+                }
+            },
+            "result": {
+                "item": "minecraft:ghast_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:piglin_spawn_egg",
+            "type": "minecraft:crafting_shapeless",
+            "ingredients": [
+                {
+                    "item": "minecraft:gold_ingot"
+                },
+                {
+                    "item": "minecraft:pig_spawn_egg"
+                }
+            ],
+            "result": {
+                "item": "minecraft:piglin_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:strider_spawn_egg",
+            "type": "minecraft:crafting_shaped",
+            "pattern": [
+                " F ",
+                "SES",
+                " G "
+            ],
+            "key": {
+                "F": {
+                    "item": "minecraft:lava_bucket"
+                },
+                "S": {
+                    "item": "minecraft:string"
+                },
+                "E": {
+                    "item": "minecraft:egg"
+                },
+                "G": {
+                    "item": "minecraft:gold_ingot"
+                }
+            },
+            "result": {
+                "item": "minecraft:strider_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:piglin_brute_spawn_egg",
+            "type": "minecraft:crafting_shaped",
+            "pattern": [
+                " F ",
+                "SES",
+                " G "
+            ],
+            "key": {
+                "F": {
+                    "item": "minecraft:gold_axe"
+                },
+                "S": {
+                    "item": "minecraft:gold_ingot"
+                },
+                "E": {
+                    "item": "minecraft:piglin_spawn_egg"
+                },
+                "G": {
+                    "item": "minecraft:gold_block"
+                }
+            },
+            "result": {
+                "item": "minecraft:piglin_brute_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:magma_cube_spawn_egg",
+            "type": "minecraft:crafting_shaped",
+            "pattern": [
+                " F ",
+                "FEF",
+                " G "
+            ],
+            "key": {
+                "F": {
+                    "item": "minecraft:magma"
+                },
+                "E": {
+                    "item": "minecraft:egg"
+                },
+                "G": {
+                    "item": "minecraft:gold_ingot"
+                }
+            },
+            "result": {
+                "item": "minecraft:magma_cube_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:zombie_pigman_spawn_egg",
+            "type": "minecraft:crafting_shapeless",
+            "description": {
+                "text": "For versions v1.3 and below"
+            },
+            "ingredients": [
+                {
+                    "item": "minecraft:pig_spawn_egg"
+                },
+                {
+                    "item": "minecraft:zombie_spawn_egg"
+                }
+            ],
+            "result": {
+                "item": "minecraft:zombie_pigman_spawn_egg"
+            }
+        },
+        {
+            "identifier": "spawnercraft:hoglin_spawn_egg",
+            "type": "minecraft:crafting_shaped",
+            "pattern": [
+                " F ",
+                "SES",
+                " G "
+            ],
+            "key": {
+                "F": {
+                    "item": "minecraft:bone"
+                },
+                "S": {
+                    "item": "minecraft:porkchop"
+                },
+                "E": {
+                    "item": "minecraft:egg"
+                },
+                "G": {
+                    "item": "minecraft:gold_ingot"
+                }
+            },
+            "result": {
+                "item": "minecraft:hoglin_spawn_egg"
+            }
+        },
+
+        {
+            "identifier": "spawnercraft:spawner",
+            "type": "minecraft:crafting_shaped",
+            "pattern": [
+                "III",
+                "IDI",
+                "IOI"
+            ],
+            "key": {
+                "I": {
+                    "item": "minecraft:iron_bars"
+                },
+                "D": {
+                    "item": "minecraft:diamond_block"
+                },
+                "O": {
+                    "item": "minecraft:obsidian"
+                }
+            },
+            "result": {
+                "item": "minecraft:spawner"
+            }
+        }
+    ]
+}
