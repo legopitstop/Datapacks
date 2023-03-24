@@ -10,8 +10,8 @@
 |--------------------|-------------|
 | supported          | `yes`       |
 | namespace          | `moremusic` |
-| pack_version       | `1.4.0`     |
-| mc_version         | `1.18`      |
+| pack_version       | `1.5.0`     |
+| mc_version         | `1.19.4`    |
 | multiplayer_tested | `no`        |
 | has_config         | `no`        |
 
