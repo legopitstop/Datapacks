@@ -1,0 +1,19 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_11",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{id:\"moremusic:music_disc_so_below\",record:{power_level:5,command:\"execute as @e[tag=Jukebox,limit=1,sort=nearest] at @s run playsound moremusic:music_disc.so_below record @a ~ ~ ~ 4 1 0\"},HideFlags:32,CustomModelData:15,display:{Name:'{\"translate\":\"item.moremusic.music_disc_so_below\",\"italic\": false}',Lore:['{\"translate\":\"item.moremusic.music_disc_so_below.desc\",\"color\":\"gray\",\"italic\": false}']}}"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

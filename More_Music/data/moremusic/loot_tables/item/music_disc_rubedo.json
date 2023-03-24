@@ -1,0 +1,19 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:music_disc_11",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{id:\"moremusic:music_disc_rubedo\",record:{power_level:5,command:\"execute as @e[tag=Jukebox,limit=1,sort=nearest] at @s run playsound moremusic:music_disc.rubedo record @a ~ ~ ~ 4 1 0\"},HideFlags:32,CustomModelData:93,display:{Name:'{\"translate\":\"item.moremusic.music_disc_rubedo\",\"italic\": false}',Lore:['{\"translate\":\"item.moremusic.music_disc_rubedo.desc\",\"color\":\"gray\",\"italic\": false}']}}"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
