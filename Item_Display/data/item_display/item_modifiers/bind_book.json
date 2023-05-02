@@ -1,0 +1,16 @@
+[
+    {
+        "function": "minecraft:copy_nbt",
+        "source": {
+            "type": "minecraft:storage",
+            "source": "item_display:book"
+        },
+        "ops": [
+            {
+                "op": "replace",
+                "source": "pages[0]",
+                "target": "pages[0]"
+            }
+        ]
+    }
+]

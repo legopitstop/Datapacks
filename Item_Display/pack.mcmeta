@@ -1,7 +1,7 @@
 {
     "pack": {
-        "pack_format": 6,
-        "version": [1, 3, 0],
+        "pack_format": 12,
+        "version": [1, 4, 0],
         "description": [
             {
                 "text": "This datapack adds item display blocks to decorate your world!\n", 
@@ -10,7 +10,7 @@
             {
                 "text": "Legopitstop", 
                 "color":"#e86608",
-                "underlined": "true"
+                "underlined": true
             }
         ],
         "metadata": {
