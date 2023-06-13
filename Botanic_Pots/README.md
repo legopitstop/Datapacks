@@ -15,6 +15,6 @@ You can now place flowers in Decorated Pots!
 
 ## LINKS
 - [Download](https://curseforge.com/minecraft/customization/botanic-pots-datapack)
-- [Wiki Page](https://github.com/legopitstop/Datapacks/wiki/TEMPLATE)
+- [Wiki Page](https://github.com/legopitstop/Datapacks/wiki/Botanic_Pots)
 - [License](https://legopitstop.weebly.com/license.html)
 - [Bug Report](https://github.com/legopitstop/Datapacks/issues)
