@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "Item Display",
+        "description": "This datapack adds item display blocks to decorate your world!",
+        "icon": {
+            "item": "minecraft:glow_item_frame"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "global:lps",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

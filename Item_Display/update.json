@@ -10,6 +10,9 @@
     "1.19.4": {
         "1.4.0": "# CHANGELOG v1.4.0\n## General\n- Updated for 1.19.4\n- Now uses the item_display and text_display entities for better performance and customizabilit\n        \n## New\n- Using a Glow Ink Sac on the item display will make it glow in the dark like a glow item frame\n- Using an Ink Sac on a glowing item display will make it not glow.\n- Using a Name Tag on the item display will rename the ite\n        \n## Fixes\n- The item now not pop off once created."
     },
+    "1.20": {
+        "1.4.1": "# [1.4.1] - 6/19/2023\n## General\n- Updated for 1.20.1\n- Interacting with an item display should now properly select the correct item display."
+    },
     "promos": {
         "1.16-recommended": "1.3.0",
         "1.19.4-recommended": "1.4.0"

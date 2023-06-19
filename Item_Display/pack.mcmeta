@@ -1,7 +1,7 @@
 {
     "pack": {
-        "pack_format": 12,
-        "version": [1, 4, 0],
+        "pack_format": 15,
+        "version": [1, 4, 1],
         "description": [
             {
                 "text": "This datapack adds item display blocks to decorate your world!\n", 
