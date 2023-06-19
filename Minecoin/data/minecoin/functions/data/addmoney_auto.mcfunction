@@ -1,4 +1,8 @@
-#> '/function minecoin:data/AddMoney.Auto.mcfunction' - AddMoney.Auto trigger
+# Made by: @Legopitstop
+# Desc: Addmoney.Auto trigger
+#
+# Called By: minecoin:main_tick
+
 # Message Feedback
 execute if score @s AddMoney.Auto matches 1.. run title @s actionbar {"translate":"minecoin.AddMoney.Auto.on"}
 execute if score @s AddMoney.Auto matches 2.. run title @s actionbar {"translate":"minecoin.AddMoney.Auto.off"}

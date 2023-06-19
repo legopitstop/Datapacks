@@ -1,6 +1,6 @@
 {
     "replace": false,
     "values": [
-        "minecoin:tick"
+        "minecoin:pre_tick"
     ]
-}
+ }

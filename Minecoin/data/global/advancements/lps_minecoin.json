@@ -1,0 +1,18 @@
+{
+    "display": {
+        "title": "Minecoin",
+        "description": "Fake Minecoins!",
+        "icon": {
+            "item": "minecraft:paper",
+            "nbt": "{CustomModelData: 420}"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "global:lps",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

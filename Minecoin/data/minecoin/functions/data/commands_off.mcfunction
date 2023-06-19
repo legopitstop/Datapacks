@@ -1,4 +1,7 @@
-#> '/function minecoin:data/commands_off.mcfunction' - mining false setting
+# Made by: @Legopitstop
+# Desc: mineing false setting
+#
+# Called By: minecoin:main_tick
 
 scoreboard objectives remove AddMoney
 scoreboard objectives remove AddMoney.Auto

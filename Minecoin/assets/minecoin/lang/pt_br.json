@@ -1,0 +1,40 @@
+﻿{
+	"minecoin.reload.message": "§r§2MineCoin Datapack Instalado!",
+	"minecoin.button.settings": "§r§1[Configuração]",
+	"minecoin.button.updates": "§r§6[Clique para Atualizar]",
+
+	"lps.gui.line_separator": "§8\u00A7m                                                                                ",
+	"minecoin.gui.settings": "§r                                 Configurações",
+	"minecoin.gui.check": "§r§a[ ✔ ]",
+	"minecoin.gui.cross": "§r§c[ ❌ ]",
+	"minecoin.gui.pen": "§r§7[ ✎ ]",
+	"minecoin.gui.pen_edited": "§r§6[ ✎ ]",
+	"minecoin.gui.reset": "§r§4Configuração Padrão",
+	"minecoin.gui.reset_desc": "§r Você Não Pode Voltar",
+	"minecoin.gui.survival.desc": "§r Sobrevivência - Quebre os blocos para obter MineCoins.",
+	"minecoin.gui.creative.desc": "§r Criativo - MineCoins Infinito.",
+	"minecoin.gui.cointimer.desc": "§r Obter MineCoins por Tempo de Jogo.",
+	"minecoin.gui.commands.desc": "§r Comandos - Ativar/Desativar comandos trigger.",
+	"minecoin.gui.maxtimer.desc": "§r Definir tempo máximo",
+	"minecoin.gui.maxtimer.custom": "§r Tempo máximo personalizado",
+	"minecoin.gui.viewaccount": "§r§6§lTop Saldos Bancários!",
+
+	"minecoin.AddMoney.Auto.on": "§rAddMoney.Auto - §aON §r| executar trigger para OFF",
+	"minecoin.AddMoney.Auto.off": "§rAddMoney.Auto - §aOFF §r| executar trigger para ON",
+	"minecoin.newplayerreload.message": "§r§cNovo jogador! Recarregando MineCoin DataPack",
+	"minecoin.addmoney.desc": "§r§aValor Depositado em Seu Saldo Bancário",
+	"minecoin.addmoney.error": "§r§cErro: Você precisa estar segurando o MineCoin para fazer o Depósito.",
+	"minecoin.balance.desc": "§r§a§lSeu Saldo Bancário:",
+	"minecoin.delete_money.desc": "§r§cBanco de MineCoin Resetado",
+	"minecoin.extractmoney.desc": "§r§aSaque realizado de Seu Saldo Bancário",
+	"minecoin.extractmoney.error": "§r§cErro: Você não possui Saldo Bancário para Saque!",
+	"minecoin.extractmoney.error2": "§r§cErro: Máximo de 64 MineCoin por Saque!",
+
+	"minecoin.settings.delete_money": "§r§cVocê tem certeza que quer §r§2§lapagar §r§ctodo o dinheiro?",
+	"minecoin.settings.delete_money.action": "§r§o§n§dClicar na caixa de seleção limpará todo o dinheiro economizado neste pacote, você não pode desfazer isso.",
+	"minecoin.settings.reset": "§r§cAs configurações foram redefinidas!",
+	"minecoin.settings.reload": "§r§cIsso requer um reload. Recarregando...",
+	"minecoin.settings.maxtimer.error": "§r§cQualquer coisa menor que 100 pode causar erros, definindo como padrão.",
+
+	"item.minecoin:minecoin": "Minecoin"
+}

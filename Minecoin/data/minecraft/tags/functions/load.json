@@ -1,5 +1,7 @@
 {
+   "replace": false,
    "values": [
-    	"minecoin:load"
+       "lps:919108",
+       "minecoin:main_load"
    ]
 }

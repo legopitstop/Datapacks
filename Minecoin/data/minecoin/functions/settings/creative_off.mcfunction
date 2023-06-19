@@ -1,4 +1,8 @@
-#> '/function minecoin:settings/creative_off.mcfunction' - creative off
+# Made by: @Legopitstop
+# Desc: creative off
+#
+# Called By: minecoin:settings
+
 scoreboard players operation @a MyMoneyData = @a MyMoneyDataBack
 scoreboard players set creative MinecoinData 1
 function minecoin:settings

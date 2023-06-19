@@ -1,4 +1,8 @@
-#> '/function minecoin:tick.mcfunction' - runs all the time/looping
+# Made by: @Legopitstop
+# Desc: runs all files (looping)
+#
+# Called by: minecoin:pre_tick
+
 # trigger command stuffs (/trigger Balance)
 execute if score commands MinecoinData matches ..0 as @p[scores={Balance=1..}] run function minecoin:data/balance
 execute if score commands MinecoinData matches ..0 as @p[scores={Bal=1..}] run function minecoin:data/balance
@@ -24,9 +28,6 @@ execute if score cointimer MinecoinData matches ..0 if score @p timeplayed > max
 execute if score cointimer MinecoinData matches ..0 if score @p timeplayed > maxtimer MinecoinData at @p run scoreboard players set @p timeplayed 0
 execute if score maxtimer MinecoinData matches ..99 run tellraw @p [{"translate":"minecoin.settings.maxtimer.error"}]
 execute if score maxtimer MinecoinData matches ..99 run scoreboard players set maxtimer MinecoinData 72000
-# reload datapack when new players logon.
-execute unless score @p MyMoneyData matches 0.. run tellraw @a {"translate":"minecoin.newplayerreload.message"}
-execute unless score @p MyMoneyData matches 0.. run function minecoin:load
 
 # turn commands off/on
 #execute if score commands MinecoinData matches ..0 run say on

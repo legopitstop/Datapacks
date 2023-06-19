@@ -30,9 +30,11 @@
   "minecoin.extractmoney.error": "§r§cError: Your Account Is Empty!",
   "minecoin.extractmoney.error2": "§r§cError: The Maxium you can extract is 64",
   
+  "minecoin.settings.delete_money": "§r§cAre you sure you want to §r§2§ldelete §r§call the money?",
+  "minecoin.settings.delete_money.action": "§r§o§n§dClicking the checkbox will clear all money saved in this package, you cannot undo this.",
   "minecoin.settings.reset": "§r§cSettings Have Been Reset!",
   "minecoin.settings.reload": "§r§cThis requires a reload. reloading...",
   "minecoin.settings.maxtimer.error": "§r§cAnything less than 100 may cause errors, setting to default.",
 
-  "item.minecoin:minecoin": "§r§d1+ Minecoin"
+  "item.minecoin:minecoin": "Minecoin"
 }

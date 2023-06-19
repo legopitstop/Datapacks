@@ -1,4 +1,8 @@
-#> '/function minecoin:settings/commands_on.mcfunction' - commands on
+# Made by: @Legopitstop
+# Desc: commands on
+#
+# Called By: minecoin:settings
+
 scoreboard players set commands MinecoinData 0
 function minecoin:settings
 tellraw @p [{"translate":"minecoin.settings.reload"}]

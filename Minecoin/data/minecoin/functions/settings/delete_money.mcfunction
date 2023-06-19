@@ -1,3 +1,8 @@
-#> '/function minecoin:settings/delete_money.mcfunction' - delete all money
+# Made by: @Legopitstop
+# Desc: delete all money
+#
+# Called By: minecoin:settings
+
 # delete all money
-tellraw @p ["",{"text":"Are you sure you want to ","color":"red"},{"text":"delete ","bold":true,"color":"dark_red"},{"text":"all the money? ","color":"red"},{"text":"i","underlined":"true","color":"light_purple","hoverEvent":{"action":"show_text","value":"Clicking yes will clear all the money that is saved in this pack, you cannot undo this."}},{"text":"\n"},{"text":"Yes","underlined":true,"color":"dark_green","clickEvent":{"action":"run_command","value":"/function minecoin:data/delete_money"}}]
+tellraw @p [{"translate":"minecoin.settings.delete_money"},{"text":"\n"},{"translate":"minecoin.settings.delete_money.action"},{"text":"\n"},{"text":"[ ✔ ]","underlined":true,"color":"dark_green","clickEvent":{"action":"run_command","value":"/function minecoin:data/delete_money"}}]
+

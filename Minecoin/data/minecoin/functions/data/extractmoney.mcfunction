@@ -1,4 +1,8 @@
-#> '/function minecoin:data/extractmoney.mcfunction' - extract money trigger
+# Made by: @Legopitstop
+# Desc: Extract money trigger
+#
+# Called By: minecoin:main_tick
+
 # Feedback Message
 execute if score @p ExtractMoney matches 65.. run tellraw @p {"translate":"minecoin.extractmoney.error2"}
 execute if score @p ExtractMoney matches 65.. run playsound minecraft:entity.villager.no master @p[scores={ExtractMoney=1..}] ~ ~ ~ 5 1

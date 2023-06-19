@@ -1,9 +1,13 @@
-#> '/function minecoin:settings/reset.mcfunction' - reset settings
+# Made by: @Legopitstop
+# Desc: reset settings
+#
+# Called By: minecoin:settings
+
 # show updated settings
 function minecoin:settings
 
 # message
-tellraw @p {"translate":"minecoin.settings.reset"}
+tellraw @s {"translate":"minecoin.settings.reset"}
 
 playsound minecraft:ui.button.click master @s ~ ~ ~ .2 1.9 .2
 gamerule sendCommandFeedback false

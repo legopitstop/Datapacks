@@ -1,3 +1,8 @@
+# Made by: @Legopitstop
+# Desc: survival off
+#
+# Called By: minecoin:settings
+
 #> '/function minecoin:settings/survival_off.mcfunction' - survival off
 scoreboard players set survival MinecoinData 1
 function minecoin:settings

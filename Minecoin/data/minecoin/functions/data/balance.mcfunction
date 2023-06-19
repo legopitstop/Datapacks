@@ -1,4 +1,8 @@
-#> '/function minecoin:data/.mcfunction' - see what your balance is
+# Made by: @Legopitstop
+# Desc: See what your balance is
+#
+# Called By: minecoin:main_tick
+
 # (MyMoney trigger)
 tellraw @s[scores={Balance=1..}] ["",{"translate":"minecoin.balance.desc"},{"text":"\n"},{"text":"[","color":"dark_green"},{"text":"\ue1b0","color":"white"},{"score":{"name":"@s[scores={Balance=1..}]","objective":"MyMoneyData"},"color":"white"},{"text":"]","color":"dark_green"}]
 tellraw @s[scores={Bal=1..}] ["",{"translate":"minecoin.balance.desc"},{"text":"\n"},{"text":"[","color":"dark_green"},{"text":"\ue1b0","color":"white"},{"score":{"name":"@s[scores={Bal=1..}]","objective":"MyMoneyData"},"color":"white"},{"text":"]","color":"dark_green"}]

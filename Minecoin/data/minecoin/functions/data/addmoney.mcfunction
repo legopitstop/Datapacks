@@ -1,3 +1,8 @@
+# Made by: @Legopitstop
+# Desc: Addmoney trigger
+#
+# Called By: minecoin:main_tick
+
 #> '/function minecoin:data/addmoney.mcfunction' - addmoney trigger
 # get stack ammount that the player is holding and set it in the score
 execute store result score @s[nbt={SelectedItem:{id:"minecraft:paper",tag:{CustomModelData:420}}}] getstack run data get entity @s[nbt={SelectedItem:{id:"minecraft:paper",tag:{CustomModelData:420}}}] SelectedItem.Count

@@ -1,4 +1,8 @@
-#> '/function minecoin:settings/commands_off.mcfunction' - commands off
+# Made by: @Legopitstop
+# Desc: commands off
+#
+# Called By: minecoin:settings
+
 scoreboard players set commands MinecoinData 1
 function minecoin:settings
 playsound minecraft:ui.button.click master @s ~ ~ ~ .2 1.3 .2
