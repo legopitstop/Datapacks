@@ -18,6 +18,9 @@
         "0.2": "# V0.2 changelog\n+ added settings /function minecoin:settings\n - Survival - break blocks to get coins (will only work in survival\n - Creative - unlimited blocks (will only work in creative) reset settings - resets settings to defult\n+ unobfusicated data functons\n+ added trigger error messages.\n+ added trigger error sound.\n+ added dev coin NBT tags to description.",
         "0.1": "Initial release"
     },
+    "1.20": {
+        "1.9.0": "## [1.9.0]\n\nSpecial thanks to [Slug](https://www.planetminecraft.com/member/siug/) for updating Minecoin for 1.20.\n\n### General\n- Updated for 1.20 Minecraft Version\n- Fixed some errors/bugs\n- Removed trigger Bal\n- Added reward for killing hostile mobs\n- Added bigger reward for defeating boss\n- Added reward for mining and harvesting new items"
+    },
     "promos": {
         "1.17-recommended": "1.9.0",
         "1.16-recommended": "0.8",
