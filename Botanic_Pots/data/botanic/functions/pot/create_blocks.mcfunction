@@ -3,5 +3,5 @@
 #
 # Called By: botanic:pot/update
 
-execute store result score #loop __util__ run data get entity @s data.Blocks
-execute if score #loop __util__ matches 1.. run function botanic:pot/_create_blocks
+execute store result score #loop botanic.util run data get entity @s data.Blocks
+execute if score #loop botanic.util matches 1.. run function botanic:pot/_create_blocks

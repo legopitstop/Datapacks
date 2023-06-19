@@ -3,7 +3,7 @@
         "function": "minecraft:set_count",
         "count": {
             "type": "score",
-            "score": "botanicCount",
+            "score": "botanic.count",
             "target": "this"
         }
     }

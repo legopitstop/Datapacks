@@ -9,7 +9,7 @@ data modify entity @e[type=block_display, tag=NeedsData, limit=1] transformation
 tag @e[type=block_display, tag=NeedsData] remove NeedsData
 
 # Next item
-scoreboard players remove #loop __util__ 1
+scoreboard players remove #loop botanic.util 1
 data modify entity @s data.Blocks append from entity @s data.Blocks[0]
 data remove entity @s data.Blocks[0]
-execute if score #loop __util__ matches 1.. run function botanic:pot/_create_blocks
+execute if score #loop botanic.util matches 1.. run function botanic:pot/_create_blocks
