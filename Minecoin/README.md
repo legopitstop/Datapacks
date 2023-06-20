@@ -10,8 +10,8 @@ Get FAKE minecoins to buy and trade!
 |--------------------|------------|
 | supported          | `yes`      |
 | namespace          | `minecoin` |
-| pack_version       | `1.0.0`    |
-| mc_version         | `1.16.5`   |
+| pack_version       | `1.9.0`    |
+| mc_version         | `1.20`   |
 | multiplayer_tested | `yes`      |
 | has_config         | `no`       |
 
