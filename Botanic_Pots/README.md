@@ -7,8 +7,8 @@ You can now place flowers in Decorated Pots!
 | Key                | Value    |
 |--------------------|----------|
 | namespace          | `botanic` |
-| pack_version       | `1.0.0 ` |
-| mc_version         | `1.10.1` |
+| pack_version       | `1.0.2 ` |
+| mc_version         | `1.20` |
 | multiplayer_tested | `no`     |
 | has_config         | `no`     |
 | dependency         | `null`   |
