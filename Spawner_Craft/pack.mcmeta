@@ -1,7 +1,7 @@
 {
     "pack": {
-        "pack_format": 7,
-        "version": [1, 8, 0],
+        "pack_format": 15,
+        "version": [1, 13, 0],
         "description": [
             {
                 "text": "Adds recipes for all the spawn eggs!\n", 
@@ -10,7 +10,7 @@
             {
                 "text": "Legopitstop", 
                 "color":"#e86608",
-                "underlined": "true"
+                "underlined": true
             }
         ],
         "metadata": {

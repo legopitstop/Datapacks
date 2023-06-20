@@ -1,0 +1,30 @@
+﻿{
+    "parent": "spawnercraft:recipes/spawnercraft_root",
+    "rewards": {
+      "recipes": [
+        "spawnercraft:trails_and_tails/camel_spawn_egg"
+      ]
+    },
+    "criteria": {
+      "killed_entity": {
+        "trigger": "minecraft:player_killed_entity",
+        "conditions": {
+          "entity": {
+            "type": "minecraft:camel"
+          }
+        }
+      },
+      "has_recipe": {
+        "trigger": "minecraft:recipe_unlocked",
+        "conditions": {
+          "recipe": "spawnercraft:trails_and_tails/camel_spawn_egg"
+        }
+      }
+    },
+    "requirements": [
+      [
+        "killed_entity",
+        "has_recipe"
+      ]
+    ]
+  }

@@ -2,6 +2,9 @@
     "$schema": "https://raw.githubusercontent.com/legopitstop/Update_Checker/main/schema.json",
     "$id": "https://legopitstop.github.io/Datapacks/Spawner_Craft/update.json",
     "homepage": "https://www.curseforge.com/minecraft/customization/spawner-craft-datapack/files",
+    "1.20": {
+        "1.13.0": "# [1.13.0] - unreleased\n## General\n- Updated for 1.20\n        \n## New Recipes\n- Camel Spawn Egg\n        \n![Camel Spawn Egg](https://github.com/legopitstop/Datapacks/raw/main/Spawner_Craft/assets/camel_spawn_egg.png)\n- Sniffer Spawn Egg\n        \n![Sniffer Spawn Egg](https://github.com/legopitstop/Datapacks/raw/main/Spawner_Craft/assets/sniffer_spawn_egg.png)\n"
+    },
     "1.19": {
         "1.11.0": "# CHANGELOG v1.8.0\n- ## New Recipes\n- Warden Spawn Egg\n- Tadpole Spawn Egg\n- Frog Spawn Egg\n- Allay Spawn Egg"
     },

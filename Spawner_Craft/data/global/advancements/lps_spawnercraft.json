@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "Spawner Craft",
+        "description": "Adds recipes for all the spawn eggs!",
+        "icon": {
+            "item": "minecraft:spawner"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "global:lps",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
