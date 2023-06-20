@@ -10,8 +10,8 @@ Want to display your items to decorate your world? That's what this pack does.
 |--------------------|----------------|
 | supported          | `yes`          |
 | namespace          | `item_display` |
-| pack_version       | `1.4.0`        |
-| mc_version         | `1.19.4`       |
+| pack_version       | `1.4.1`        |
+| mc_version         | `1.20`       |
 | multiplayer_tested | `no`           |
 | has_config         | `no`           |
 
