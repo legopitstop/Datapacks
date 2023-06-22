@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "Armorstand Poses",
+        "description": "Bedrock armorstand poses!",
+        "icon": {
+            "item": "minecraft:armor_stand"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "global:lps",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

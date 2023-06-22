@@ -8,7 +8,11 @@
     "1.15": {
         "0.1": "Initial release."
     },
+    "1.20": {
+        "1.4.0": "## [1.4.0] - 6/22/2023\n### General\n- Updated for 1.20\n- Shift clicking on the base of the armor stand should now target the correct armor stand.\n- Added API to add your own poses to the armor stand.\n- Changing the pose via Shift-Click will now display the name of the pose above the hotbar."
+    },
     "promos": {
+        "1.20-recommended": "1.4.0",
         "1.16-recommended": "1.1.0",
         "1.15-recommended": "0.1"
     }

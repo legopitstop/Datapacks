@@ -8,8 +8,8 @@ Bedrock armor stand poses for Java Edition
 |--------------------|---------------|
 | supported          | `yes`         |
 | namespace          | `armor_stand` |
-| pack_version       | `1.1.0`       |
-| mc_version         | `1.16.5`      |
+| pack_version       | `1.4.0`       |
+| mc_version         | `1.20`      |
 | multiplayer_tested | `no`          |
 | has_config         | `no`          |
 
