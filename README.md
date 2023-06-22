@@ -53,11 +53,13 @@ Like the datapacks and all they have to offer? Want then to keep receiving updat
     - *Coming soon!*
 
 ## Deprived Datapacks
+These Datapacks are no longer being updated.
+
 - [Advanced Farming](./Advanced_Farming/README.md)
 - [Bluestone](./Bluestone/README.md)
-- [CCW Item Frames](./CCW_Item_Frames/README.md)
 - [Christmas Presents](./Christmas_Presents/README.md)
 - [Effect Charms](./Effect_Charms/README.md)
-- [Invisible Item Frames](./Invisable_Item_Frames/README.md)
 - [More Buckets](./More_Buckets/README.md)
 - [Server Bossbar](./Server_Bossbar/README.md)
+- [CCW Item Frames](./CCW_Item_Frames/README.md) (Moved to Better Item Frames)
+- [Invisible Item Frames](./Invisable_Item_Frames/README.md) (Moved to Better Item Frames)
