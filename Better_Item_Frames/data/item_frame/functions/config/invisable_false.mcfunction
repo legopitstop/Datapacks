@@ -1,3 +1,4 @@
+# Made by: @Legopitstop
 # Desc: sets config to true
 #
 # Called By: item_frame:config

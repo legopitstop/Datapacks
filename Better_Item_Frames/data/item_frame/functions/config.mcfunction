@@ -1,3 +1,4 @@
+# Made by: @Legopitstop
 # Desc: Config, customize your datapack experiance using an in-game UI.
 #
 # Called By: Player

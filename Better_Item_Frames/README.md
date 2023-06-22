@@ -10,8 +10,8 @@ New item frame features!
 |--------------------|--------------|
 | supported          | `yes`        |
 | namespace          | `item_frame` |
-| pack_version       | `1.0.0`      |
-| mc_version         | `1.19`       |
+| pack_version       | `1.1.0`      |
+| mc_version         | `1.20.1`     |
 | multiplayer_tested | `no`         |
 | has_config         | `yes`        |
 
