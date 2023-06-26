@@ -9,7 +9,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{id:\"bandage:bandage\", CustomModelData:50}"
+                            "tag": "{id:\"bandage:bandage\", CustomModelData:440050, bandage: \"normal\"}"
                         },
                         {
                             "function": "minecraft:set_name",

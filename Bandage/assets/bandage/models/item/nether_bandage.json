@@ -1,6 +1,6 @@
 {
 	"parent": "bandage:item/template_bandage",
 	"textures": {
-		"bandage": "bandage:item/nether_bandage"
+		"bandage": "minecraft:item/nether_bandage"
 	}
 }

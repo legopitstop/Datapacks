@@ -10,8 +10,8 @@ Bandages to quickly heal yourself. Perfect for PVP or PVE!
 |--------------------|------------|
 | supported          | `yes`      |
 | namespace          | `bandages` |
-| pack_version       | `1.0.0`    |
-| mc_version         | `1.16.5`   |
+| pack_version       | `1.3.0`    |
+| mc_version         | `1.20`   |
 | multiplayer_tested | `no`       |
 | has_config         | `no`       |
 

@@ -1,6 +1,6 @@
 {
 	"parent": "bandage:item/template_bandage",
 	"textures": {
-		"bandage": "bandage:item/water_bandage"
+		"bandage": "minecraft:item/water_bandage"
 	}
 }

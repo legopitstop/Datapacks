@@ -5,6 +5,6 @@
 	},
 	"overrides": [
 
-		{ "predicate": {"custom_model_data": 50}, "model": "bandage:item/invisable"}
+		{ "predicate": {"custom_model_data": 440050}, "model": "bandage:item/invisable"}
 	]
 }

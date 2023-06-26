@@ -48,25 +48,25 @@
         },
         {
             "predicate": {
-                "custom_model_data": 50
+                "custom_model_data": 440050
             },
             "model": "bandage:item/bandage"
         },
         {
             "predicate": {
-                "custom_model_data": 51
+                "custom_model_data": 440051
             },
             "model": "bandage:item/nether_bandage"
         },
         {
             "predicate": {
-                "custom_model_data": 52
+                "custom_model_data": 440052
             },
             "model": "bandage:item/end_bandage"
         },
         {
             "predicate": {
-                "custom_model_data": 53
+                "custom_model_data": 440053
             },
             "model": "bandage:item/water_bandage"
         }

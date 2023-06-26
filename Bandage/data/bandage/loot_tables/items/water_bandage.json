@@ -9,7 +9,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{id:\"bandage:water_bandage\", CustomModelData:53}"
+                            "tag": "{id:\"bandage:water_bandage\", CustomModelData:440053, bandage: \"water\"}"
                         },
                         {
                             "function": "minecraft:set_name",

@@ -9,7 +9,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{id:\"bandage:end_bandage\", CustomModelData:52}"
+                            "tag": "{id:\"bandage:end_bandage\", CustomModelData:440052, bandage: \"end\"}"
                         },
                         {
                             "function": "minecraft:set_name",

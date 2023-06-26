@@ -1,6 +1,6 @@
 {
     "replace": false,
     "values": [
-        "bandage:main_tick"
+        "bandage:pre_tick"
     ]
 }

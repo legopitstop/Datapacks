@@ -1,0 +1,18 @@
+{
+    "display": {
+        "title": "Bandage",
+        "description": "Bandages to quickly heal yourself. Perfect for PVP or PVE!",
+        "icon": {
+            "item": "minecraft:bow",
+            "nbt": "{CustomModelData: 440050}"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "global:lps",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
