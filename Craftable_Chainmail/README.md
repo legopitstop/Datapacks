@@ -10,8 +10,8 @@ adds chainmail armor recipes for 1.16+
 |--------------------|-------------|
 | supported          | `yes`       |
 | namespace          | `chainmail` |
-| pack_version       | `1.0.0`     |
-| mc_version         | `1.16.5`    |
+| pack_version       | `1.1.0`     |
+| mc_version         | `1.20`    |
 | multiplayer_tested | `yes`       |
 | has_config         | `no`        |
 

@@ -1,6 +1,24 @@
 {
    "pack": {
-      "pack_format": 4,
-      "description": "Craftable Chainmail armor for 1.16+"
+      "pack_format": 15,
+      "version": [1, 1, 0],
+      "description": [
+          {
+              "text": "Craftable Chainmail armor!\n", 
+              "color":"gray"
+          },
+          {
+              "text": "Legopitstop", 
+              "color":"#e86608",
+              "underlined": "true"
+          }
+      ],
+      "metadata": {
+          "authors": [
+              "Legopitstop"
+          ],
+          "license": "https://legopitstop.weebly.com/legopitstops-common-license.html",
+          "url": "https://legopitstop.weebly.com/"
+      }
    }
 }

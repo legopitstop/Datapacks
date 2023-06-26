@@ -5,7 +5,11 @@
     "1.16": {
         "1.0.0": "Initial release."
     },
+    "1.20": {
+        "1.1.0": "## [1.1.0] - 6/26/2023\n### General\n- Updated for 1.20"
+    },
     "promos": {
-        "1.16-recommended": "1.0.0"
+        "1.16-recommended": "1.0.0",
+        "1.20-recommended": "1.1.0"
     }
 }
