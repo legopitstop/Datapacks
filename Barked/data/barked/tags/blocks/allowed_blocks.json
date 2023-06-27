@@ -4,21 +4,6 @@
         "minecraft:air",
         "minecraft:cave_air",
         "minecraft:void_air",
-        "minecraft:oak_log",
-        "minecraft:spruce_log",
-        "minecraft:birch_log",
-        "minecraft:jungle_log",
-        "minecraft:dark_oak_log",
-        "minecraft:acacia_log",
-        "minecraft:crimson_stem",
-        "minecraft:warped_stem",
-        "minecraft:oak_wood",
-        "minecraft:spruce_wood",
-        "minecraft:birch_wood",
-        "minecraft:jungle_wood",
-        "minecraft:dark_oak_wood",
-        "minecraft:acacia_wood",
-        "minecraft:crimson_hyphae",
-        "minecraft:warped_hyphae"
+        "#barked:strippable"
     ]
 }

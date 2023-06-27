@@ -6,15 +6,11 @@
             "bonus_rolls": 0,
             "entries": [
                 {
-                    "type": "minecraft:item",
-                    "name": "minecraft:stick"
+                    "type": "minecraft:loot_table",
+                    "name": "barked:items/crimson_stipe"
                 }
             ],
             "functions": [
-                {
-                    "function": "minecraft:set_nbt",
-                    "tag": "{id:\"barked:crimson_stipe\",CustomModelData:57,display:{Name:'{\"translate\":\"item.barked.crimson_stipe\",\"italic\":false}'}}"
-                },
                 {
                     "function": "minecraft:set_count",
                     "count": {

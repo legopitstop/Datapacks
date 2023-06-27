@@ -6,15 +6,11 @@
             "bonus_rolls": 0,
             "entries": [
                 {
-                    "type": "minecraft:item",
-                    "name": "minecraft:stick"
+                    "type": "minecraft:loot_table",
+                    "name": "barked:items/spruce_bark"
                 }
             ],
             "functions": [
-                {
-                    "function": "minecraft:set_nbt",
-                    "tag": "{id:\"barked:spruce_bark\",CustomModelData:52,display:{Name:'{\"translate\":\"item.barked.spruce_bark\",\"italic\":false}'}}"
-                },
                 {
                     "function": "minecraft:set_count",
                     "count": {

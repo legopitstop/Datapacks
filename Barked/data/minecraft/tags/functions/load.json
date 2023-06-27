@@ -1,7 +1,7 @@
 {
-   "replace": false,
-   "values": [
-       "legopitstop:barked_load",
-       "barked:main_load"
-   ]
+    "replace": false,
+    "values": [
+        "lps:170028",
+        "barked:main_load"
+    ]
 }

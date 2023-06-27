@@ -1,6 +1,6 @@
 {
     "replace": false,
     "values": [
-        "barked:main_tick"
+        "barked:pre_tick"
     ]
 }

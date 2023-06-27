@@ -6,51 +6,69 @@
 	"overrides": [
 		{
 			"predicate": {
-				"custom_model_data": 51
+				"custom_model_data": 440051
 			},
 			"model": "barked:item/oak_bark"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 52
+				"custom_model_data": 440052
 			},
 			"model": "barked:item/spruce_bark"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 53
+				"custom_model_data": 440053
 			},
 			"model": "barked:item/birch_bark"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 54
+				"custom_model_data": 440054
 			},
 			"model": "barked:item/jungle_bark"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 55
+				"custom_model_data": 440055
 			},
 			"model": "barked:item/dark_oak_bark"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 56
+				"custom_model_data": 440056
 			},
 			"model": "barked:item/acacia_bark"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 57
+				"custom_model_data": 440057
 			},
 			"model": "barked:item/crimson_stipe"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 58
+				"custom_model_data": 440058
 			},
 			"model": "barked:item/warped_stipe"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 440059
+			},
+			"model": "barked:item/mangrove_bark"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 440060
+			},
+			"model": "barked:item/cherry_bark"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 440061
+			},
+			"model": "barked:item/bamboo_sheath"
 		}
 	]
 }

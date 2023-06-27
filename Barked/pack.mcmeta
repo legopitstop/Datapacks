@@ -1,11 +1,7 @@
 {
     "pack": {
-        "pack_format": 7,
-        "version": [
-            1,
-            2,
-            0
-        ],
+        "pack_format": 15,
+        "version": [1, 3, 0],
         "description": [
             {
                 "text": "You get a bark item when stripping logs!\n",

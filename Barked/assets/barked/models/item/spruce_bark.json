@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "barked:item/spruce_bark"
+        "layer0": "minecraft:item/spruce_bark"
     }
 }

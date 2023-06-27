@@ -1,0 +1,20 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "bonus_rolls": 0,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:stick"
+                }
+            ],
+            "functions": [
+                {
+                    "function": "minecraft:set_nbt",
+                    "tag": "{id:\"barked:cherry_bark\",CustomModelData:440060,display:{Name:'{\"translate\":\"item.barked.cherry_bark\",\"italic\":false}'}}"
+                }
+            ]
+        }
+    ]
+}

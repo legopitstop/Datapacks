@@ -6,15 +6,11 @@
             "bonus_rolls": 0,
             "entries": [
                 {
-                    "type": "minecraft:item",
-                    "name": "minecraft:stick"
+                    "type": "minecraft:loot_table",
+                    "name": "barked:items/warped_stipe"
                 }
             ],
             "functions": [
-                {
-                    "function": "minecraft:set_nbt",
-                    "tag": "{id:\"barked:warped_stipe\",CustomModelData:58,display:{Name:'{\"translate\":\"item.barked.warped_stipe\",\"italic\":false}'}}"
-                },
                 {
                     "function": "minecraft:set_count",
                     "count": {

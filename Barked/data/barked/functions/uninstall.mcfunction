@@ -1,17 +1,16 @@
-# Desc: Uninstalls the datapack from the world
+# Made by: @Legopitstop
+# Desc: Uninstalls this datapack
 #
 # Called By: Player
 
-# Remove from registed datapacks
-data remove storage legopitstop:registered_datapacks datapacks.barked
-
-# Remove Scoreboards
-scoreboard objectives remove RaycastRange
-scoreboard objectives remove looking_at
-
 # Disable the datapack from the world
-datapack disable "file/barked [datapack] v1.0.0"
-datapack disable "file/barked [datapack] v1.0.0.zip"
+datapack disable "file/Barked [datapack] v1.3.0"
+datapack disable "file/Barked [datapack] v1.3.0.zip"
 
-# Uninstall Message
-tellraw @s [{"translate":"%s has been uninstalled","color":"red","with":[{"storage":"legopitstop:registered_datapacks","nbt":"datapacks.barked.pack.title","color":"yellow","hoverEvent": {"action":"show_text","value": {"storage":"legopitstop:registered_datapacks","nbt":"datapacks.barked.pack.description","color":"white"}}}]}]
+# Scoreboard(s)
+
+# Storage(s)
+
+# Tag(s)
+tag @a remove barkedLoad
+tag @a remove barkedTick

@@ -1,9 +1,14 @@
+# Made by: @Legopitstop
 # Desc: Setup for the datapack
 #
 # Called by: #minecraft:load
 
-# Cast range
-scoreboard objectives add RaycastRange dummy
+# Tag(s)
+tag @a add barkedLoad
+tag @a add barkedTick
 
-scoreboard objectives add looking_at dummy
-scoreboard players add @a looking_at 0
+# Scoreboard(s)
+scoreboard objectives add barked.RaycastRange dummy
+
+scoreboard objectives add barked.looking_at dummy
+scoreboard players add @a barked.looking_at 0
