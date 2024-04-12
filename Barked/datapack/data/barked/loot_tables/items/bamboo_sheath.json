@@ -1,0 +1,27 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:stick"
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:set_custom_data",
+          "tag": "{id:\"barked:bamboo_sheath\"}"
+        },
+        {
+          "function": "minecraft:set_components",
+          "components": {
+            "item_name": "{\"translate\": \"item.barked.bamboo_sheath\"}",
+            "custom_model_data": 440061
+          }
+        }
+      ]
+    }
+  ]
+}

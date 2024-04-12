@@ -1,0 +1,20 @@
+{
+  "display": {
+    "title": "Barked",
+    "description": "You get a bark item when stripping logs!",
+    "icon": {
+      "id": "minecraft:stick",
+      "components": {
+        "custom_model_data": 440061
+      }
+    },
+    "announce_to_chat": false,
+    "show_toast": false
+  },
+  "parent": "global:lps",
+  "criteria": {
+    "trigger": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

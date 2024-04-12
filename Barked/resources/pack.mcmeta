@@ -1,0 +1,26 @@
+{
+  "pack": {
+    "pack_format": 31,
+    "supported_formats": {
+      "min_inclusive": 31,
+      "max_inclusive": 31
+    },
+    "version": [1, 4, 0],
+    "description": [
+      {
+        "text": "You get a bark item when stripping logs!\n",
+        "color": "gray"
+      },
+      {
+        "text": "Legopitstop",
+        "color": "#e86608",
+        "underlined": true
+      }
+    ],
+    "metadata": {
+      "authors": ["Legopitstop"],
+      "license": "https://legopitstop.weebly.com/legopitstops-common-license.html",
+      "url": "https://legopitstop.weebly.com/"
+    }
+  }
+}
