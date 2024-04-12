@@ -1,13 +1,13 @@
 # [<](../README.md) Convert Traders
 
-![alt](pack.png)
+![alt](banner.png)
 
 Easily convert Wandering Traders to normal Villagers!
 
 ## Pack Data
 
 | Key                | Value    |
-|--------------------|----------|
+| ------------------ | -------- |
 | supported          | `yes`    |
 | namespace          | `trader` |
 | pack_version       | `1.2.0`  |
@@ -17,7 +17,7 @@ Easily convert Wandering Traders to normal Villagers!
 
 ## LINKS
 
--   [Download](https://www.curseforge.com/minecraft/customization/convert-traders-datapack-edition)
--   [Wiki Page](https://github.com/legopitstop/Datapacks/wiki)
--   [License](https://legopitstop.weebly.com/legopitstops-common-license-v2.html)
--   [Bug Report](https://github.com/legopitstop/Datapacks/issues)
+- [Download](https://www.curseforge.com/minecraft/customization/convert-traders-datapack-edition)
+- [Wiki Page](https://github.com/legopitstop/Datapacks/wiki)
+- [License](https://legopitstop.weebly.com/legopitstops-common-license-v2.html)
+- [Bug Report](https://github.com/legopitstop/Datapacks/issues)

@@ -1,13 +1,13 @@
 # [<](../README.md) Moveable Tiles
 
-![alt](pack.png)
+![alt](banner.png)
 
 Moveable Spawners, Chests, Barrels and More!
 
 ## Pack Data
 
 | Key                | Value      |
-|--------------------|------------|
+| ------------------ | ---------- |
 | supported          | `yes`      |
 | namespace          | `moveable` |
 | pack_version       | `beta `    |
@@ -17,7 +17,7 @@ Moveable Spawners, Chests, Barrels and More!
 
 ## LINKS
 
--   [Download](DOWNLOAD)
--   [Wiki Page](https://github.com/legopitstop/Datapacks/wiki/Moveable_Tiles)
--   [License](https://legopitstop.weebly.com/license.html)
--   [Bug Report](https://github.com/legopitstop/Datapacks/issues)
+- [Download](DOWNLOAD)
+- [Wiki Page](https://github.com/legopitstop/Datapacks/wiki/Moveable_Tiles)
+- [License](https://legopitstop.weebly.com/license.html)
+- [Bug Report](https://github.com/legopitstop/Datapacks/issues)

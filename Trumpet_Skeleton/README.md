@@ -1,13 +1,13 @@
 # [<](../README.md) Trumpet Skeleton
 
-![alt](pack.png)
+![alt](banner.png)
 
 Skeleton go toot toot!
 
 ## Pack Data
 
 | Key                | Value     |
-|--------------------|-----------|
+| ------------------ | --------- |
 | supported          | `yes`     |
 | namespace          | `trumpet` |
 | pack_version       | `1.0.0 `  |
@@ -17,7 +17,7 @@ Skeleton go toot toot!
 
 ## LINKS
 
--   [Download](https://www.curseforge.com/minecraft/customization/trumpet-skeleton-datapack-edition)
--   [Wiki Page](https://github.com/legopitstop/Datapacks/wiki/Trumpet_Skeleton)
--   [License](https://legopitstop.weebly.com/license.html)
--   [Bug Report](https://github.com/legopitstop/Datapacks/issues)
+- [Download](https://www.curseforge.com/minecraft/customization/trumpet-skeleton-datapack-edition)
+- [Wiki Page](https://github.com/legopitstop/Datapacks/wiki/Trumpet_Skeleton)
+- [License](https://legopitstop.weebly.com/license.html)
+- [Bug Report](https://github.com/legopitstop/Datapacks/issues)

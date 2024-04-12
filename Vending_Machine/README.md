@@ -7,7 +7,7 @@ adds a vending machine to Minecraft!
 ## Pack Data
 
 | Key                | Value                                                                            |
-|--------------------|----------------------------------------------------------------------------------|
+| ------------------ | -------------------------------------------------------------------------------- |
 | supported          | `yes`                                                                            |
 | namespace          | `vm`                                                                             |
 | pack_version       | `1.2.0`                                                                          |
@@ -18,7 +18,7 @@ adds a vending machine to Minecraft!
 
 ## LINKS
 
--   [Download](https://www.curseforge.com/minecraft/customization/vending-machine-datapack)
--   [Wiki Page](https://github.com/legopitstop/Datapacks/wiki)
--   [License](https://legopitstop.weebly.com/legopitstops-common-license-v2.html)
--   [Bug Report](https://github.com/legopitstop/Datapacks/issues)
+- [Download](https://www.curseforge.com/minecraft/customization/vending-machine-datapack)
+- [Wiki Page](https://github.com/legopitstop/Datapacks/wiki)
+- [License](https://legopitstop.weebly.com/legopitstops-common-license-v2.html)
+- [Bug Report](https://github.com/legopitstop/Datapacks/issues)

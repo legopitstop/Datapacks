@@ -7,7 +7,7 @@ This data pack adds 33+ flower pot colors to your world. These flower pots can b
 ## Pack Data
 
 | Key                | Value                                                                                                 |
-|--------------------|-------------------------------------------------------------------------------------------------------|
+| ------------------ | ----------------------------------------------------------------------------------------------------- |
 | supported          | `yes`                                                                                                 |
 | namespace          | `morepots`                                                                                            |
 | pack_version       | `1.0.0 `                                                                                              |
@@ -18,7 +18,7 @@ This data pack adds 33+ flower pot colors to your world. These flower pots can b
 
 ## LINKS
 
--   [Download](https://www.curseforge.com/minecraft/customization/more-flower-pots)
--   [Wiki Page](https://github.com/legopitstop/Datapacks/wiki/More_Flower_Pots)
--   [License](https://legopitstop.weebly.com/legopitstops-common-license-v2.html)
--   [Bug Report](https://github.com/legopitstop/Datapacks/issues)
+- [Download](https://www.curseforge.com/minecraft/customization/more-flower-pots)
+- [Wiki Page](https://github.com/legopitstop/Datapacks/wiki/More_Flower_Pots)
+- [License](https://legopitstop.weebly.com/legopitstops-common-license-v2.html)
+- [Bug Report](https://github.com/legopitstop/Datapacks/issues)

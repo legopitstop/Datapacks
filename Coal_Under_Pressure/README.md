@@ -1,13 +1,13 @@
 # [<](../README.md) Coal Under Pressure
 
-![alt](pack.png)
+![alt](banner.png)
 
 Now that's a lot of pressure!
 
 ## Pack Data
 
 | Key                | Value    |
-|--------------------|----------|
+| ------------------ | -------- |
 | supported          | `yes`    |
 | namespace          | `cup`    |
 | pack_version       | `1.0.1 ` |
@@ -17,7 +17,7 @@ Now that's a lot of pressure!
 
 ## LINKS
 
--   [Download](https://www.curseforge.com/minecraft/customization/coal-under-pressure)
--   [Wiki Page](https://github.com/legopitstop/Datapacks/wiki/TEMPLATE)
--   [License](https://legopitstop.weebly.com/license.html)
--   [Bug Report](https://github.com/legopitstop/Datapacks/issues)
+- [Download](https://www.curseforge.com/minecraft/customization/coal-under-pressure)
+- [Wiki Page](https://github.com/legopitstop/Datapacks/wiki/TEMPLATE)
+- [License](https://legopitstop.weebly.com/license.html)
+- [Bug Report](https://github.com/legopitstop/Datapacks/issues)

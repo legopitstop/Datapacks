@@ -1,13 +1,13 @@
 # [<](../README.md) More Honey
 
-![alt]
+![alt](banner.png)
 
 A food extension pack for Lot's More Food that focuses on honey related foods!
 
 ## Pack Data
 
 | Key                | Value             |
-|--------------------|-------------------|
+| ------------------ | ----------------- |
 | supported          | `yes`             |
 | namespace          | `morehoney`       |
 | pack_version       | `1.1.0 `          |
@@ -18,7 +18,7 @@ A food extension pack for Lot's More Food that focuses on honey related foods!
 
 ## LINKS
 
--   [Download](DOWNLOAD)
--   [Wiki Page](https://github.com/legopitstop/Datapacks/wiki/morehoney)
--   [License](https://legopitstop.weebly.com/license.html)
--   [Bug Report](https://github.com/legopitstop/Datapacks/issues)
+- [Download](DOWNLOAD)
+- [Wiki Page](https://github.com/legopitstop/Datapacks/wiki/morehoney)
+- [License](https://legopitstop.weebly.com/license.html)
+- [Bug Report](https://github.com/legopitstop/Datapacks/issues)

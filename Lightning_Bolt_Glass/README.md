@@ -1,13 +1,13 @@
 # [<](../README.md) Lightning Bolt Glass
 
-![alt](pack.png)
+![alt](banner.png)
 
 Whenever lightning hits sand it turns into a glass
 
 ## Pack Data
 
 | Key                | Value       |
-|--------------------|-------------|
+| ------------------ | ----------- |
 | supported          | `yes`       |
 | namespace          | `lightning` |
 | pack_version       | `1.0.0`     |
@@ -17,7 +17,7 @@ Whenever lightning hits sand it turns into a glass
 
 ## LINKS
 
--   [Download](https://www.curseforge.com/minecraft/customization/lightning-bolt-glass-datapack)
--   [Wiki Page](https://github.com/legopitstop/Datapacks/wiki)
--   [License](https://legopitstop.weebly.com/legopitstops-common-license-v2.html)
--   [Bug Report](https://github.com/legopitstop/Datapacks/issues)
+- [Download](https://www.curseforge.com/minecraft/customization/lightning-bolt-glass-datapack)
+- [Wiki Page](https://github.com/legopitstop/Datapacks/wiki)
+- [License](https://legopitstop.weebly.com/legopitstops-common-license-v2.html)
+- [Bug Report](https://github.com/legopitstop/Datapacks/issues)

@@ -7,7 +7,7 @@ Need more buckets? this datapack adds tons of buckets
 ## Pack Data
 
 | Key                | Value                                                                                                 |
-|--------------------|-------------------------------------------------------------------------------------------------------|
+| ------------------ | ----------------------------------------------------------------------------------------------------- |
 | supported          | `no`                                                                                                  |
 | namespace          | `morebucket`                                                                                          |
 | pack_version       | `1.0.0`                                                                                               |
@@ -18,7 +18,7 @@ Need more buckets? this datapack adds tons of buckets
 
 ## LINKS
 
--   [Download](https://www.curseforge.com/minecraft/customization/more-buckets-datapack)
--   [Wiki Page](https://github.com/legopitstop/Datapacks/wiki)
--   [License](https://legopitstop.weebly.com/legopitstops-common-license-v2.html)
--   [Bug Report](https://github.com/legopitstop/Datapacks/issues)
+- [Download](https://www.curseforge.com/minecraft/customization/more-buckets-datapack)
+- [Wiki Page](https://github.com/legopitstop/Datapacks/wiki)
+- [License](https://legopitstop.weebly.com/legopitstops-common-license-v2.html)
+- [Bug Report](https://github.com/legopitstop/Datapacks/issues)

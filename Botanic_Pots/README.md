@@ -1,19 +1,22 @@
 # [<](../README.md) Botanic Pots
-![alt](pack.png)
+
+![alt](banner.png)
 
 You can now place flowers in Decorated Pots!
+
 ## Pack Data
 
-| Key                | Value    |
-|--------------------|----------|
+| Key                | Value     |
+| ------------------ | --------- |
 | namespace          | `botanic` |
-| pack_version       | `1.0.2 ` |
-| mc_version         | `1.20` |
-| multiplayer_tested | `no`     |
-| has_config         | `no`     |
-| dependency         | `null`   |
+| pack_version       | `1.0.2 `  |
+| mc_version         | `1.20`    |
+| multiplayer_tested | `no`      |
+| has_config         | `no`      |
+| dependency         | `null`    |
 
 ## LINKS
+
 - [Download](https://curseforge.com/minecraft/customization/botanic-pots-datapack)
 - [Wiki Page](https://github.com/legopitstop/Datapacks/wiki/Botanic_Pots)
 - [License](https://legopitstop.weebly.com/license.html)
