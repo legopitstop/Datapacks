@@ -1,0 +1,30 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:bow",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_custom_data",
+                            "tag": "{id:\"bandage:bandage\", bandage:[{\"effect\":\"saturation\",\"duration\":2,\"amplifier\":1}, {\"effect\":\"regeneration\",\"duration\":2,\"amplifier\":1}]}"
+                        },
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "item_name": "{\"translate\":\"item.bandage.bandage\"}",
+                                "custom_model_data": 440050,
+                                "lore": [
+                                    "{\"translate\":\"item.bandage.bandage.desc\",\"color\":\"gray\",\"italic\":false}"
+                                ],
+                                "unbreakable": {"show_in_tooltip": false}
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
