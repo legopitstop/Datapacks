@@ -9,7 +9,7 @@
         }
     ],
     "result": {
-        "item": "minecraft:zoglin_spawn_egg",
+        "id": "minecraft:zoglin_spawn_egg",
         "count": 2
     },
     "group": "nether"

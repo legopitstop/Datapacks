@@ -9,7 +9,7 @@
         }
     ],
     "result": {
-        "item": "minecraft:zombie_villager_spawn_egg",
+        "id": "minecraft:zombie_villager_spawn_egg",
         "count": 2
     },
     "group": "hostile"

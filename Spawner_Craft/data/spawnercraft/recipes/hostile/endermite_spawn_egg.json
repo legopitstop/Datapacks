@@ -17,7 +17,7 @@
         }
     },
     "result": {
-        "item": "minecraft:endermite_spawn_egg",
+        "id": "minecraft:endermite_spawn_egg",
         "count": 1
     },
     "group": "hostile"

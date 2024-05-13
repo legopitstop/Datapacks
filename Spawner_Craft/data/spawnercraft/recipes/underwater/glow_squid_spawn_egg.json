@@ -20,7 +20,7 @@
         }
     },
     "result": {
-        "item": "minecraft:glow_squid_spawn_egg",
+        "id": "minecraft:glow_squid_spawn_egg",
         "count": 1
     },
     "group": "underwater"

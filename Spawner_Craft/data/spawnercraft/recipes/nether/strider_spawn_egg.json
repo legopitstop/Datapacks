@@ -20,7 +20,7 @@
         }
     },
     "result": {
-        "item": "minecraft:strider_spawn_egg",
+        "id": "minecraft:strider_spawn_egg",
         "count": 1
     },
     "group": "nether"

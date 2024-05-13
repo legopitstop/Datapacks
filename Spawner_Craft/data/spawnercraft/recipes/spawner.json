@@ -17,7 +17,7 @@
         }
     },
     "result": {
-        "item": "minecraft:spawner",
+        "id": "minecraft:spawner",
         "count": 1
     },
     "group": "spawnercraft"

@@ -20,7 +20,7 @@
         }
     },
     "result": {
-        "item": "minecraft:wandering_trader_spawn_egg",
+        "id": "minecraft:wandering_trader_spawn_egg",
         "count": 1
     },
     "group": "friendly"

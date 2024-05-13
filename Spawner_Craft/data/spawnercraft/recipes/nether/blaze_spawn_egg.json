@@ -20,7 +20,7 @@
         }
     },
     "result": {
-        "item": "minecraft:blaze_spawn_egg",
+        "id": "minecraft:blaze_spawn_egg",
         "count": 1
     },
     "group": "nether"

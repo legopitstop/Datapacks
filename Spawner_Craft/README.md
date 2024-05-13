@@ -10,8 +10,8 @@ Adds recipes for all the spawn eggs!
 | ------------------ | -------------- |
 | supported          | `yes`          |
 | namespace          | `spawnercraft` |
-| pack_version       | `1.13.0 `      |
-| mc_version         | `1.20`         |
+| pack_version       | `1.14.0 `      |
+| mc_version         | `1.20.5`       |
 | multiplayer_tested | `yes`          |
 | has_config         | `yes`          |
 
@@ -19,5 +19,5 @@ Adds recipes for all the spawn eggs!
 
 - [Download](https://www.curseforge.com/minecraft/customization/spawner-craft-datapack)
 - [Wiki Page](https://github.com/legopitstop/Datapacks/wiki/Spawner_Craft)
-- [License](https://legopitstop.weebly.com/license.html)
+- [License](https://license.lpsmods.dev)
 - [Bug Report](https://github.com/legopitstop/Datapacks/issues)

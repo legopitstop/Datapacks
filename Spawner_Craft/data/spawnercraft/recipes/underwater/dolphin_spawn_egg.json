@@ -20,7 +20,7 @@
         }
     },
     "result": {
-        "item": "minecraft:dolphin_spawn_egg",
+        "id": "minecraft:dolphin_spawn_egg",
         "count": 1
     },
     "group": "underwater"

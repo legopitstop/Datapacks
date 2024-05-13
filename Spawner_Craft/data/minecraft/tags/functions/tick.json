@@ -1,5 +1,4 @@
 {
-    "replace": false,
-    "values": [
-        "spawnercraft:main_tick"    ]
+  "replace": false,
+  "values": ["spawnercraft:main_tick"]
 }

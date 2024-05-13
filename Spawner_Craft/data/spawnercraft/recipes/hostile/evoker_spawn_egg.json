@@ -20,7 +20,7 @@
         }
     },
     "result": {
-        "item": "minecraft:evoker_spawn_egg",
+        "id": "minecraft:evoker_spawn_egg",
         "count": 1
     },
     "group": "hostile"

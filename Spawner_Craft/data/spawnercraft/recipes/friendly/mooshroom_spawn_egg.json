@@ -20,7 +20,7 @@
         }
     },
     "result": {
-        "item": "minecraft:mooshroom_spawn_egg",
+        "id": "minecraft:mooshroom_spawn_egg",
         "count": 1
     },
     "group": "friendly"

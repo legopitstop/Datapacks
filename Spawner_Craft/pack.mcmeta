@@ -1,24 +1,35 @@
 {
-    "pack": {
-        "pack_format": 15,
-        "version": [1, 13, 0],
-        "description": [
-            {
-                "text": "Adds recipes for all the spawn eggs!\n", 
-                "color":"gray"
-            },
-            {
-                "text": "Legopitstop", 
-                "color":"#e86608",
-                "underlined": true
-            }
-        ],
-        "metadata": {
-            "authors": [
-                "Legopitstop"
-            ],
-            "license": "https://legopitstop.weebly.com/legopitstops-common-license.html",
-            "url": "https://legopitstop.weebly.com/"
-        }
+  "pack": {
+    "pack_format": 27,
+    "supported_formats": { "min_inclusive": 27, "max_inclusive": 41 },
+    "version": [1, 14, 0],
+    "description": [
+      {
+        "text": "Adds recipes for all the spawn eggs!\n",
+        "color": "gray"
+      },
+      {
+        "text": "Legopitstop",
+        "color": "#e86608",
+        "underlined": true
+      }
+    ],
+    "metadata": {
+      "authors": ["Legopitstop"],
+      "license": "https://license.lpsmods.dev/",
+      "url": "https://lpsmods.dev/"
     }
- }
+  },
+  "overlays": {
+    "entries": [
+      {
+        "formats": { "min_inclusive": 15, "max_inclusive": 2147483647 },
+        "directory": "trails_and_tails"
+      },
+      {
+        "formats": { "min_inclusive": 27, "max_inclusive": 2147483647 },
+        "directory": "armored_paws"
+      }
+    ]
+  }
+}

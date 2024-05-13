@@ -9,7 +9,7 @@
         }
     ],
     "result": {
-        "item": "minecraft:mule_spawn_egg",
+        "id": "minecraft:mule_spawn_egg",
         "count": 2
     },
     "group": "friendly"

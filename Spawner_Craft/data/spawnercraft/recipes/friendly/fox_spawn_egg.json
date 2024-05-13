@@ -20,7 +20,7 @@
         }
     },
     "result": {
-        "item": "minecraft:fox_spawn_egg",
+        "id": "minecraft:fox_spawn_egg",
         "count": 1
     },
     "group": "friendly"
