@@ -20,5 +20,5 @@ A food extension pack for Lot's More Food that focuses on honey related foods!
 
 - [Download](DOWNLOAD)
 - [Wiki Page](https://github.com/legopitstop/Datapacks/wiki/morehoney)
-- [License](https://legopitstop.weebly.com/license.html)
+- [License](https://license.lpsmods.dev)
 - [Bug Report](https://github.com/legopitstop/Datapacks/issues)

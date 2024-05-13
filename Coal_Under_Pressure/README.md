@@ -19,5 +19,5 @@ Now that's a lot of pressure!
 
 - [Download](https://www.curseforge.com/minecraft/customization/coal-under-pressure)
 - [Wiki Page](https://github.com/legopitstop/Datapacks/wiki/TEMPLATE)
-- [License](https://legopitstop.weebly.com/license.html)
+- [License](https://license.lpsmods.dev)
 - [Bug Report](https://github.com/legopitstop/Datapacks/issues)

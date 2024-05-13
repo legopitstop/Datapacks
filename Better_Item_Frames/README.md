@@ -19,5 +19,5 @@ New item frame features!
 
 - [Download](https://www.curseforge.com/minecraft/customization/better-item-frames-datapack)
 - [Wiki Page](https://github.com/legopitstop/Datapacks/wiki/Better_Item_Frames)
-- [License](https://legopitstop.weebly.com/license.html)
+- [License](https://license.lpsmods.dev)
 - [Bug Report](https://github.com/legopitstop/Datapacks/issues)

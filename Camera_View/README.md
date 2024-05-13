@@ -19,5 +19,5 @@ Use a trigger command to go into spectator mode and go back to your spot!
 
 - [Download](https://www.planetminecraft.com/data-pack/camera-view-datapack-1-14/)
 - [Wiki Page](https://github.com/legopitstop/Datapacks/wiki/Camera_View)
-- [License](https://legopitstop.weebly.com/license.html)
+- [License](https://license.lpsmods.dev)
 - [Bug Report](https://github.com/legopitstop/Datapacks/issues)

@@ -19,5 +19,5 @@ Want to display your items to decorate your world? That's what this pack does.
 
 - [Download](https://www.curseforge.com/minecraft/customization/item-display-datapack)
 - [Wiki Page](https://github.com/legopitstop/Datapacks/wiki)
-- [License](https://legopitstop.weebly.com/legopitstops-common-license-v2.html)
+- [License](https://license.lpsmods.dev)
 - [Bug Report](https://github.com/legopitstop/Datapacks/issues)

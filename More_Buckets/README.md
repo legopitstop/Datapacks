@@ -20,5 +20,5 @@ Need more buckets? this datapack adds tons of buckets
 
 - [Download](https://www.curseforge.com/minecraft/customization/more-buckets-datapack)
 - [Wiki Page](https://github.com/legopitstop/Datapacks/wiki)
-- [License](https://legopitstop.weebly.com/legopitstops-common-license-v2.html)
+- [License](https://license.lpsmods.dev)
 - [Bug Report](https://github.com/legopitstop/Datapacks/issues)

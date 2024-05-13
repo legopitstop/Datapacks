@@ -1,8 +1,8 @@
 # Datapacks
 
 [![patreon](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Flegopitstop%2Fwebsite-files%2Fmain%2Fshields.io%2Fpatreon.json)](https://www.patreon.com/Legopitstop "Go to patreon")
-[![license](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Flegopitstop%2Fwebsite-files%2Fmain%2Fshields.io%2Flicense.json)](https://legopitstop.weebly.com/legopitstops-common-license-v2.html "Go to legopitstop.weebly.com")
-[![discord](https://img.shields.io/discord/479902284810027008)](https://legopitstop.weebly.com/discord.html "Go to legopitstop.weebly.com")
+[![license](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Flegopitstop%2Fwebsite-files%2Fmain%2Fshields.io%2Flicense.json)](https://license.lpsmods.dev)
+[![discord](https://img.shields.io/discord/479902284810027008)](https://discord.lpsmods.dev)
 [![github](https://img.shields.io/github/issues-raw/legopitstop/Datapacks)](https://github.com/legopitstop/Datapacks/issues "Go to Github")
 
 This Github is for all Legoptistop's datapacks. If you find an issue submit it

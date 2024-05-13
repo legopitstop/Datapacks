@@ -19,5 +19,5 @@ Moveable Spawners, Chests, Barrels and More!
 
 - [Download](DOWNLOAD)
 - [Wiki Page](https://github.com/legopitstop/Datapacks/wiki/Moveable_Tiles)
-- [License](https://legopitstop.weebly.com/license.html)
+- [License](https://license.lpsmods.dev)
 - [Bug Report](https://github.com/legopitstop/Datapacks/issues)

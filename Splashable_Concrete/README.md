@@ -19,5 +19,5 @@ Convert concrete powder to hardened concrete using water bottles and more!
 
 - [Download](https://www.curseforge.com/minecraft/customization/splash-able-concrete-datapack)
 - [Wiki Page](https://github.com/legopitstop/Datapacks/wiki)
-- [License](https://legopitstop.weebly.com/legopitstops-common-license-v2.html)
+- [License](https://license.lpsmods.dev)
 - [Bug Report](https://github.com/legopitstop/Datapacks/issues)

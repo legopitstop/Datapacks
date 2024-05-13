@@ -19,5 +19,5 @@ This datapack allows you to easily create a custom bossbar for server/map usage!
 
 - [Download](https://www.planetminecraft.com/mod/server-bossbar-1-13-2-datapack/)
 - [Wiki Page](https://github.com/legopitstop/Datapacks/wiki)
-- [License](https://legopitstop.weebly.com/legopitstops-common-license-v2.html)
+- [License](https://license.lpsmods.dev)
 - [Bug Report](https://github.com/legopitstop/Datapacks/issues)

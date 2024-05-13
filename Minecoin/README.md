@@ -19,5 +19,5 @@ Get FAKE minecoins to buy and trade!
 
 - [Download](https://www.curseforge.com/minecraft/customization/minecoin-datapack)
 - [Wiki Page](https://github.com/legopitstop/Datapacks/wiki)
-- [License](https://legopitstop.weebly.com/legopitstops-common-license-v2.html)
+- [License](https://license.lpsmods.dev)
 - [Bug Report](https://github.com/legopitstop/Datapacks/issues)

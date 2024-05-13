@@ -10,7 +10,7 @@
             {
                 "text": "Legopitstop", 
                 "color":"#e86608",
-                "underlined": "true"
+                "underlined": true
             }
         ]
     }
