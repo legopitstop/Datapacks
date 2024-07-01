@@ -1,0 +1,23 @@
+﻿{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" T ", "SES", " G "],
+  "key": {
+    "E": {
+      "tag": "spawnercraft:egg_items"
+    },
+    "G": {
+      "tag": "spawnercraft:cost_items"
+    },
+    "S": {
+      "item": "minecraft:end_stone"
+    },
+    "T": {
+      "item": "minecraft:ender_pearl"
+    }
+  },
+  "result": {
+    "id": "minecraft:enderman_spawn_egg",
+    "count": 1
+  },
+  "group": "hostile"
+}

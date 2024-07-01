@@ -1,0 +1,20 @@
+﻿{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["BBB", "BDB", "BOB"],
+  "key": {
+    "B": {
+      "tag": "spawnercraft:spawner/outside_items"
+    },
+    "O": {
+      "tag": "spawnercraft:spawner/bottom_items"
+    },
+    "D": {
+      "tag": "spawnercraft:spawner/cost_items"
+    }
+  },
+  "result": {
+    "id": "minecraft:spawner",
+    "count": 1
+  },
+  "group": "spawnercraft"
+}

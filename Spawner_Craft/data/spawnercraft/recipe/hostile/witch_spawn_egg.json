@@ -1,0 +1,26 @@
+﻿{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" B ", "RES", " G "],
+  "key": {
+    "E": {
+      "tag": "spawnercraft:egg_items"
+    },
+    "G": {
+      "tag": "spawnercraft:cost_items"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "S": {
+      "item": "minecraft:glowstone_dust"
+    },
+    "B": {
+      "item": "minecraft:glass_bottle"
+    }
+  },
+  "result": {
+    "id": "minecraft:witch_spawn_egg",
+    "count": 1
+  },
+  "group": "hostile"
+}

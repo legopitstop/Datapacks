@@ -1,0 +1,23 @@
+﻿{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" T ", "SES", " G "],
+  "key": {
+    "E": {
+      "tag": "spawnercraft:egg_items"
+    },
+    "G": {
+      "tag": "spawnercraft:cost_items"
+    },
+    "T": {
+      "tag": "minecraft:wool"
+    },
+    "S": {
+      "item": "minecraft:mutton"
+    }
+  },
+  "result": {
+    "id": "minecraft:sheep_spawn_egg",
+    "count": 1
+  },
+  "group": "friendly"
+}

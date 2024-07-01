@@ -1,0 +1,23 @@
+﻿{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" T ", "SES", " G "],
+  "key": {
+    "E": {
+      "item": "minecraft:villager_spawn_egg"
+    },
+    "G": {
+      "tag": "spawnercraft:cost_items"
+    },
+    "T": {
+      "item": "minecraft:emerald_block"
+    },
+    "S": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "result": {
+    "id": "minecraft:wandering_trader_spawn_egg",
+    "count": 1
+  },
+  "group": "friendly"
+}

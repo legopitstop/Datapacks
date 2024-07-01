@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" C ", "III", "EIG"],
+  "key": {
+    "E": {
+      "tag": "spawnercraft:egg_items"
+    },
+    "G": {
+      "tag": "spawnercraft:cost_items"
+    },
+    "C": {
+      "item": "minecraft:carved_pumpkin"
+    },
+    "I": {
+      "item": "minecraft:iron_block"
+    }
+  },
+  "result": {
+    "id": "minecraft:iron_golem_spawn_egg",
+    "count": 1
+  },
+  "group": "friendly"
+}

@@ -1,0 +1,26 @@
+﻿{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" T ", "SEC", " G "],
+  "key": {
+    "E": {
+      "tag": "spawnercraft:egg_items"
+    },
+    "G": {
+      "tag": "spawnercraft:cost_items"
+    },
+    "T": {
+      "item": "minecraft:bone"
+    },
+    "S": {
+      "item": "minecraft:beef"
+    },
+    "C": {
+      "item": "minecraft:chicken"
+    }
+  },
+  "result": {
+    "id": "minecraft:wolf_spawn_egg",
+    "count": 1
+  },
+  "group": "friendly"
+}

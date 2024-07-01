@@ -1,0 +1,23 @@
+﻿{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" T ", "SES", " G "],
+  "key": {
+    "E": {
+      "tag": "spawnercraft:egg_items"
+    },
+    "G": {
+      "tag": "spawnercraft:cost_items"
+    },
+    "T": {
+      "item": "minecraft:carrot_on_a_stick"
+    },
+    "S": {
+      "item": "minecraft:porkchop"
+    }
+  },
+  "result": {
+    "id": "minecraft:pig_spawn_egg",
+    "count": 1
+  },
+  "group": "friendly"
+}

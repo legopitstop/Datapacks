@@ -1,0 +1,23 @@
+﻿{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" T ", "SES", " G "],
+  "key": {
+    "E": {
+      "tag": "spawnercraft:egg_items"
+    },
+    "G": {
+      "tag": "spawnercraft:cost_items"
+    },
+    "T": {
+      "item": "minecraft:rabbit_hide"
+    },
+    "S": {
+      "item": "minecraft:rabbit"
+    }
+  },
+  "result": {
+    "id": "minecraft:rabbit_spawn_egg",
+    "count": 1
+  },
+  "group": "friendly"
+}

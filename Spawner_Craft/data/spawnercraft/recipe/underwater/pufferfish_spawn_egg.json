@@ -1,0 +1,23 @@
+﻿{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" T ", "BEB", " G "],
+  "key": {
+    "E": {
+      "tag": "spawnercraft:egg_items"
+    },
+    "G": {
+      "tag": "spawnercraft:cost_items"
+    },
+    "B": {
+      "item": "minecraft:water_bucket"
+    },
+    "T": {
+      "item": "minecraft:pufferfish"
+    }
+  },
+  "result": {
+    "id": "minecraft:pufferfish_spawn_egg",
+    "count": 1
+  },
+  "group": "underwater"
+}

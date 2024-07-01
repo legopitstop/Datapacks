@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" T ", "BER", " G "],
+  "key": {
+    "E": {
+      "tag": "spawnercraft:egg_items"
+    },
+    "G": {
+      "tag": "spawnercraft:cost_items"
+    },
+    "B": {
+      "item": "minecraft:brown_mushroom"
+    },
+    "R": {
+      "item": "minecraft:red_mushroom"
+    },
+    "T": {
+      "item": "minecraft:tipped_arrow"
+    }
+  },
+  "result": {
+    "id": "minecraft:bogged_spawn_egg",
+    "count": 1
+  },
+  "group": "hostile"
+}
