@@ -3,10 +3,6 @@
 #
 # Called by: #minecraft:load
 
-# Tag(s)
-tag @a add barkedLoad
-tag @a add barkedTick
-
 # Scoreboard(s)
 scoreboard objectives add barked.RaycastRange dummy
 

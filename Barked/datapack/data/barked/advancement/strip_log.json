@@ -24,6 +24,6 @@
     }
   },
   "rewards": {
-    "function": "barked:data/stripped_log"
+    "function": "barked:private/stripped_log"
   }
 }
