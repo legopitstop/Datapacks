@@ -9,9 +9,9 @@ Bandages to quickly heal yourself. Perfect for PVP or PVE!
 | Key                | Value      |
 | ------------------ | ---------- |
 | supported          | `yes`      |
-| namespace          | `bandages` |
-| pack_version       | `1.4.0`    |
-| mc_version         | `1.20.5`   |
+| namespace          | `bandage` |
+| pack_version       | `1.5.0`    |
+| mc_version         | `1.21`   |
 | multiplayer_tested | `no`       |
 | has_config         | `no`       |
 

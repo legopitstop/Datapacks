@@ -1,3 +1,4 @@
+# Made by: @Legopitstop
 # Desc: Bandage tick
 #
 # Called By: bandage:main_tick

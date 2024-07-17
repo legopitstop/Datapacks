@@ -1,3 +1,4 @@
+# Made by: @Legopitstop
 # Desc: The clean up after using the bandage
 #
 # Called By: bandage:main_tick
@@ -10,4 +11,3 @@ kill @e[type=arrow,distance=..3,sort=nearest]
 
 # reset score
 scoreboard players set @s bandage.UsedBow 0
-
