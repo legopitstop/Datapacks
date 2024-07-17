@@ -10,8 +10,8 @@ Adds recipes for all the spawn eggs!
 | ------------------ | -------------- |
 | supported          | `yes`          |
 | namespace          | `spawnercraft` |
-| pack_version       | `1.14.0 `      |
-| mc_version         | `1.20.5`       |
+| pack_version       | `1.15.0 `      |
+| mc_version         | `1.21`       |
 | multiplayer_tested | `yes`          |
 | has_config         | `yes`          |
 
