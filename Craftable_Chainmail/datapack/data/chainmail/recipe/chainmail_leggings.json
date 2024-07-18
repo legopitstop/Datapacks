@@ -1,0 +1,10 @@
+﻿{
+  "type": "crafting_shaped",
+  "pattern": ["###", "# #", "# #"],
+  "key": {
+    "#": {
+      "item": "minecraft:chain"
+    }
+  },
+  "result": { "id": "minecraft:chainmail_leggings" }
+}
