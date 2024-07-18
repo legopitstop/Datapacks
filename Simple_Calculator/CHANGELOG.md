@@ -1,5 +1,7 @@
 # CHANGELOG v1.3.0
+
 ## General
+
 - Completely rewrote pack, new fresh code
 - Now uses a custom item
 - Diffrent system all together, Greatly decreased file size. (was 203KB, now 13KB)
