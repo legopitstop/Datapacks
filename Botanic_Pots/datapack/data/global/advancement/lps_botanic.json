@@ -1,0 +1,17 @@
+{
+  "display": {
+    "title": "Botanic Pots",
+    "description": "You can now place flowers in Decorated Pots!",
+    "icon": {
+      "id": "minecraft:decorated_pot"
+    },
+    "announce_to_chat": false,
+    "show_toast": false
+  },
+  "parent": "global:lps",
+  "criteria": {
+    "trigger": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}
