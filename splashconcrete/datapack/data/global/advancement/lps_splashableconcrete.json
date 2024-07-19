@@ -1,0 +1,17 @@
+{
+  "display": {
+    "title": "Splashable Concrete",
+    "description": "Splashable Concrete?",
+    "icon": {
+      "id": "minecraft:gray_concrete_powder"
+    },
+    "announce_to_chat": false,
+    "show_toast": false
+  },
+  "parent": "global:lps",
+  "criteria": {
+    "trigger": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

@@ -10,8 +10,8 @@ Convert concrete powder to hardened concrete using water bottles and more!
 | ------------------ | ---------------- |
 | supported          | `yes`            |
 | namespace          | `splashconcrete` |
-| pack_version       | `1.0.0`          |
-| mc_version         | `1.16.5`         |
+| pack_version       | `1.2.0`          |
+| mc_version         | `1.21`           |
 | multiplayer_tested | `no`             |
 | has_config         | `no`             |
 
