@@ -1,0 +1,22 @@
+{
+  "pack": {
+    "pack_format": 48,
+    "version": [1, 3, 0],
+    "description": [
+      {
+        "text": "Convert wandering traders to regular traders!\n",
+        "color": "gray"
+      },
+      {
+        "text": "Legopitstop",
+        "color": "#e86608",
+        "underlined": true
+      }
+    ],
+    "metadata": {
+      "authors": ["Legopitstop"],
+      "license": "https://license.lpsmods.dev",
+      "url": "https://lpsmods.dev"
+    }
+  }
+}

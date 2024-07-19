@@ -1,0 +1,10 @@
+[
+  {
+    "function": "minecraft:set_count",
+    "count": {
+      "type": "score",
+      "score": "EmeraldCount",
+      "target": "this"
+    }
+  }
+]

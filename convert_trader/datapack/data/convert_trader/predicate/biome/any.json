@@ -1,0 +1,33 @@
+{
+  "condition": "minecraft:any_of",
+  "terms": [
+    {
+      "condition": "minecraft:reference",
+      "name": "convert_trader:biome/desert"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "convert_trader:biome/jungle"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "convert_trader:biome/plains"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "convert_trader:biome/savanna"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "convert_trader:biome/snow"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "convert_trader:biome/swamp"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "convert_trader:biome/taiga"
+    }
+  ]
+}
