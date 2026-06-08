@@ -17,7 +17,7 @@ Get a bark item when you strip logs, wood, stem, or hyphae blocks.
 
 ## LINKS
 
-- [Download](https://www.curseforge.com/minecraft/customization/barked-datapack-edition)
-- [Wiki Page](https://github.com/legopitstop/Datapacks/wiki)
+- [Download](https://www.curseforge.com/minecraft/customization/barked-datapack)
+- [Wiki Page](https://docs.lpsmods.dev/barked)
 - [License](https://license.lpsmods.dev)
-- [Bug Report](https://github.com/legopitstop/Datapacks/issues)
+- [Bug Report](https://github.com/lpsmods/barked/issues)
